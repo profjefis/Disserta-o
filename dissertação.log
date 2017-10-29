@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2017.10.22)  29 OCT 2017 10:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2017.10.22)  29 OCT 2017 10:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -693,11 +693,6 @@ Package hyperref Info: Anchor `page.iv' on input line 122.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 126.
 Package hyperref Info: Anchor `dedication.0' on input line 126.
-
-Underfull \hbox (badness 4660) in paragraph at lines 127--128
-[]\T1/aer/m/n/12 Aos ami-gos da Gra-du-a-Á„o e PÛs-
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 128.
 Package babel Info: Redefining portuges shorthand "|
@@ -1426,7 +1421,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 231.
 Here is how much of TeX's memory you used:
  10467 strings out of 494911
  153240 string characters out of 6180069
- 261131 words of memory out of 5000000
+ 261132 words of memory out of 5000000
  13319 multiletter control sequences out of 15000+600000
  64182 words of font info for 123 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
@@ -1448,7 +1443,7 @@ texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on disserta√ß√£o.pdf (28 pages, 507013 bytes).
+Output written on disserta√ß√£o.pdf (28 pages, 506816 bytes).
 PDF statistics:
  503 PDF objects out of 1000 (max. 8388607)
  440 compressed objects within 5 object streams
