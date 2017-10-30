@@ -457,7 +457,7 @@
 
 	\begin{figure}[t]
 		\centering
-		\includegraphics[width=0.9\linewidth]{Cap0/Logo}
+		\includegraphics[width=0.9\linewidth]{Elementos_Pre_Textuais/Logo}
 		\label{fig:logodissertacao}
 	\end{figure}
    %\begin{spacing}{1.2}
@@ -528,7 +528,7 @@
 
 	\begin{figure}[t]
 		\centering
-		\includegraphics[width=0.9\linewidth]{Cap0/Logo}
+		\includegraphics[width=0.9\linewidth]{Elementos_Pre_Textuais/Logo}
 		\label{fig:logodissertacao}
 	\end{figure}
    %\begin{spacing}{1.2}
@@ -606,7 +606,7 @@
 
   \vspace*{\stretch{2}}
 
-  \includegraphics[width=0.5\textwidth]{Cap0/ita_logo}
+  \includegraphics[width=0.5\textwidth]{Elementos_Pre_Textuais/ita_logo}
 
 	\vspace*{\stretch{2}}
 
