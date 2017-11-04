@@ -49,7 +49,21 @@
 \usepackage{subfig}
 \usepackage{multirow}
 \usepackage{float}
+\usepackage{lmodern}
+\usepackage{lmodern}
 \usepackage{setspace}
+\usepackage{chngcntr}
+\usepackage{trivfloat,graphicx,caption}
+% ---
+\DeclareCaptionType{quadro}
+\floatstyle{plaintop}
+\restylefloat{quadro}
+\trivfloat{quadro}
+
+\renewcommand{\quadroname}{\MakeUppercase{quadro}}
+\renewcommand{\listquadroname}{Lista de Quadros} % Forçar texto na
+
+% Forçar texto na Lista de Quadros
 %\usepackage{natbib}
 %\usepackage[alf]{abntex2cite}
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -114,7 +128,13 @@
 
 % Glossario
 \makeglossary
+
+
+
+
 \frontmatter
+
+
 
 \begin{document}
 
@@ -171,6 +191,9 @@ it is because I stood on the shoulders of giants.''\\}
 % Lista de simbolos
 \listofsymbols
 \input{Elementos_Pre_Textuais/listasimbolos} %opcional
+
+\renewcommand\numberline[1]{\MakeUppercase{quadro #1} - }
+\listofquadros
 
 % Sumario
 \tableofcontents

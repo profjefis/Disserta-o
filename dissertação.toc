@@ -16,7 +16,7 @@
 \contentsline {subsection}{\numberline {2.3.1}David Ausubel - Aprendizagem Significativa}{7}{subsection.2.3.1}
 \contentsline {subsection}{\numberline {2.3.2}Marc Prensk - Aprendizagem Baseada em Jogos Digitais}{7}{subsection.2.3.2}
 \contentsline {chapter}{\numberline {3}Descri\c c\~ao do Produto Educacional}{8}{chapter.3}
-\contentsline {section}{\numberline {3.1}A Sequ\^encia Did\'atica}{8}{section.3.1}
+\contentsline {section}{\numberline {3.1}A Sequ\~A\IeC {\textordfeminine }ncia Did\~A\IeC {\textexclamdown }tica}{8}{section.3.1}
 \contentsline {section}{\numberline {3.2}O Jogo Digital}{8}{section.3.2}
 \contentsline {chapter}{\numberline {4}Aplica\c c\~ao do Produto Educacional}{9}{chapter.4}
 \contentsline {section}{\numberline {4.1}Metodologia}{9}{section.4.1}

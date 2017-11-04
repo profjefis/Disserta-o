@@ -950,22 +950,38 @@
 % Lista de tabelas...
 \renewcommand\listoftables{%
     %\begin{spacing}{1.5}   %ita
-    \if@twocolumn
-      \@restonecoltrue\onecolumn
-    \else
-      \@restonecolfalse
-    \fi
+
     \chapter*{\listtablename
       \@mkboth{\MakeUppercase{\listtablename}}%
                {\MakeUppercase{\listtablename}}}     % Thanks to Reinaldo Fortes
 %    \addcontentsline{toc}{chapter}{\listtablename}   % Thanks do D.Farfan
 		\pdfbookmark[0]{\listtablename}{listatabelas}
     \@starttoc{lot}%
-    \if@restonecol\twocolumn\fi
+  
     %\end{spacing}   %ita
     }
 
-% Redefinicao do Sum�rio...
+% Quadro
+
+%\RequirePackage{lmodern}
+
+%\RequirePackage{chngcntr}
+%\RequirePackage{trivfloat}
+%\RequirePackage{amsmath}
+%\trivfloat{quadro}
+%\numberwithin{figure}{chapter}
+
+
+%\floatstyle{plaintop} % Forçar posição da legenda para o topo
+%\restylefloat{quadro} % Forçar posição da legenda para o topo
+
+%\renewcommand{\quadroname}{\MakeUppercase{quadro}}
+%\renewcommand{\listquadroname}{Lista de Quadros} % Forçar texto na
+
+
+% Novo list of (listings) para QUADROS
+
+
 \renewcommand\tableofcontents{%
     %\begin{spacing}{1.5}   %ita
     \if@twocolumn
@@ -1539,3 +1555,5 @@
 	\end{singlespace}%
 	\endlist}%
 % ---
+
+

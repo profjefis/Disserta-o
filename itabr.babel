@@ -81,6 +81,7 @@
 \gdef\namecover{Capa}
 \gdef\listofabbreviationsname{Lista de Abreviaturas e Siglas}
 \gdef\listofsymbolsname{Lista de S{\'\i}mbolos}
+%\gdef\listquadroname{Lista de Quadros}
 \gdef\nameepigraphe{Ep{\'\i}grafe}
 \gdef\namededicatory{Dedicat{\'o}ria}
 \gdef\nameacknowledgment{Agradecimentos}
