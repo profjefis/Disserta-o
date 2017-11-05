@@ -1,7 +1,7 @@
 %==============================================================================
-% This is the ITA LateX class - classe de documento com padrï¿½es do ITA
+% This is the ITA LateX class - classe de documento com padr?es do ITA
 % written by
-%              Fï¿½bio Fagundes Silveira   -  ffs [at] ita [dot] br
+%              F?bio Fagundes Silveira   -  ffs [at] ita [dot] br
 %
 %              Benedito C. O. Maciel     -  bcmaciel [at] ita [dot] br
 %              Giovani Volnei Meinertz   -  giovani [at] ita [dot] br
@@ -38,10 +38,10 @@
 
 %==============================================================================
 \NeedsTeXFormat{LaTeX2e}[1995/12/01]
-\ProvidesClass{ita}[2006/03/10 v2.0 Classe de documento com padrï¿½es do ITA]
+\ProvidesClass{ita}[2006/03/10 v2.0 Classe de documento com padr?es do ITA]
 
 % % --------------------------------------------------------------------
-% %  Verificaï¿½ï¿½o se alvo serï¿½ gerado pelo PDFLaTeX ou nï¿½o
+% %  Verifica??o se alvo ser? gerado pelo PDFLaTeX ou n?o
 % % --------------------------------------------------------------------
 \IfFileExists{ifpdf.sty}{\RequirePackage{ifpdf}}{\newif\ifpdf}
 %\newif\ifpdf
@@ -58,7 +58,7 @@
 \DeclareOption{defaults}{
   \input{defaults.def}
 }
-% Graduaï¿½ï¿½o (TG)
+% Gradua??o (TG)
 \DeclareOption{tg}{
   \input{tg.def}
 }
@@ -106,7 +106,7 @@
 }
 
 %==============================================================================
-%%% dv: 'draft version': imprime ï¿½Versao Preliminarï¿½ + data da impressao
+%%% dv: 'draft version': imprime ?Versao Preliminar? + data da impressao
 %==============================================================================
 \newif\if@dv
 \DeclareOption{dv}{
@@ -123,7 +123,8 @@
 %==============================================================================
 %%% Heranca e Pacotes ...
 %==============================================================================
-\LoadClass[12pt,a4paper,oneside]{book}
+\LoadClass[12pt,a4paper,oneside]{book}% configurações para atender às regras da ABNT
+
 \RequirePackage{calc}
 \RequirePackage{ifthen}
 
@@ -153,15 +154,15 @@
 \RequirePackage{tabularx}
 
 %==============================================================================
-%%% Glossï¿½rio
+%%% Gloss?rio
 \usepackage{makeglo}
 \renewcommand{\glossmaxlabelwidth}{\hspace{3cm}}
 
 %% opcoes de cores
 %% linkcolor=blue,citecolor=gray,urlcolor=cyan
 \RequirePackage{color}        %% aplicar cores no texto
-\RequirePackage{hyphenat}     %% hifenizaï¿½ï¿½o
-\RequirePackage{makeidx}      %% ï¿½NDICE
+\RequirePackage{hyphenat}     %% hifeniza??o
+\RequirePackage{makeidx}      %% ?NDICE
 
 %==============================================================================
 %%% Hyperref
@@ -196,7 +197,7 @@
 %\RequirePackage{natbib}
 %\RequirePackage[alf]{abntex2cite}
 %==============================================================================
-% ALTERAR TAMANHO DA FONTE DOS Tï¿½TULOS
+% ALTERAR TAMANHO DA FONTE DOS T?TULOS
 %\RequirePackage{titlesec} %alterar tamanho da fonte
 %\titleformat{\section}
 % {\large\bfseries}{\thesection}{0.5em}{}
@@ -208,7 +209,7 @@
 % {\normalsize\bfseries}{\theparagraph}{0.5em}{}	
 
 %==============================================================================
-% Redefiniï¿½ï¿½o da data (para ter dia, mï¿½s e ano separados)
+% Redefini??o da data (para ter dia, m?s e ano separados)
 %==============================================================================
 \renewcommand{\date}[3]{
         \gdef\@publday{#1}
@@ -258,14 +259,14 @@
   \renewcommand{\itabossword}{#1}
   \gdef\@boss {#2~#3 \\ #1}
 }
-% Coordenador do respectivo curso de graduaï¿½ï¿½o...
+% Coordenador do respectivo curso de gradua??o...
 \newcommand{\bosscourse}[3][\itabosscoursewordbabel]{      %[word] ,title, name
   \renewcommand{\itabosscoursename}{#3}
   \renewcommand{\itabosscoursetitle}{#2}
   \renewcommand{\itabosscourseword}{#1}
   \gdef\@bosscourse {#2~#3 \\ #1}
 }
-% Curso de Graduaï¿½ï¿½o/Programa de Pï¿½s-Graduaï¿½ï¿½o...
+% Curso de Gradua??o/Programa de P?s-Gradua??o...
 \newcommand{\course}[1]{
   \renewcommand{\itaworkcourse}{#1}
 }
@@ -273,7 +274,7 @@
 \newcommand{\area}[1]{
   \renewcommand{\itaworkarea}{#1}
 }
-% Nï¿½mero de CDU...
+% N?mero de CDU...
 \newcommand{\cdu}[1]{
   \renewcommand{\cdunumber}{#1}
 }
@@ -289,7 +290,7 @@
 \newcommand{\coadvisorgender}[1]{
    \renewcommand{\coadvisorgendermf}{#1}
 }
-% Sexo do Prï¿½-reitor da Pï¿½s-graduaï¿½ï¿½o...
+% Sexo do Pr?-reitor da P?s-gradua??o...
 \newcommand{\bossgender}[1]{
   \renewcommand{\bossgendermf}{#1}
 }
@@ -333,9 +334,9 @@
    \noindent
    \center
    \begin{spacing}{1.5}
-      {\Large \itanametitlequalibabel } \\        %  ITA -- \textsc{Instituto Tecnolï¿½gico de Aeronï¿½utica}} \\
-      {\Large \itaposnametitlequalibabel } \\     %  \textsc{Pï¿½s-Graduaï¿½ï¿½o em \itaworkcourse}} \\
-      {\large \itaarenametitlequalibabel }        %  \textsc{ï¿½rea de \itaworkarea}}
+      {\Large \itanametitlequalibabel } \\        %  ITA -- \textsc{Instituto Tecnol?gico de Aeron?utica}} \\
+      {\Large \itaposnametitlequalibabel } \\     %  \textsc{P?s-Gradua??o em \itaworkcourse}} \\
+      {\large \itaarenametitlequalibabel }        %  \textsc{?rea de \itaworkarea}}
     \end{spacing}
 
     \vfill
@@ -387,15 +388,15 @@
 }
 
 %==============================================================================
-% Folha de Rosto do Trabalho de Graduaï¿½ï¿½o
+% Folha de Rosto do Trabalho de Gradua??o
 %==============================================================================
 \newcommand{\thetgtitlepage}{%
 
    \newpage%
-	 \thispagestyle{empty}  %suprime o cabeï¿½alho e numeraï¿½ï¿½o da pï¿½gina
+	 \thispagestyle{empty}  %suprime o cabe?alho e numera??o da p?gina
    \noindent
 
-	 \begin{flushright}% Nï¿½mero de CDU
+	 \begin{flushright}% N?mero de CDU
    \MakeUppercase{\footnotesize CDU \cdunumber}
 	 \end{flushright}
 
@@ -657,7 +658,7 @@
         \vfill
 
 }
-% definiï¿½ï¿½o do quadro
+% defini??o do quadro
 \def\@cipwindow{%
         \framebox[\textwidth]{%
         \begin{minipage}{\textwidth - 10mm}%
@@ -843,7 +844,7 @@
 }
 
 %==============================================================================
-%%% Dedicatï¿½ria...
+%%% Dedicat?ria...
 %==============================================================================
 \newenvironment{itadedication}
 {\thispagestyle{empty}%
@@ -858,7 +859,7 @@
 %==============================================================================
 %%% Agradecimentos...
 %==============================================================================
-%%alterado em 09/01/2015: retirado o alinhamento do texto ï¿½ direta 
+%%alterado em 09/01/2015: retirado o alinhamento do texto ? direta 
 %\newenvironment{itathanks}[1][\nameacknowledgment]
 %{
 % \chapter*{#1}
@@ -962,6 +963,58 @@
     }
 
 % Quadro
+%\RequirePackage{tocloft}
+
+
+
+%\RequirePackage{tocstyle}
+\RequirePackage{amsmath}
+\RequirePackage{trivfloat,graphicx,caption}
+\RequirePackage{chngcntr}
+
+% Lista de Quadros...
+
+\DeclareCaptionType{quadro}
+\floatstyle{plaintop}
+\restylefloat{quadro}
+\trivfloat{quadro}
+
+\renewcommand{\quadroname}{\MakeUppercase{quadro}}
+\renewcommand{\listquadroname}{Lista de Quadros} 
+
+
+% Lista de Gráficos...
+
+\DeclareCaptionType{grafico}
+\floatstyle{plaintop}
+\restylefloat{grafico}
+\trivfloat{grafico}
+\renewcommand{\graficoname}{\MakeUppercase{gráfico}}
+\renewcommand{\listgraficoname}{Lista de Gráficos} 
+
+% Lista de Fotografias...
+
+\DeclareCaptionType{fotografia}
+\floatstyle{plaintop}
+\restylefloat{fotografia}
+\trivfloat{fotografia}
+\renewcommand{\fotografianame}{\MakeUppercase{fotografia}}
+\renewcommand{\listfotografianame}{Lista de Fotografias} 
+
+
+
+%\renewcommand{\thequadro}[1]{\numberline \quadroname #1}
+%\renewcommand{\thequadro}{\thechapter.\Alph{quadro}}
+%\numberwithin{quadro}{chapter}
+%\settocfeature[qd][1]{entryhook}{\quadroname\hspace{0.2em}}
+%\renewcommand{\thequadro}[1]{\protect\numberline{\quadroname#1}}
+
+
+
+
+
+
+%\numberwithin{figure}{chapter}
 
 %\RequirePackage{lmodern}
 
@@ -972,11 +1025,11 @@
 %\numberwithin{figure}{chapter}
 
 
-%\floatstyle{plaintop} % ForÃ§ar posiÃ§Ã£o da legenda para o topo
-%\restylefloat{quadro} % ForÃ§ar posiÃ§Ã£o da legenda para o topo
+%\floatstyle{plaintop} % Forçar posição da legenda para o topo
+%\restylefloat{quadro} % Forçar posição da legenda para o topo
 
 %\renewcommand{\quadroname}{\MakeUppercase{quadro}}
-%\renewcommand{\listquadroname}{Lista de Quadros} % ForÃ§ar texto na
+%\renewcommand{\listquadroname}{Lista de Quadros} % Forçar texto na
 
 
 % Novo list of (listings) para QUADROS
@@ -998,7 +1051,7 @@
     %\end{spacing}   %ita
     }
 
-% Lista de Sï¿½mbolos...
+% Lista de S?mbolos...
 \newcommand\listofsymbols{%
     %\begin{spacing}{1.5}   %ita
     \if@twocolumn
@@ -1082,7 +1135,7 @@
 }
 
 %==============================================================================
-%%% Cabecalhos e Rodapï¿½s
+%%% Cabecalhos e Rodap?s
 %==============================================================================
 \pagestyle{fancy}
 \lhead{\leftmark}
@@ -1176,7 +1229,7 @@
 }
 
 %==============================================================================
-% Definiï¿½ï¿½o das palavras-chave para CIP (informado pela Biblioteca)
+% Defini??o das palavras-chave para CIP (informado pela Biblioteca)
 %==============================================================================
 \newcounter{kwcipcounter}
 \newcommand{\kwcip}[1]{
@@ -1198,7 +1251,7 @@
 
 %==============================================================================
 %%% Hack: Centralizando \chapter*
-%%% \@makeschapterhead ï¿½ chamado por \chapter*
+%%% \@makeschapterhead ? chamado por \chapter*
 %==============================================================================
 \def\@makeschapterhead#1{%
   \vspace*{50\p@}%
@@ -1210,7 +1263,7 @@
   }}
 
 %==============================================================================
-%%% Redefinicao do comando \appendix para mostrar 'Apï¿½ndice' ou 'Anexo'
+%%% Redefinicao do comando \appendix para mostrar 'Ap?ndice' ou 'Anexo'
 %%% no Sumario
 %==============================================================================
 \renewcommand{\appendix}{%
@@ -1328,6 +1381,7 @@
 %==============================================================================
 \def\fnum@figure{\centering\MakeUppercase{\figurename}\nobreakspace\thefigure}
 \def\fnum@table{\centering\MakeUppercase{\tablename}\nobreakspace\thetable}
+%\def\fnum@quadro{\centering\MakeUppercase{\quadroname}\nobreakspace\thequadro}
 \setlength\abovecaptionskip{6\p@}
 \setlength\belowcaptionskip{4\p@}
 
@@ -1338,7 +1392,7 @@
 % %%% Indentar a segunda linha de captions longos das listas 
 %     de figuras e tabelas
 %==============================================================================
-\renewcommand*{\l@figure}{\@dottedtocline{1}{0cm}{1cm}}
+%\renewcommand*{\l@figure}{\@dottedtocline{1}{0cm}{1cm}}
 \def\FigureITA@dottedtocline#1#2#3#4#5{\begingroup
   \def\numberline##1{\hb@xt@\@tempdima{\itafigurenamebabel~##1 --\hfil}}%
   \@dottedtocline{#1}{#2}{#3}{#4}{#5}%
@@ -1347,10 +1401,14 @@
   \def\numberline##1{\hb@xt@\@tempdima{\itatablenamebabel~##1 --\hfil}}%
   \@dottedtocline{#1}{#2}{#3}{#4}{#5}%
 \endgroup}
+%\def\QuadroITA@dottedtocline#1#2#3#4#5{\begingroup
+%	\def\numberline##1{\hb@xt@\@tempdima{\itaquadronamebabel~##1 --\hfil}}%
+%	\@dottedtocline{#1}{#2}{#3}{#4}{#5}%
+%	\endgroup}
 % faz a lista de figuras e de tabelas usarem as novas versoes dos \dottedtocline
-\renewcommand*\l@figure{\FigureITA@dottedtocline{1}{0cm}{2.8cm}}
-\renewcommand*\l@table{\TableITA@dottedtocline{1}{0cm}{2.8cm}}
-
+%\renewcommand*\l@figure{\FigureITA@dottedtocline{1}{0cm}{2.8cm}}
+%\renewcommand*\l@table{\TableITA@dottedtocline{1}{0cm}{2.8cm}}
+%\renewcommand*\l@quadro{\QuadroITA@dottedtocline{1}{0cm}{2.8cm}}
 
 %==============================================================================
 % Folha de Registro do Documento
@@ -1391,24 +1449,24 @@
      \if@openright\cleardoublepage\else\clearpage\fi
      
      %Redefinicao das margens ...
-	\setlength{\hoffset}{-1in}        % remove padrï¿½o do LaTeX
-	\setlength{\voffset}{-1in}        % remove padrï¿½o do LaTeX
-	\setlength{\oddsidemargin}{1cm}   % margem esquerda, pï¿½ginas ï¿½mpares
-	\setlength{\evensidemargin}{1cm}  % margem esquerda, pï¿½ginas pares
+	\setlength{\hoffset}{-1in}        % remove padr?o do LaTeX
+	\setlength{\voffset}{-1in}        % remove padr?o do LaTeX
+	\setlength{\oddsidemargin}{1cm}   % margem esquerda, p?ginas ?mpares
+	\setlength{\evensidemargin}{1cm}  % margem esquerda, p?ginas pares
 	\setlength{\topmargin}{3cm}       % margem superior
-	\newlength{\bottommargin}         % margem inferior ï¿½ deduzida em LaTeX
+	\newlength{\bottommargin}         % margem inferior ? deduzida em LaTeX
 	\setlength{\bottommargin}{2cm}    % margem inferior
-	\setlength{\headheight}{0pt}      % altura do cabeï¿½alho
-	\setlength{\headsep}{0pt}         % espaï¿½o entre cabeï¿½alho e texto
-	\setlength{\footskip}{0mm}        % espaï¿½o entre rodapï¿½ e texto
-	\setlength\textheight{            % altura disponï¿½vel para texto
+	\setlength{\headheight}{0pt}      % altura do cabe?alho
+	\setlength{\headsep}{0pt}         % espa?o entre cabe?alho e texto
+	\setlength{\footskip}{0mm}        % espa?o entre rodap? e texto
+	\setlength\textheight{            % altura dispon?vel para texto
 		\paperheight-\topmargin-\bottommargin-\headheight-\headsep-\footskip
 	}
-	% margem direita ï¿½ deduzida em LaTeX... alterando isso...
+	% margem direita ? deduzida em LaTeX... alterando isso...
 	\newlength{\rightmarginn}        
 	\setlength{\rightmarginn}{2cm}    % margem direita
 
-	\setlength\textwidth{             % largura disponï¿½vel para texto
+	\setlength\textwidth{             % largura dispon?vel para texto
 		\paperwidth-\oddsidemargin-\rightmarginn
 	}
 
@@ -1430,10 +1488,10 @@
 	\multicolumn{ 4}{|c|}{} \\
 	\hline
 	
-	$^{1.}$ \scriptsize CLASSIFICAï¿½ï¿½O/TIPO & 
+	$^{1.}$ \scriptsize CLASSIFICA??O/TIPO & 
 	$^{2.}$ \scriptsize DATA               & 
-	$^{3.}$ \scriptsize DOCUMENTO Nï¿½       & 
-	$^{4.}$ \scriptsize Nï¿½ DE Pï¿½GINAS             \tabularnewline 
+	$^{3.}$ \scriptsize DOCUMENTO N?       & 
+	$^{4.}$ \scriptsize N? DE P?GINAS             \tabularnewline 
 	
 	\centering{
 		\ifthenelse{\equal{\itaoptionlevel}{tg}}
@@ -1448,23 +1506,23 @@
 	\centering\NumPenultimaPagina                  \tabularnewline[\esp]
 	\hline
 	
-	\multicolumn{ 4}{|p{17cm}|}{$^{5.}$ \scriptsize Tï¿½TULO E SUBTï¿½TULO:} \\
+	\multicolumn{ 4}{|p{17cm}|}{$^{5.}$ \scriptsize T?TULO E SUBT?TULO:} \\
 	\multicolumn{ 4}{|l|}{\nh{\parbox[b]{.95\textwidth}{\@title}}} \\[\esp]
 	\hline
 	\multicolumn{ 4}{|l|}{$^{6.}$ \scriptsize AUTOR\ifthenelse{\equal{\authorgendermf}{masc}}{}{A}(ES):} \\
 	\multicolumn{ 4}{|l|}{\textbf{\@authorfirst\ \@authorlast}} \\[\esp]
 	\hline
-	\multicolumn{ 4}{|l|}{$^{7.}$ \scriptsize INSTITUIï¿½ï¿½O(ï¿½ES)/ï¿½RGï¿½O(S) 
-	    INTERNO(S)/DIVISï¿½O(ï¿½ES):} \\
+	\multicolumn{ 4}{|l|}{$^{7.}$ \scriptsize INSTITUI??O(?ES)/?RG?O(S) 
+	    INTERNO(S)/DIVIS?O(?ES):} \\
 	\multicolumn{ 4}{|l|}{\FRDitaorgaointernobabel} \\[\esp]
 	\hline
 	\multicolumn{ 4}{|l|}{$^{8.}$ \scriptsize PALAVRAS-CHAVE SUGERIDAS PEL\ifthenelse{\equal{\authorgendermf}{masc}}{O}{A} AUTOR\ifthenelse{\equal{\authorgendermf}{masc}}{}{A}:} \\
 	\multicolumn{ 4}{|p{17cm}|}{\FRDitapalavrasautorbabel} \\[\esp]
 	\hline
-	\multicolumn{ 4}{|l|}{$^{9.}$ \scriptsize PALAVRAS-CHAVE RESULTANTES DE INDEXAï¿½ï¿½O:} \\
+	\multicolumn{ 4}{|l|}{$^{9.}$ \scriptsize PALAVRAS-CHAVE RESULTANTES DE INDEXA??O:} \\
 	\multicolumn{ 4}{|p{17cm}|}{\FRDitapalavrasresultbabel} \\[\esp]
 	\hline
-	\multicolumn{ 4}{|l|}{$^{10.}$ {\scriptsize APRESENTAï¿½ï¿½O:}  \hfill 
+	\multicolumn{ 4}{|l|}{$^{10.}$ {\scriptsize APRESENTA??O:}  \hfill 
 		(\N) \textbf{Nacional} \ \ \ 
 		(\I) \textbf{Internacional} } \\
 	\multicolumn{ 4}{|p{17cm}|}{\FRDitapalavraapresentacaobabel} \\[\esp]
@@ -1484,7 +1542,7 @@
 
 %==============================================================================
 %%% Hack: Retirando a palavra Capitulo mas mantendo Anexo e Apendice...
-%%% \@makechapterhead ï¿½ chamado por \chapter
+%%% \@makechapterhead ? chamado por \chapter
 %==============================================================================
 \def\@makechapterhead#1{%
   \vspace*{50\p@}%
@@ -1505,7 +1563,7 @@
   
   
 %==============================================================================
-%%% Obtendo o numero da penultima pagina, visto que a FRD nao ï¿½ contada ...
+%%% Obtendo o numero da penultima pagina, visto que a FRD nao ? contada ...
 %%% Thanks to Dr. Miguel V. S. Frasson!! :-)
 %==============================================================================
 \def\deixasosegundo#1#2#3!{#2}

@@ -50,20 +50,10 @@
 \usepackage{multirow}
 \usepackage{float}
 \usepackage{lmodern}
-\usepackage{lmodern}
 \usepackage{setspace}
 \usepackage{chngcntr}
-\usepackage{trivfloat,graphicx,caption}
-% ---
-\DeclareCaptionType{quadro}
-\floatstyle{plaintop}
-\restylefloat{quadro}
-\trivfloat{quadro}
 
-\renewcommand{\quadroname}{\MakeUppercase{quadro}}
-\renewcommand{\listquadroname}{Lista de Quadros} % Forçar texto na
 
-% Forçar texto na Lista de Quadros
 %\usepackage{natbib}
 %\usepackage[alf]{abntex2cite}
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -179,10 +169,24 @@ it is because I stood on the shoulders of giants.''\\}
 \end{englishabstract}
 
 % Lista de figuras
+
 \listoffigures %opcional
+\renewcommand{\thefigure}{\thesection}
 
 % Lista de tabelas
 \listoftables %opcional
+\renewcommand{\thetable}{\thesection}
+% Lista de quadros
+
+\listofquadros
+\renewcommand{\thequadro}{\thesection}
+
+% Lista de gráficos
+\listofgraficos
+\renewcommand{\thegrafico}{\thesection}
+% Lista de fotografias
+\listoffotografias
+\renewcommand{\thefotografia}{\thesection}
 
 % Lista de abreviaturas
 \listofabbreviations
@@ -192,8 +196,6 @@ it is because I stood on the shoulders of giants.''\\}
 \listofsymbols
 \input{Elementos_Pre_Textuais/listasimbolos} %opcional
 
-\renewcommand\numberline[1]{\MakeUppercase{quadro #1} - }
-\listofquadros
 
 % Sumario
 \tableofcontents
@@ -231,7 +233,7 @@ it is because I stood on the shoulders of giants.''\\}
 
 % Anexos
 \annex
-\chapter{Exemplo de um Primeiro Anexo} %opcional
+\chapter{Exemplo de um Primeiro Anexo}\label{sec:exemplo-de-um-primeiro-anexo} %opcional
 \input{AneA/anexoA}
 
 % Glossario

@@ -4,7 +4,7 @@
 %%%
 
 %--------------------------------------------------------
-% GraduaÃ§Ã£o (TG)
+% Graduação (TG)
 %--------------------------------------------------------
 \gdef\itaoptioncoursetgbabel{Gradua{\c{c}}{\~a}o}
 \gdef\itaworkleveltgbabel{Trabalho}
@@ -53,7 +53,7 @@
 \gdef\itacountrybabel{Brasil}
 
 %--------------------------------------------------------
-%Trabalho de GraduaÃ§Ã£o (TG)
+%Trabalho de Graduação (TG)
 %--------------------------------------------------------
 \gdef\itatitletexttgbabel{\nh{Trabalho apresentado {\`a} Pr{\'o}-Reitoria de 
           Gradua{\c{c}}{\~a}o do Instituto Tecnol{\'o}gico de Aeron{\'a}utica, como parte dos requisitos para conclus{\~a}o do 
@@ -95,6 +95,7 @@
 \gdef\nameannex{Anexo}
 \gdef\itafigurenamebabel{FIGURA}
 \gdef\itatablenamebabel{TABELA}
+\gdef\itaquadronamebabel{QUADRO}
 \gdef\itadvnamebabel{Vers{\~a}o Preliminar:}
 \gdef\itapagedocregbabel{Folha de Registro do Documento}
 
@@ -126,10 +127,10 @@
                                                                   %{Pro-Reitor de Pos-Graduacao e Pesquisa}
 
 \gdef\itabosscoursenamebabel{Nome d\ifthenelse{\equal{\bosscoursegendermf}{masc}}{o}{a} Coordenador do Curso de \itaworkcourse} 
-																																	%{Nome do coordenador do respectivo curso de graduaÃ§Ã£o}
+																																	%{Nome do coordenador do respectivo curso de graduação}
 \gdef\itabosscoursetitle{Prof\ifthenelse{\equal{\bossgendermf}{masc}}{}{$^\textnormal{a}$}.~Dr\ifthenelse{\equal{\bossgendermf}{masc}}{}{a}.}												                                           %{Prof.~Dr.}
 \gdef\itabosscoursewordbabel{Coordenador\ifthenelse{\equal{\bosscoursegendermf}{masc}}{}{a} do Curso de \itaworkcourse}         
-																																						 %{Coordenador do respectivo curso de graduaÃ§Ã£o}
+																																						 %{Coordenador do respectivo curso de graduação}
 
 \gdef\itaworklevelbabel{(Documento)}                               %{(Documento)}
 \gdef\itaworkcoursebabel{(Curso)}                                  %{(Curso)}
@@ -137,7 +138,7 @@
 \gdef\itaauthortitlebabel{(Titulo)}                                %{(Titulo)}
 \gdef\courseofbabel{Curso de}				  														 %{Curso de}
 
-\gdef\cdunumberbabel{CDU}																					 %NÃºmero de Registro para organizaÃ§Ã£o nas prateleiras da biblioteca..} 
+\gdef\cdunumberbabel{CDU}																					 %Número de Registro para organização nas prateleiras da biblioteca..} 
 
 \gdef\authorgendermfbabel{mf}                              					 % masc ou fem
 \gdef\advisorgendermfbabel{mf}                            					 % masc ou fem
@@ -145,9 +146,9 @@
 \gdef\bossgendermfbabel{mf}                               					 % masc ou fem
 \gdef\bosscoursegendermfbabel{mf}                         					 % masc ou fem
 
-\gdef\finalpaperbabel{Trabalho de Gradua{\c{c}}{\~a}o}							 % Trabalho de GraduaÃ§Ã£o
+\gdef\finalpaperbabel{Trabalho de Gradua{\c{c}}{\~a}o}							 % Trabalho de Graduação
 \gdef\itatglevelbabel{Trabalho de Conclus{\~a}o de Curso (Gradua{\c{c}}{\~a}o)}
-																																		 % Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o)
+																																		 % Trabalho de Conclusão de Curso (Graduação)
 
 %--------------------------------------------------------
 %Pagina CIP
