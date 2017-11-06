@@ -4,51 +4,56 @@
 \contentsline {section}{\numberline {1.2}Objetivo}{1}{section.1.2}
 \contentsline {section}{\numberline {1.3}Motiva\c c\~ao}{1}{section.1.3}
 \contentsline {section}{\numberline {1.4}Import\^ancia e Justificativa}{1}{section.1.4}
-\contentsline {section}{\numberline {1.5}Delimita\c c\~ao da Pesquisa}{1}{section.1.5}
+\contentsline {section}{\numberline {1.5}Delimita\c c\~ao da Pesquisa}{2}{section.1.5}
 \contentsline {section}{\numberline {1.6}Organiza\c c\~ao do Trabalho}{2}{section.1.6}
 \contentsline {subsection}{\numberline {1.6.1}Introdu\c c\~ao}{2}{subsection.1.6.1}
 \contentsline {subsection}{\numberline {1.6.2}Fundamenta\c c\~ao Te\'orica}{2}{subsection.1.6.2}
-\contentsline {subsection}{\numberline {1.6.3}Descri\c c\~ao do Produto}{2}{subsection.1.6.3}
-\contentsline {subsection}{\numberline {1.6.4}Resultados e Discuss\~oes}{2}{subsection.1.6.4}
-\contentsline {subsection}{\numberline {1.6.5}Conclus\~ao}{2}{subsection.1.6.5}
-\contentsline {chapter}{\numberline {2}Fundamenta\c c\~ao Te\'orica}{3}{chapter.2}
-\contentsline {section}{\numberline {2.1}Base Legal}{3}{section.2.1}
+\contentsline {subsection}{\numberline {1.6.3}Descri\c c\~ao do Produto Educacional}{2}{subsection.1.6.3}
+\contentsline {subsection}{\numberline {1.6.4}Aplica\c c\~ao do Produto Educacional}{2}{subsection.1.6.4}
+\contentsline {subsection}{\numberline {1.6.5}Resultados e Discuss\~oes}{2}{subsection.1.6.5}
+\contentsline {subsection}{\numberline {1.6.6}Conclus\~ao}{3}{subsection.1.6.6}
+\contentsline {chapter}{\numberline {2}Fundamenta\c c\~ao Te\'orica}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Base Legal}{4}{section.2.1}
 \contentsline {section}{\numberline {2.2}Revis\~ao Liter\'aria}{4}{section.2.2}
 \contentsline {section}{\numberline {2.3}Referenciais Te\'oricos}{4}{section.2.3}
 \contentsline {subsection}{\numberline {2.3.1}David Ausubel - Aprendizagem Significativa}{4}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Marc Prensk - Aprendizagem Baseada em Jogos Digitais}{4}{subsection.2.3.2}
-\contentsline {chapter}{\numberline {3}Descri\c c\~ao do Produto Educacional}{6}{chapter.3}
-\contentsline {section}{\numberline {3.1}A Sequ\^encia Did\'atica}{6}{section.3.1}
-\contentsline {section}{\numberline {3.2}O Jogo Digital}{6}{section.3.2}
-\contentsline {chapter}{\numberline {4}Aplica\c c\~ao do Produto Educacional}{7}{chapter.4}
-\contentsline {section}{\numberline {4.1}Metodologia}{7}{section.4.1}
-\contentsline {section}{\numberline {4.2}Relato de Aplica\c c\~ao}{8}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Aula 1}{8}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Aula 2}{8}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Aula 3}{8}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}Aula 4}{8}{subsection.4.2.4}
-\contentsline {subsection}{\numberline {4.2.5}Aula 5}{8}{subsection.4.2.5}
-\contentsline {subsection}{\numberline {4.2.6}Aula 6}{8}{subsection.4.2.6}
-\contentsline {subsection}{\numberline {4.2.7}Aula 7}{8}{subsection.4.2.7}
-\contentsline {subsection}{\numberline {4.2.8}Aula 8}{8}{subsection.4.2.8}
-\contentsline {subsection}{\numberline {4.2.9}Aula 9}{8}{subsection.4.2.9}
-\contentsline {subsection}{\numberline {4.2.10}Aula 10}{8}{subsection.4.2.10}
-\contentsline {chapter}{\numberline {5}Resultados e Discuss\~oes}{9}{chapter.5}
-\contentsline {section}{\numberline {5.1}An\'alise da Pesquisa Inicial}{9}{section.5.1}
-\contentsline {section}{\numberline {5.2}An\'alise da Pesquisa Inicial}{10}{section.5.2}
-\contentsline {section}{\numberline {5.3}An\'alise do Teste Inicial}{10}{section.5.3}
-\contentsline {section}{\numberline {5.4}An\'alise da Primeira Aplica\c c\~ao do Jogo}{10}{section.5.4}
-\contentsline {section}{\numberline {5.5}An\'alise da Apresenta\c c\~ao do V\IeC {\'\i }deo}{10}{section.5.5}
-\contentsline {section}{\numberline {5.6}An\'alise da Aula Expositiva 1 e 2}{10}{section.5.6}
-\contentsline {section}{\numberline {5.7}An\'alise da Segunda Aplica\c c\~ao do Jogo}{10}{section.5.7}
-\contentsline {section}{\numberline {5.8}An\'alise do Teste Final}{10}{section.5.8}
-\contentsline {section}{\numberline {5.9}An\'alise da Pesquisa Final}{10}{section.5.9}
-\contentsline {chapter}{\numberline {6}Conclus\~ao}{11}{chapter.6}
-\contentsline {section}{\numberline {6.1}Conclus\~ao}{11}{section.6.1}
-\contentsline {chapter}{Refer\^encias}{12}{chapter.7}
+\contentsline {subsection}{\numberline {2.3.2}Marc Prensky - Aprendizagem Baseada em Jogos Digitais}{4}{subsection.2.3.2}
+\contentsline {chapter}{\numberline {3}Descri\c c\~ao do Produto Educacional}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}A Sequ\^encia Did\'atica}{5}{section.3.1}
+\contentsline {section}{\numberline {3.2}O Jogo Digital}{5}{section.3.2}
+\contentsline {chapter}{\numberline {4}Aplica\c c\~ao do Produto Educacional}{6}{chapter.4}
+\contentsline {section}{\numberline {4.1}Metodologia}{6}{section.4.1}
+\contentsline {section}{\numberline {4.2}Relato de Experi\^encia}{6}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Aula 1}{6}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Aula 2}{6}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Aula 3}{6}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Aulas 4 e 5}{6}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Aulas 6 e 7}{6}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}Aula 8}{6}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4.2.7}Aula 9}{6}{subsection.4.2.7}
+\contentsline {subsection}{\numberline {4.2.8}Aula 10}{6}{subsection.4.2.8}
+\contentsline {chapter}{\numberline {5}Resultados e Discuss\~oes}{7}{chapter.5}
+\contentsline {section}{\numberline {5.1}An\'alise da Sequ\^encia de Aplica\c c\~ao}{7}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}An\'alise da Pesquisa Inicial}{7}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}An\'alise do Pr\'e-Teste}{7}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}An\'alise da Primeira Aplica\c c\~ao do Jogo}{7}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}An\'alise das Discuss\~oes sobre o V\IeC {\'\i }deo}{7}{subsection.5.1.4}
+\contentsline {subsection}{\numberline {5.1.5}An\'alise das Aula Expositiva 1 e 2}{7}{subsection.5.1.5}
+\contentsline {subsection}{\numberline {5.1.6}An\'alise da Segunda Aplica\c c\~ao do Jogo}{7}{subsection.5.1.6}
+\contentsline {subsection}{\numberline {5.1.7}An\'alise do P\'os-Teste}{7}{subsection.5.1.7}
+\contentsline {subsection}{\numberline {5.1.8}An\'alise da Pesquisa Final}{7}{subsection.5.1.8}
+\contentsline {section}{\numberline {5.2}Resultados}{7}{section.5.2}
+\contentsline {chapter}{\numberline {6}Conclus\~ao}{8}{chapter.6}
+\contentsline {chapter}{Refer\^encias}{9}{chapter.7}
 \SetAppendixTocName {Ap\^endice}
-\contentsline {chapter}{\numberline {A}T\'opicos de Dilema Linear}{14}{appendix.A}
-\contentsline {section}{\numberline {A.1}Uma Primeira Se\c c\~ao para o Ap\^endice}{14}{section.A.1}
+\contentsline {chapter}{\numberline {A}Primeira Se\c c\~ao dos Ap\^endice}{11}{appendix.A}
+\contentsline {section}{\numberline {A.1}Enredo do Jogo}{11}{section.A.1}
+\contentsline {section}{\numberline {A.2}Pesquisa Inicial}{11}{section.A.2}
+\contentsline {section}{\numberline {A.3}Pr\'e-Teste}{11}{section.A.3}
+\contentsline {section}{\numberline {A.4}Modelo de Resenha}{11}{section.A.4}
+\contentsline {section}{\numberline {A.5}P\'os-Teste}{11}{section.A.5}
+\contentsline {section}{\numberline {A.6}Pesquisa Final}{12}{section.A.6}
 \SetAppendixTocName {Anexo}
-\contentsline {chapter}{\numberline {A}Exemplo de um Primeiro Anexo}{15}{annex.a}
-\contentsline {section}{\numberline {A.1}Uma Se\c c\~ao do Primeiro Anexo}{15}{section.a.1}
+\contentsline {chapter}{\numberline {A}Primeira Se\c c\~ao dos Anexos}{13}{annex.a}
+\contentsline {section}{\numberline {A.1}Texto Base}{13}{section.a.1}
+\contentsline {section}{\numberline {A.2}Manuais do Scratch}{13}{section.a.2}
