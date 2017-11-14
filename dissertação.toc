@@ -6,15 +6,9 @@
 \contentsline {section}{\numberline {1.4}Import\^ancia e Justificativa}{1}{section.1.4}
 \contentsline {section}{\numberline {1.5}Delimita\c c\~ao da Pesquisa}{2}{section.1.5}
 \contentsline {section}{\numberline {1.6}Organiza\c c\~ao do Trabalho}{2}{section.1.6}
-\contentsline {subsection}{\numberline {1.6.1}Introdu\c c\~ao}{2}{subsection.1.6.1}
-\contentsline {subsection}{\numberline {1.6.2}Fundamenta\c c\~ao Te\'orica}{2}{subsection.1.6.2}
-\contentsline {subsection}{\numberline {1.6.3}Descri\c c\~ao do Produto Educacional}{2}{subsection.1.6.3}
-\contentsline {subsection}{\numberline {1.6.4}Aplica\c c\~ao do Produto Educacional}{2}{subsection.1.6.4}
-\contentsline {subsection}{\numberline {1.6.5}Resultados e Discuss\~oes}{2}{subsection.1.6.5}
-\contentsline {subsection}{\numberline {1.6.6}Conclus\~ao}{3}{subsection.1.6.6}
-\contentsline {chapter}{\numberline {2}Fundamenta\c c\~ao Te\'orica}{4}{chapter.2}
-\contentsline {section}{\numberline {2.1}Base Legal}{4}{section.2.1}
-\contentsline {section}{\numberline {2.2}Revis\~ao Liter\'aria}{4}{section.2.2}
+\contentsline {chapter}{\numberline {2}Fundamenta\c c\~ao Te\'orica}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Base Legal}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Revis\~ao de Trabalhos Relacionados com o Tema}{3}{section.2.2}
 \contentsline {section}{\numberline {2.3}Referenciais Te\'oricos}{4}{section.2.3}
 \contentsline {subsection}{\numberline {2.3.1}David Ausubel - Aprendizagem Significativa}{4}{subsection.2.3.1}
 \contentsline {subsection}{\numberline {2.3.2}Marc Prensky - Aprendizagem Baseada em Jogos Digitais}{4}{subsection.2.3.2}
