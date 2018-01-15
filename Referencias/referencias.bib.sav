@@ -1,3 +1,4 @@
+% Encoding: UTF-8
 % Banco de artigos para a dissertação de mestrado
 %Jogos e Scratch
 @article{de2015aumento,
@@ -157,5 +158,4 @@
   year={2004}
 }
 
-
-
+@Comment{jabref-meta: databaseType:bibtex;}
