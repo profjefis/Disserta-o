@@ -52,6 +52,8 @@
 \usepackage{lmodern}
 \usepackage{setspace}
 \usepackage{chngcntr}
+\usepackage{hyperref}
+
 %\usepackage{natbib}
 %\usepackage[alf]{abntex2cite}
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -171,24 +173,37 @@ precisa se exercitar.''\\}
 \end{englishabstract}
 
 % Lista de figuras
-
+\renewcommand\numberline[1]{FIGURA #1:\hspace{0.5em}}
 \listoffigures %opcional
-\renewcommand{\thefigure}{\thesection}
+
+%\renewcommand{\thefigure}{Figura.\thesection}
+\counterwithout{figure}{chapter}
+
+
 
 % Lista de tabelas
+\renewcommand\numberline[1]{TABELA #1:\hspace{0.5em}}
 \listoftables %opcional
-\renewcommand{\thetable}{\thesection}
-% Lista de quadros
+%\renewcommand{\thetable}{\thesection}
+\counterwithout{table}{chapter}
 
+% Lista de quadros
+\renewcommand\numberline[1]{QUADRO #1:\hspace{0.5em}}
 \listofquadros
-\renewcommand{\thequadro}{\thesection}
+%\renewcommand{\thequadro}{\thesection}
+\counterwithout{quadro}{chapter}
 
 % Lista de gráficos
+\renewcommand\numberline[1]{GRÁFICO #1:\hspace{0.5em}}
 \listofgraficos
-\renewcommand{\thegrafico}{\thesection}
+%\renewcommand{\thegrafico}{\thesection}
+\counterwithout{grafico}{chapter}
+
 % Lista de fotografias
+\renewcommand\numberline[1]{FOTOGRAFIA #1:\hspace{0.5em}}
 \listoffotografias
-\renewcommand{\thefotografia}{\thesection}
+%\renewcommand{\thefotografia}{\thesection}
+\counterwithout{fotografia}{chapter}
 
 % Lista de abreviaturas
 \listofabbreviations
@@ -198,8 +213,10 @@ precisa se exercitar.''\\}
 %\listofsymbols
 %\input{Elementos_Pre_Textuais/listasimbolos} %opcional
 
+\renewcommand\numberline[1]{#1\hspace{1.2em}}
 
 % Sumario
+
 \tableofcontents
 
 \mainmatter
@@ -230,13 +247,32 @@ precisa se exercitar.''\\}
 %\bibliographystyle{abbrvnat}
 % Apendices
 \appendix
-\chapter{Primeira Seção dos Apêndice} %opcional
-\input{ApeA/apendiceA}
+\chapter{O Jogo Digital} %opcional
+\input{ApeA/apea}
+
+\chapter{Questionários} %opcional
+\input{ApeB/apeb}
+
+\chapter{Atividades} %opcional
+\input{ApeC/apec}
+
+\chapter{Aula Expositiva} %opcional
+\input{ApeD/aped}
+%\label{sec:exemplo-de-um-primeiro-anexo} %opcional
 
 % Anexos
 \annex
-\chapter{Primeira Seção dos Anexos}\label{sec:exemplo-de-um-primeiro-anexo} %opcional
-\input{AneA/anexoA}
+\chapter{Manuais do Scratch}
+\input{AneA/anea}
+
+\chapter{Materiais de Apoio}
+\input{AneB/aneb}
+
+\chapter{Autorizações}
+\input{AneC/anec}
+
+\chapter{Registro de Imagens}
+\input{AneD/aned}
 
 % Glossario
 %\itaglossary

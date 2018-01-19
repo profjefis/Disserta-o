@@ -942,6 +942,7 @@
       \@mkboth{\MakeUppercase{\listfigurename}}%
               {\MakeUppercase{\listfigurename}}}      % Thanks to Reinaldo Fortes
     %\addcontentsline{toc}{chapter}{\listfigurename}   % Thanks to D.Farfan
+    
 		\pdfbookmark[0]{\listfigurename}{listafiguras}
     \@starttoc{lof}%
     \if@restonecol\twocolumn\fi
@@ -949,9 +950,9 @@
     }
 
 % Lista de tabelas...
+
 \renewcommand\listoftables{%
     %\begin{spacing}{1.5}   %ita
-
     \chapter*{\listtablename
       \@mkboth{\MakeUppercase{\listtablename}}%
                {\MakeUppercase{\listtablename}}}     % Thanks to Reinaldo Fortes
@@ -981,7 +982,6 @@
 
 \renewcommand{\quadroname}{\MakeUppercase{quadro}}
 \renewcommand{\listquadroname}{Lista de Quadros} 
-
 
 % Lista de Gráficos...
 
