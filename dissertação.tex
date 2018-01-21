@@ -174,18 +174,20 @@ precisa se exercitar.''\\}
 
 % Lista de figuras
 \renewcommand\numberline[1]{FIGURA #1:\hspace{0.5em}}
-\listoffigures %opcional
+\listoffiguras %opcional
+\pdfbookmark[0]{\listfiguraname}{figura}
 
 %\renewcommand{\thefigure}{Figura.\thesection}
-\counterwithout{figure}{chapter}
+\counterwithout{figura}{chapter}
 
 
 
 % Lista de tabelas
+%\setcounter{table}{-1}
 \renewcommand\numberline[1]{TABELA #1:\hspace{0.5em}}
-\listoftables %opcional
+\listoftabelas %opcional
 %\renewcommand{\thetable}{\thesection}
-\counterwithout{table}{chapter}
+\counterwithout{tabela}{chapter}
 
 % Lista de quadros
 \renewcommand\numberline[1]{QUADRO #1:\hspace{0.5em}}
@@ -194,9 +196,9 @@ precisa se exercitar.''\\}
 \counterwithout{quadro}{chapter}
 
 % Lista de gráficos
-\renewcommand\numberline[1]{GRÁFICO #1:\hspace{0.5em}}
+%\renewcommand\numberline[1]{GRÁFICO #1:\hspace{0.5em}}
 \listofgraficos
-%\renewcommand{\thegrafico}{\thesection}
+\renewcommand{\thegrafico}{\thesection}
 \counterwithout{grafico}{chapter}
 
 % Lista de fotografias
@@ -206,6 +208,10 @@ precisa se exercitar.''\\}
 \counterwithout{fotografia}{chapter}
 
 % Lista de abreviaturas
+
+%\renewcommand\numberline[1]{#1\hspace{1.2em}}
+
+
 \listofabbreviations
 \input{Elementos_Pre_Textuais/listaabreviaturas} %opcional
 

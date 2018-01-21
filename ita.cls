@@ -930,7 +930,7 @@
        {\@latex@warning{Empty `thebibliography' environment}}%
       \endlist}
 
-% Lista de figuras...
+% Lista de figures...
 \renewcommand\listoffigures{%
     %\begin{spacing}{1.5}   %ita
     \if@twocolumn
@@ -949,7 +949,7 @@
     %\end{spacing}   %ita
     }
 
-% Lista de tabelas...
+% Lista de tables...
 
 \renewcommand\listoftables{%
     %\begin{spacing}{1.5}   %ita
@@ -963,6 +963,76 @@
     %\end{spacing}   %ita
     }
 
+% Lista de figuras...
+
+\newcommand\listoffiguras{%
+	%\begin{spacing}{1.5}   %ita
+	\chapter*{\listfiguraname
+		\@mkboth{\MakeUppercase{\listfiguraname}}%
+		{\MakeUppercase{\listfiguraname}}}     % Thanks to Reinaldo Fortes
+	%    \addcontentsline{toc}{chapter}{\listtablename}   % Thanks do D.Farfan
+	\pdfbookmark[0]{\listfiguraname}{listafiguras}
+	\@starttoc{toc}%
+	
+	%\end{spacing}   %ita
+}
+
+% Lista de tabelas...
+
+\newcommand\listoftabelas{%
+	%\begin{spacing}{1.5}   %ita
+	\chapter*{\listtabelaname
+		\@mkboth{\MakeUppercase{\listtabelaname}}%
+		{\MakeUppercase{\listtabelaname}}}     % Thanks to Reinaldo Fortes
+	%    \addcontentsline{toc}{chapter}{\listtablename}   % Thanks do D.Farfan
+	\pdfbookmark[0]{\listtabelaname}{listatabelas}
+	\@starttoc{lof}%
+	
+	%\end{spacing}   %ita
+}
+
+% Lista de quadros...
+
+\newcommand\listofquadros{%
+	%\begin{spacing}{1.5}   %ita
+	\chapter*{\listquadroname
+		\@mkboth{\MakeUppercase{\listquadroname}}%
+		{\MakeUppercase{\listquadroname}}}     % Thanks to Reinaldo Fortes
+	%    \addcontentsline{toc}{chapter}{\listtablename}   % Thanks do D.Farfan
+	\pdfbookmark[0]{\listquadroname}{listaquadros}
+	\@starttoc{lof}%
+	
+	%\end{spacing}   %ita
+}
+
+% Lista de gráficos...
+
+\newcommand\listofgraficos{%
+	%\begin{spacing}{1.5}   %ita
+	\chapter*{\listgraficoname
+		\@mkboth{\MakeUppercase{\listgraficoname}}%
+		{\MakeUppercase{\listgraficoname}}}     % Thanks to Reinaldo Fortes
+	%    \addcontentsline{toc}{chapter}{\listtablename}   % Thanks do D.Farfan
+	\pdfbookmark[0]{\listgraficoname}{listagráficos}
+	\@starttoc{lof}%
+	
+	%\end{spacing}   %ita
+}
+
+% Lista de fotografias...
+
+\newcommand\listoffotografias{%
+	%\begin{spacing}{1.5}   %ita
+	\chapter*{\listfotografianame
+		\@mkboth{\MakeUppercase{\listfotografianame}}%
+		{\MakeUppercase{\listfotografianame}}}     % Thanks to Reinaldo Fortes
+	%    \addcontentsline{toc}{chapter}{\listtablename}   % Thanks do D.Farfan
+	\pdfbookmark[0]{\listfotografianame}{listafotografias}
+	\@starttoc{lof}%
+	
+	%\end{spacing}   %ita
+}
+
 % Quadro
 %\RequirePackage{tocloft}
 
@@ -973,10 +1043,30 @@
 \RequirePackage{trivfloat,graphicx,caption}
 \RequirePackage{chngcntr}
 
+% Lista de Figuras...
+
+\DeclareCaptionType{figura}
+\floatstyle{plain}
+\restylefloat{figura}
+\trivfloat{figura}
+
+\renewcommand{\figuraname}{\MakeUppercase{figura}}
+\renewcommand{\listfiguraname}{Lista de Figuras} 
+
+% Lista de Tabelas...
+
+\DeclareCaptionType{tabela}
+\floatstyle{plain}
+\restylefloat{tabela}
+\trivfloat{tabela}
+
+\renewcommand{\tabelaname}{\MakeUppercase{tabela}}
+\renewcommand{\listtabelaname}{Lista de Tabelas} 
+
 % Lista de Quadros...
 
 \DeclareCaptionType{quadro}
-\floatstyle{plaintop}
+\floatstyle{plain}
 \restylefloat{quadro}
 \trivfloat{quadro}
 
@@ -986,18 +1076,21 @@
 % Lista de Gráficos...
 
 \DeclareCaptionType{grafico}
-\floatstyle{plaintop}
+\floatstyle{plain}
 \restylefloat{grafico}
 \trivfloat{grafico}
+
 \renewcommand{\graficoname}{\MakeUppercase{gráfico}}
 \renewcommand{\listgraficoname}{Lista de Gráficos} 
+
 
 % Lista de Fotografias...
 
 \DeclareCaptionType{fotografia}
-\floatstyle{plaintop}
+\floatstyle{plain}
 \restylefloat{fotografia}
 \trivfloat{fotografia}
+
 \renewcommand{\fotografianame}{\MakeUppercase{fotografia}}
 \renewcommand{\listfotografianame}{Lista de Fotografias} 
 
@@ -1025,7 +1118,7 @@
 %\numberwithin{figure}{chapter}
 
 
-%\floatstyle{plaintop} % Forçar posição da legenda para o topo
+%\floatstyle{plain} % Forçar posição da legenda para o topo
 %\restylefloat{quadro} % Forçar posição da legenda para o topo
 
 %\renewcommand{\quadroname}{\MakeUppercase{quadro}}
@@ -1381,7 +1474,12 @@
 %==============================================================================
 \def\fnum@figure{\centering\MakeUppercase{\figurename}\nobreakspace\thefigure}
 \def\fnum@table{\centering\MakeUppercase{\tablename}\nobreakspace\thetable}
-%\def\fnum@quadro{\centering\MakeUppercase{\quadroname}\nobreakspace\thequadro}
+\def\fnum@figura{\centering\MakeUppercase{\figuraname}\nobreakspace\thefigura}
+\def\fnum@tabela{\centering\MakeUppercase{\tabelaname}\nobreakspace\thetabela}
+\def\fnum@quadro{\centering\MakeUppercase{\quadroname}\nobreakspace\thequadro}
+\def\fnum@grafico{\centering\MakeUppercase{\graficoname}\nobreakspace\thegrafico}
+\def\fnum@fotografia{\centering\MakeUppercase{\fotografianame}\nobreakspace\thefotografia}
+
 \setlength\abovecaptionskip{6\p@}
 \setlength\belowcaptionskip{4\p@}
 

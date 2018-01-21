@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2017.11.4)  19 JAN 2018 19:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2017.11.4)  20 JAN 2018 09:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -470,21 +470,35 @@ Package: chngcntr 2009/09/02 v1.0a change counter resetting
 (/usr/share/texlive/texmf-dist/tex/latex/caption/newfloat.sty
 Package: newfloat 2015/09/17 v1.1-109 Defining new floating environments (AR)
 )
-Package newfloat Info: New float `quadro' with options `' on input line 978.
-\c@quadro=\count128
-Package newfloat Info: float type `quadro'=4 on input line 978.
-\@float@every@quadro=\toks30
-Package newfloat Info: New float `grafico' with options `' on input line 988.
-\c@grafico=\count129
-Package newfloat Info: float type `grafico'=8 on input line 988.
-\@float@every@grafico=\toks31
-Package newfloat Info: New float `fotografia' with options `' on input line 997
+Package newfloat Info: New float `figura' with options `' on input line 1048.
+\c@figura=\count128
+Package newfloat Info: float type `figura'=4 on input line 1048.
+Package newfloat Info: \listoffiguras is already defined on input line 1048.
+\@float@every@figura=\toks30
+Package newfloat Info: New float `tabela' with options `' on input line 1058.
+\c@tabela=\count129
+Package newfloat Info: float type `tabela'=8 on input line 1058.
+Package newfloat Info: \listoftabelas is already defined on input line 1058.
+\@float@every@tabela=\toks31
+Package newfloat Info: New float `quadro' with options `' on input line 1068.
+\c@quadro=\count130
+Package newfloat Info: float type `quadro'=16 on input line 1068.
+Package newfloat Info: \listofquadros is already defined on input line 1068.
+\@float@every@quadro=\toks32
+Package newfloat Info: New float `grafico' with options `' on input line 1078.
+\c@grafico=\count131
+Package newfloat Info: float type `grafico'=32 on input line 1078.
+Package newfloat Info: \listofgraficos is already defined on input line 1078.
+\@float@every@grafico=\toks33
+Package newfloat Info: New float `fotografia' with options `' on input line 108
+9.
+\c@fotografia=\count132
+Package newfloat Info: float type `fotografia'=64 on input line 1089.
+Package newfloat Info: \listoffotografias is already defined on input line 1089
 .
-\c@fotografia=\count130
-Package newfloat Info: float type `fotografia'=16 on input line 997.
-\@float@every@fotografia=\toks32
-\c@mecounter=\count131
-\c@kwcipcounter=\count132
+\@float@every@fotografia=\toks34
+\c@mecounter=\count133
+\c@kwcipcounter=\count134
 \nohyphen=\language85
 \ABNTEXcitacaorecuo=\skip69
 )
@@ -498,24 +512,24 @@ Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
 (/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
-\c@KVtest=\count133
+\c@KVtest=\count135
 \sf@farskip=\skip70
 \sf@captopadj=\dimen146
 \sf@capskip=\skip71
 \sf@nearskip=\skip72
-\c@subfigure=\count134
-\c@subfigure@save=\count135
-\c@lofdepth=\count136
-\c@subtable=\count137
-\c@subtable@save=\count138
-\c@lotdepth=\count139
+\c@subfigure=\count136
+\c@subfigure@save=\count137
+\c@lofdepth=\count138
+\c@subtable=\count139
+\c@subtable@save=\count140
+\c@lotdepth=\count141
 \sf@top=\skip73
 \sf@bottom=\skip74
 )
 (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
 \multirow@colwidth=\skip75
-\multirow@cntb=\count140
+\multirow@cntb=\count142
 \multirow@dima=\skip76
 \bigstrutjot=\dimen147
 )
@@ -572,6 +586,9 @@ LaTeX Warning: Label `FDIII' multiply defined.
 
 LaTeX Warning: Label `FDIII' multiply defined.
 
+
+LaTeX Warning: Label `FDIII' multiply defined.
+
 )
 \openout1 = `dissertação.aux'.
 
@@ -609,17 +626,17 @@ Package caption Info: End \AtBeginDocument code.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count141
+\scratchcounter=\count143
 \scratchdimen=\dimen148
 \scratchbox=\box34
-\nofMPsegments=\count142
-\nofMParguments=\count143
-\everyMPshowfont=\toks33
-\MPscratchCnt=\count144
+\nofMPsegments=\count144
+\nofMParguments=\count145
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count146
 \MPscratchDim=\dimen149
-\MPnumerator=\count145
-\makeMPintoPDFobject=\count146
-\everyMPtoPDFconversion=\toks34
+\MPnumerator=\count147
+\makeMPintoPDFobject=\count148
+\everyMPtoPDFconversion=\toks36
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -646,7 +663,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count147
+\c@section@level=\count149
 )
 LaTeX Info: Redefining \ref on input line 129.
 LaTeX Info: Redefining \pageref on input line 129.
@@ -692,6 +709,14 @@ Package hyperref Info: Anchor `Doc-Start' on input line 129.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
+Package float Warning: Can't redefine counter variable for figura. on input lin
+e 129.
+
+
+Package float Warning: Can't redefine counter variable for tabela. on input lin
+e 129.
+
+
 Package float Warning: Can't redefine counter variable for quadro. on input lin
 e 129.
 
@@ -703,12 +728,12 @@ ne 129.
 Package float Warning: Can't redefine counter variable for fotografia. on input
  line 129.
 
-\c@butlastpage=\count148
+\c@butlastpage=\count150
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 132.
 Package hyperref Info: Anchor `capa.0' on input line 132.
 Package hyperref Info: Anchor `figure.caption.1' on input line 132.
-<Elementos_Pre_Textuais/Logo.pdf, id=309, pagebox=cropbox, 449.5194pt x 118.522
+<Elementos_Pre_Textuais/Logo.pdf, id=305, pagebox=cropbox, 449.5194pt x 118.522
 8pt>
 File: Elementos_Pre_Textuais/Logo.pdf Graphic file (type pdf)
 <use Elementos_Pre_Textuais/Logo.pdf>
@@ -888,102 +913,102 @@ Package hyperref Info: Anchor `page.viii' on input line 177.
 
 ]
 Package hyperref Info: Anchor `chapter*.6' on input line 177.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 177.
-Package hyperref Info: Anchor `listafiguras.0' on input line 177.
- (./dissertação.lof
-Package hyperref Info: Reference (link) `figure.caption.13' on input line 4.
-Package hyperref Info: Reference (link) `figure.caption.14' on input line 5.
-Package hyperref Info: Reference (link) `figure.caption.16' on input line 10.
-Package hyperref Info: Reference (link) `figure.caption.18' on input line 17.
-Package hyperref Info: Reference (link) `figure.caption.19' on input line 18.
-Package hyperref Info: Reference (link) `figure.caption.20' on input line 19.
-Package hyperref Info: Reference (link) `figure.caption.21' on input line 20.
-Package hyperref Info: Reference (link) `figure.caption.22' on input line 21.
+ (./dissertação.loa
+Package hyperref Info: Reference (link) `figura.2.1' on input line 5.
+Package hyperref Info: Reference (link) `figura.2.2' on input line 6.
+Package hyperref Info: Reference (link) `figura.6.3' on input line 15.
+Package hyperref Info: Reference (link) `figura.b.4' on input line 28.
+Package hyperref Info: Reference (link) `figura.b.5' on input line 29.
+Package hyperref Info: Reference (link) `figura.b.6' on input line 30.
+Package hyperref Info: Reference (link) `figura.b.7' on input line 31.
+Package hyperref Info: Reference (link) `figura.b.8' on input line 32.
 )
-\tf@lof=\write5
-\openout5 = `dissertação.lof'.
+\tf@loa=\write5
+\openout5 = `dissertação.loa'.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 186.
+(babel)             in language  on input line 178.
+Package hyperref Info: Anchor `figura.0' on input line 178.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 186.
-Package hyperref Info: Anchor `page.ix' on input line 186.
+(babel)             in language  on input line 188.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 188.
+Package hyperref Info: Anchor `page.ix' on input line 188.
  [9
 
-Package `hyperref' Info: End of reference (link) `figure.caption.13', line 4.
-Package `hyperref' Info: End of reference (link) `figure.caption.14', line 5.
-Package `hyperref' Info: End of reference (link) `figure.caption.16', line 10.
-Package `hyperref' Info: End of reference (link) `figure.caption.18', line 17.
-Package `hyperref' Info: End of reference (link) `figure.caption.19', line 18.
-Package `hyperref' Info: End of reference (link) `figure.caption.20', line 19.
-Package `hyperref' Info: End of reference (link) `figure.caption.21', line 20.
-Package `hyperref' Info: End of reference (link) `figure.caption.22', line 21.
+Package `hyperref' Info: End of reference (link) `figura.2.1', line 5.
+Package `hyperref' Info: End of reference (link) `figura.2.2', line 6.
+Package `hyperref' Info: End of reference (link) `figura.6.3', line 15.
+Package `hyperref' Info: End of reference (link) `figura.b.4', line 28.
+Package `hyperref' Info: End of reference (link) `figura.b.5', line 29.
+Package `hyperref' Info: End of reference (link) `figura.b.6', line 30.
+Package `hyperref' Info: End of reference (link) `figura.b.7', line 31.
+Package `hyperref' Info: End of reference (link) `figura.b.8', line 32.
 ]
-Package hyperref Info: Anchor `chapter*.7' on input line 186.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 186.
-Package hyperref Info: Anchor `listatabelas.0' on input line 186.
+Package hyperref Info: Anchor `chapter*.7' on input line 188.
 
-(./dissertação.lot
-Package hyperref Info: Reference (link) `table.caption.15' on input line 4.
+(./dissertação.lob
+Package hyperref Info: Reference (link) `tabela.2.1' on input line 5.
 )
-\tf@lot=\write6
-\openout6 = `dissertação.lot'.
+\tf@lob=\write6
+\openout6 = `dissertação.lob'.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 192.
+(babel)             in language  on input line 194.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 192.
-Package hyperref Info: Anchor `page.x' on input line 192.
+(babel)             in language  on input line 194.
+Package hyperref Info: Anchor `page.x' on input line 194.
  [10
 
-Package `hyperref' Info: End of reference (link) `table.caption.15', line 4.
+Package `hyperref' Info: End of reference (link) `tabela.2.1', line 5.
 ]
-Package hyperref Info: Anchor `chapter*.8' on input line 192.
- (./dissertação.loa)
-\tf@loa=\write7
-\openout7 = `dissertação.loa'.
+Package hyperref Info: Anchor `chapter*.8' on input line 194.
+ (./dissertação.loc
+Package hyperref Info: Reference (link) `quadro.2.1' on input line 5.
+)
+\tf@loc=\write7
+\openout7 = `dissertação.loc'.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 198.
+(babel)             in language  on input line 200.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 198.
-Package hyperref Info: Anchor `page.xi' on input line 198.
+(babel)             in language  on input line 200.
+Package hyperref Info: Anchor `page.xi' on input line 200.
  [11
 
+Package `hyperref' Info: End of reference (link) `quadro.2.1', line 5.
 ]
-Package hyperref Info: Anchor `chapter*.9' on input line 198.
- (./dissertação.lob)
-\tf@lob=\write8
-\openout8 = `dissertação.lob'.
+Package hyperref Info: Anchor `chapter*.9' on input line 200.
+ (./dissertação.lod)
+\tf@lod=\write8
+\openout8 = `dissertação.lod'.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 204.
+(babel)             in language  on input line 206.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 204.
-Package hyperref Info: Anchor `page.xii' on input line 204.
+(babel)             in language  on input line 206.
+Package hyperref Info: Anchor `page.xii' on input line 206.
 
 [12
 
 ]
-Package hyperref Info: Anchor `chapter*.10' on input line 204.
- (./dissertação.loc)
-\tf@loc=\write9
-\openout9 = `dissertação.loc'.
+Package hyperref Info: Anchor `chapter*.10' on input line 206.
+ (./dissertação.loe)
+\tf@loe=\write9
+\openout9 = `dissertação.loe'.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 209.
+(babel)             in language  on input line 215.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 209.
-Package hyperref Info: Anchor `page.xiii' on input line 209.
+(babel)             in language  on input line 215.
+Package hyperref Info: Anchor `page.xiii' on input line 215.
  [13
 
 ]
-Package hyperref Info: Anchor `chapter*.11' on input line 209.
+Package hyperref Info: Anchor `chapter*.11' on input line 215.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 209.
-Package hyperref Info: Anchor `listaabreviaturas.0' on input line 209.
+(babel)             in language  on input line 215.
+Package hyperref Info: Anchor `listaabreviaturas.0' on input line 215.
  (./dissertação.lof)
 \tf@lof=\write10
 \openout10 = `dissertação.lof'.
@@ -993,17 +1018,17 @@ Package hyperref Info: Anchor `listaabreviaturas.0' on input line 209.
 Package hyperref Info: Anchor `table.0.1' on input line 6.
 )
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 220.
+(babel)             in language  on input line 226.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 220.
-Package hyperref Info: Anchor `page.xiv' on input line 220.
+(babel)             in language  on input line 226.
+Package hyperref Info: Anchor `page.xiv' on input line 226.
  [14
 
 ]
-Package hyperref Info: Anchor `chapter*.12' on input line 220.
+Package hyperref Info: Anchor `chapter*.12' on input line 226.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 220.
-Package hyperref Info: Anchor `contents.0' on input line 220.
+(babel)             in language  on input line 226.
+Package hyperref Info: Anchor `contents.0' on input line 226.
  (./dissertação.toc
 Underfull \hbox (badness 10000) in paragraph at lines 2--2
  []  
@@ -1211,10 +1236,10 @@ Package hyperref Info: Reference (link) `section.d.1' on input line 66.
 \openout11 = `dissertação.toc'.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 222.
+(babel)             in language  on input line 228.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 222.
-Package hyperref Info: Anchor `page.xvii' on input line 222.
+(babel)             in language  on input line 228.
+Package hyperref Info: Anchor `page.xvii' on input line 228.
  [17
 Package `hyperref' Info: End of reference (link) `appendix.C', line 52.
 Package `hyperref' Info: End of reference (link) `section.C.1', line 53.
@@ -1231,12 +1256,12 @@ Package `hyperref' Info: End of reference (link) `section.c.2', line 64.
 Package `hyperref' Info: End of reference (link) `annex.d', line 65.
 Package `hyperref' Info: End of reference (link) `section.d.1', line 66.
 ]
-Package hyperref Info: Anchor `chapter.1' on input line 225.
+Package hyperref Info: Anchor `chapter.1' on input line 231.
 
 Cap\'{\i }tulo 1.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 225.
-pdftex: bookmark at 225: {1} {\numberline{1}Introdu\c c\~ao} {chapter.1}{0}{toc
+(babel)             in language  on input line 231.
+pdftex: bookmark at 231: {1} {\numberline{1}Introdu\c c\~ao} {chapter.1}{0}{toc
 }
 (./Introducao/introducao.tex
 Package hyperref Info: Anchor `section.1.1' on input line 1.
@@ -1245,6 +1270,10 @@ Package babel Info: Redefining portuges shorthand "|
 
 pdftex: bookmark at 1: {1.1} {\numberline{1.1}Motiva\c c\~ao, Import\^ancia e J
 ustificativa} {section.1.1}{1}{toc}
+Package hyperref Info: Reference (cite) `cite.moreira2004particulas' on input l
+ine 2.
+Package hyperref Info: Reference (cite) `cite.moreira2004particulas' on input l
+ine 2.
 Package hyperref Info: Anchor `section.1.2' on input line 3.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 3.
@@ -1268,26 +1297,30 @@ pdftex: bookmark at 12: {1.4} {\numberline{1.4}Organiza\c c\~ao do Trabalho} {s
 ection.1.4}{1}{toc}
 )
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 228.
+(babel)             in language  on input line 234.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 228.
-Package hyperref Info: Anchor `page.1' on input line 228.
+(babel)             in language  on input line 234.
+Package hyperref Info: Anchor `page.1' on input line 234.
  [1
 
 
+Package `hyperref' Info: End of reference (cite) `cite.moreira2004particulas', 
+line 2.
+Package `hyperref' Info: End of reference (cite) `cite.moreira2004particulas', 
+line 2.
 ]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 228.
+(babel)             in language  on input line 234.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 228.
-Package hyperref Info: Anchor `page.2' on input line 228.
+(babel)             in language  on input line 234.
+Package hyperref Info: Anchor `page.2' on input line 234.
  [2]
-Package hyperref Info: Anchor `chapter.2' on input line 228.
+Package hyperref Info: Anchor `chapter.2' on input line 234.
 
 Cap\'{\i }tulo 2.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 228.
-pdftex: bookmark at 228: {2} {\numberline{2}Fundamenta\c c\~ao Te\'orica} {chap
+(babel)             in language  on input line 234.
+pdftex: bookmark at 234: {2} {\numberline{2}Fundamenta\c c\~ao Te\'orica} {chap
 ter.2}{0}{toc}
 (./Fundamentacao_Teorica/fundamentacao.tex
 Package hyperref Info: Anchor `section.2.1' on input line 1.
@@ -1296,17 +1329,18 @@ Package babel Info: Redefining portuges shorthand "|
 
 pdftex: bookmark at 1: {2.1} {\numberline{2.1}Base Legal} {section.2.1}{1}{toc}
 
-Package hyperref Info: Anchor `figure.caption.13' on input line 22.
-<Fundamentacao_Teorica/spiderrobot.JPG, id=506, 614.295pt x 462.22687pt>
+<Fundamentacao_Teorica/spiderrobot.JPG, id=507, 614.295pt x 462.22687pt>
 File: Fundamentacao_Teorica/spiderrobot.JPG Graphic file (type jpg)
 <use Fundamentacao_Teorica/spiderrobot.JPG>
 Package pdftex.def Info: Fundamentacao_Teorica/spiderrobot.JPG  used on input l
 ine 24. on input line 24.
-Package pdftex.def Info: Requested size: 341.43307pt x 256.91275pt on input lin
+Package pdftex.def Info: Requested size: 227.62206pt x 171.27516pt on input lin
 e 24.
+Package hyperref Info: bookmark level for unknown figura defaults to 0 on input
+ line 25.
 pdftex: bookmark at 25: {1} {\numberline{1}{\ignorespaces Cupim cibern\'etico.\
-relax }} {figure.caption.13}{0}{lof}
-Package hyperref Info: Anchor `figure.caption.14' on input line 28.
+relax }} {figura.2.1}{0}{loa}
+Package hyperref Info: Anchor `figura.2.1' on input line 26.
 File: Fundamentacao_Teorica/spiderrobot.JPG Graphic file (type jpg)
 <use Fundamentacao_Teorica/spiderrobot.JPG>
 Package pdftex.def Info: Fundamentacao_Teorica/spiderrobot.JPG  used on input l
@@ -1314,52 +1348,87 @@ ine 30. on input line 30.
 Package pdftex.def Info: Requested size: 341.43307pt x 256.91275pt on input lin
 e 30.
 pdftex: bookmark at 31: {2} {\numberline{2}{\ignorespaces Cupim cibern\'etico.\
-relax }} {figure.caption.14}{0}{lof}
+relax }} {figura.2.2}{0}{loa}
+Package hyperref Info: Anchor `figura.2.2' on input line 32.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-Package hyperref Info: Anchor `section.2.2' on input line 41.
+File: Fundamentacao_Teorica/spiderrobot.JPG Graphic file (type jpg)
+<use Fundamentacao_Teorica/spiderrobot.JPG>
+Package pdftex.def Info: Fundamentacao_Teorica/spiderrobot.JPG  used on input l
+ine 36. on input line 36.
+Package pdftex.def Info: Requested size: 341.43307pt x 256.91275pt on input lin
+e 36.
+Package hyperref Info: bookmark level for unknown tabela defaults to 0 on input
+ line 37.
+pdftex: bookmark at 37: {1} {\numberline{1}{\ignorespaces Cupim cibern\'etico.\
+relax }} {tabela.2.1}{0}{lob}
+Package hyperref Info: Anchor `tabela.2.1' on input line 38.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Fundamentacao_Teorica/spiderrobot.JPG Graphic file (type jpg)
+<use Fundamentacao_Teorica/spiderrobot.JPG>
+Package pdftex.def Info: Fundamentacao_Teorica/spiderrobot.JPG  used on input l
+ine 42. on input line 42.
+Package pdftex.def Info: Requested size: 341.43307pt x 256.91275pt on input lin
+e 42.
+Package hyperref Info: bookmark level for unknown quadro defaults to 0 on input
+ line 43.
+pdftex: bookmark at 43: {1} {\numberline{1}{\ignorespaces Cupim cibern\'etico.\
+relax }} {quadro.2.1}{0}{loc}
+Package hyperref Info: Anchor `quadro.2.1' on input line 44.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package hyperref Info: Anchor `section.2.2' on input line 54.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 41.
-pdftex: bookmark at 41: {2.2} {\numberline{2.2}Revis\~ao de Trabalhos Relaciona
+(babel)             in language  on input line 54.
+pdftex: bookmark at 54: {2.2} {\numberline{2.2}Revis\~ao de Trabalhos Relaciona
 dos com o Tema} {section.2.2}{1}{toc}
-Package hyperref Info: Anchor `section.2.3' on input line 43.
+Package hyperref Info: Anchor `section.2.3' on input line 56.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 43.
-pdftex: bookmark at 43: {2.3} {\numberline{2.3}Referenciais Te\'oricos} {sectio
+(babel)             in language  on input line 56.
+pdftex: bookmark at 56: {2.3} {\numberline{2.3}Referenciais Te\'oricos} {sectio
 n.2.3}{1}{toc}
+Package hyperref Info: Anchor `subsection.2.3.1' on input line 58.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 45.
+(babel)             in language  on input line 58.
+pdftex: bookmark at 58: {2.3.1} {\numberline{2.3.1}David Ausubel - Aprendizagem
+ Significativa} {subsection.2.3.1}{2}{toc}
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 45.
-Package hyperref Info: Anchor `page.3' on input line 45.
+(babel)             in language  on input line 60.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 60.
+Package hyperref Info: Anchor `page.3' on input line 60.
 [3
 
  <./Fundamentacao_Teorica/spiderrobot.JPG>]
-Package hyperref Info: Anchor `subsection.2.3.1' on input line 45.
+Package hyperref Info: Anchor `subsection.2.3.2' on input line 60.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 45.
+(babel)             in language  on input line 60.
 
-pdftex: bookmark at 45: {2.3.1} {\numberline{2.3.1}David Ausubel - Aprendizagem
- Significativa} {subsection.2.3.1}{2}{toc}
-Package hyperref Info: Anchor `subsection.2.3.2' on input line 47.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 47.
-pdftex: bookmark at 47: {2.3.2} {\numberline{2.3.2}Marc Prensky - Aprendizagem 
+pdftex: bookmark at 60: {2.3.2} {\numberline{2.3.2}Marc Prensky - Aprendizagem 
 Baseada em Jogos Digitais} {subsection.2.3.2}{2}{toc}
 )
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 231.
+(babel)             in language  on input line 237.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 231.
-Package hyperref Info: Anchor `page.4' on input line 231.
+(babel)             in language  on input line 237.
+Package hyperref Info: Anchor `page.4' on input line 237.
  [4]
-Package hyperref Info: Anchor `chapter.3' on input line 231.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 237.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 237.
+Package hyperref Info: Anchor `page.5' on input line 237.
+ [5]
+Package hyperref Info: Anchor `chapter.3' on input line 237.
 
 Cap\'{\i }tulo 3.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 231.
-pdftex: bookmark at 231: {3} {\numberline{3}Descri\c c\~ao do Produto Educacion
+(babel)             in language  on input line 237.
+pdftex: bookmark at 237: {3} {\numberline{3}Descri\c c\~ao do Produto Educacion
 al} {chapter.3}{0}{toc}
 (./Descricao_do_Produto/descricao.tex
 Package hyperref Info: Anchor `section.3.1' on input line 1.
@@ -1380,8 +1449,8 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 27.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 27.
-Package hyperref Info: Anchor `page.5' on input line 27.
-[5
+Package hyperref Info: Anchor `page.6' on input line 27.
+[6
 
 Package `hyperref' Info: End of reference (cite) `cite.marji2014aprenda', line 
 11.
@@ -1417,20 +1486,20 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 70.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 70.
-Package hyperref Info: Anchor `page.6' on input line 70.
-[6])
+Package hyperref Info: Anchor `page.7' on input line 70.
+[7])
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 234.
+(babel)             in language  on input line 240.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 234.
-Package hyperref Info: Anchor `page.7' on input line 234.
- [7]
-Package hyperref Info: Anchor `chapter.4' on input line 234.
+(babel)             in language  on input line 240.
+Package hyperref Info: Anchor `page.8' on input line 240.
+ [8]
+Package hyperref Info: Anchor `chapter.4' on input line 240.
 
 Cap\'{\i }tulo 4.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 234.
-pdftex: bookmark at 234: {4} {\numberline{4}Aplica\c c\~ao do Produto Educacion
+(babel)             in language  on input line 240.
+pdftex: bookmark at 240: {4} {\numberline{4}Aplica\c c\~ao do Produto Educacion
 al} {chapter.4}{0}{toc}
 (./Aplicacao_do_Produto/aplicacao.tex
 Package hyperref Info: Anchor `section.4.1' on input line 1.
@@ -1449,7 +1518,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 20.
 pdftex: bookmark at 20: {4.2.1} {\numberline{4.2.1}1\IeC {\textordfeminine } Au
 la: Pesquisa inicial - Jogos Digitais} {subsection.4.2.1}{2}{toc}
-Package hyperref Info: Reference (link) `figure.caption.18' on input line 28.
+Package hyperref Info: Reference (link) `figura.b.4' on input line 28.
 Package hyperref Info: Reference (cite) `cite.moreira2004particulas' on input l
 ine 28.
 Package hyperref Info: Reference (cite) `cite.moreira2004particulas' on input l
@@ -1495,30 +1564,30 @@ ula: Pesquisa final - aplica\c c\~ao do produto educacional} {subsection.4.2.8}
 {2}{toc}
 )
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 237.
+(babel)             in language  on input line 243.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 237.
-Package hyperref Info: Anchor `page.8' on input line 237.
- [8
+(babel)             in language  on input line 243.
+Package hyperref Info: Anchor `page.9' on input line 243.
+ [9
 
-Package `hyperref' Info: End of reference (link) `figure.caption.18', line 28.
+Package `hyperref' Info: End of reference (link) `figura.b.4', line 28.
 Package `hyperref' Info: End of reference (cite) `cite.moreira2004particulas', 
 line 28.
 Package `hyperref' Info: End of reference (cite) `cite.moreira2004particulas', 
 line 28.
 ]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 237.
+(babel)             in language  on input line 243.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 237.
-Package hyperref Info: Anchor `page.9' on input line 237.
- [9]
-Package hyperref Info: Anchor `chapter.5' on input line 237.
+(babel)             in language  on input line 243.
+Package hyperref Info: Anchor `page.10' on input line 243.
+ [10]
+Package hyperref Info: Anchor `chapter.5' on input line 243.
 
 Cap\'{\i }tulo 5.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 237.
-pdftex: bookmark at 237: {5} {\numberline{5}Resultados e Discuss\~oes} {chapter
+(babel)             in language  on input line 243.
+pdftex: bookmark at 243: {5} {\numberline{5}Resultados e Discuss\~oes} {chapter
 .5}{0}{toc}
 (./Resultados_e_Discussoes/resultados.tex
 Package hyperref Info: Anchor `section.5.1' on input line 1.
@@ -1569,21 +1638,20 @@ pdftex: bookmark at 12: {5.1.8} {\numberline{5.1.8}An\'alise da Pesquisa Final}
  {subsection.5.1.8}{2}{toc}
 )
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 240.
+(babel)             in language  on input line 246.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 240.
-Package hyperref Info: Anchor `page.10' on input line 240.
- [10
+(babel)             in language  on input line 246.
+Package hyperref Info: Anchor `page.11' on input line 246.
+ [11
 
 ]
-Package hyperref Info: Anchor `chapter.6' on input line 240.
+Package hyperref Info: Anchor `chapter.6' on input line 246.
 
 Cap\'{\i }tulo 6.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 240.
-pdftex: bookmark at 240: {6} {\numberline{6}Conclus\~ao} {chapter.6}{0}{toc}
+(babel)             in language  on input line 246.
+pdftex: bookmark at 246: {6} {\numberline{6}Conclus\~ao} {chapter.6}{0}{toc}
 (./Conclusao/conclusao.tex
-Package hyperref Info: Anchor `figure.caption.15' on input line 3.
 File: Fundamentacao_Teorica/spiderrobot.JPG Graphic file (type jpg)
 <use Fundamentacao_Teorica/spiderrobot.JPG>
 Package pdftex.def Info: Fundamentacao_Teorica/spiderrobot.JPG  used on input l
@@ -1592,7 +1660,8 @@ Package pdftex.def Info: Requested size: 341.43307pt x 256.91275pt on input lin
 e 5.
 
 pdftex: bookmark at 6: {3} {\numberline{3}{\ignorespaces Cupim cibern\'etico.\r
-elax }} {figure.caption.15}{0}{lof}
+elax }} {figura.6.3}{0}{loa}
+Package hyperref Info: Anchor `figura.6.3' on input line 7.
 ) (./dissertação.bbl (./dissertação.brf)
 \tf@brf=\write12
 \openout12 = `dissertação.brf'.
@@ -1601,11 +1670,11 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 3.
-Package hyperref Info: Anchor `page.11' on input line 3.
- [11
+Package hyperref Info: Anchor `page.12' on input line 3.
+ [12
 
 ]
-Package hyperref Info: Anchor `chapter*.16' on input line 3.
+Package hyperref Info: Anchor `chapter*.13' on input line 3.
 Package hyperref Info: Anchor `chapter.7' on input line 3.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 3.
@@ -1615,19 +1684,19 @@ Package hyperref Info: Anchor `cite.marji2014aprenda' on input line 13.
 Package hyperref Info: Anchor `cite.moreira2004particulas' on input line 19.
 )
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 249.
+(babel)             in language  on input line 255.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 249.
-Package hyperref Info: Anchor `page.12' on input line 249.
- [12
+(babel)             in language  on input line 255.
+Package hyperref Info: Anchor `page.13' on input line 255.
+ [13
 
 ]
-Package hyperref Info: Anchor `appendix.A' on input line 250.
+Package hyperref Info: Anchor `appendix.A' on input line 256.
 
 Ap\^endice A.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 250.
-pdftex: bookmark at 250: {A} {\numberline{A}O Jogo Digital} {appendix.A}{0}{toc
+(babel)             in language  on input line 256.
+pdftex: bookmark at 256: {A} {\numberline{A}O Jogo Digital} {appendix.A}{0}{toc
 }
 (./ApeA/apea.tex
 Package hyperref Info: Anchor `section.A.1' on input line 4.
@@ -1646,20 +1715,20 @@ Package babel Info: Redefining portuges shorthand "|
 pdftex: bookmark at 12: {A.3} {\numberline{A.3}Design} {section.A.3}{1}{toc}
 )
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 253.
+(babel)             in language  on input line 259.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 253.
-Package hyperref Info: Anchor `page.13' on input line 253.
- [13
+(babel)             in language  on input line 259.
+Package hyperref Info: Anchor `page.14' on input line 259.
+ [14
 
 
 ]
-Package hyperref Info: Anchor `appendix.B' on input line 253.
+Package hyperref Info: Anchor `appendix.B' on input line 259.
 
 Ap\^endice B.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 253.
-pdftex: bookmark at 253: {B} {\numberline{B}Question\'arios} {appendix.B}{0}{to
+(babel)             in language  on input line 259.
+pdftex: bookmark at 259: {B} {\numberline{B}Question\'arios} {appendix.B}{0}{to
 c}
 (./ApeB/apeb.tex
 Package hyperref Info: Anchor `section.B.1' on input line 1.
@@ -1683,19 +1752,19 @@ Package babel Info: Redefining portuges shorthand "|
 pdftex: bookmark at 11: {B.4} {\numberline{B.4}Final} {section.B.4}{1}{toc}
 )
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 256.
+(babel)             in language  on input line 262.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 256.
-Package hyperref Info: Anchor `page.14' on input line 256.
- [14
+(babel)             in language  on input line 262.
+Package hyperref Info: Anchor `page.15' on input line 262.
+ [15
 
 ]
-Package hyperref Info: Anchor `appendix.C' on input line 256.
+Package hyperref Info: Anchor `appendix.C' on input line 262.
 
 Ap\^endice C.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 256.
-pdftex: bookmark at 256: {C} {\numberline{C}Atividades} {appendix.C}{0}{toc}
+(babel)             in language  on input line 262.
+pdftex: bookmark at 262: {C} {\numberline{C}Atividades} {appendix.C}{0}{toc}
 (./ApeC/apec.tex
 Package hyperref Info: Anchor `section.C.1' on input line 1.
 Package babel Info: Redefining portuges shorthand "|
@@ -1705,19 +1774,19 @@ pdftex: bookmark at 1: {C.1} {\numberline{C.1}Resenha Cr\IeC {\'\i }tica} {sect
 ion.C.1}{1}{toc}
 )
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 259.
+(babel)             in language  on input line 265.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 259.
-Package hyperref Info: Anchor `page.15' on input line 259.
- [15
+(babel)             in language  on input line 265.
+Package hyperref Info: Anchor `page.16' on input line 265.
+ [16
 
 ]
-Package hyperref Info: Anchor `appendix.D' on input line 259.
+Package hyperref Info: Anchor `appendix.D' on input line 265.
 
 Ap\^endice D.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 259.
-pdftex: bookmark at 259: {D} {\numberline{D}Aula Expositiva} {appendix.D}{0}{to
+(babel)             in language  on input line 265.
+pdftex: bookmark at 265: {D} {\numberline{D}Aula Expositiva} {appendix.D}{0}{to
 c}
 (./ApeD/aped.tex
 Package hyperref Info: Anchor `section.D.1' on input line 1.
@@ -1727,19 +1796,19 @@ Package babel Info: Redefining portuges shorthand "|
 pdftex: bookmark at 1: {D.1} {\numberline{D.1}Slides} {section.D.1}{1}{toc}
 )
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 264.
+(babel)             in language  on input line 270.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 264.
-Package hyperref Info: Anchor `page.16' on input line 264.
- [16
+(babel)             in language  on input line 270.
+Package hyperref Info: Anchor `page.17' on input line 270.
+ [17
 
 ]
-Package hyperref Info: Anchor `annex.a' on input line 265.
+Package hyperref Info: Anchor `annex.a' on input line 271.
 
 Anexo A.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 265.
-pdftex: bookmark at 265: {A} {\numberline{A}Manuais do Scratch} {annex.a}{0}{to
+(babel)             in language  on input line 271.
+pdftex: bookmark at 271: {A} {\numberline{A}Manuais do Scratch} {annex.a}{0}{to
 c}
 (./AneA/anea.tex
 Package hyperref Info: Anchor `section.a.1' on input line 8.
@@ -1750,20 +1819,20 @@ pdftex: bookmark at 8: {A.1} {\numberline{A.1}Manuais do Scratch} {section.a.1}
 {1}{toc}
 )
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 268.
+(babel)             in language  on input line 274.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 268.
-Package hyperref Info: Anchor `page.17' on input line 268.
- [17
+(babel)             in language  on input line 274.
+Package hyperref Info: Anchor `page.18' on input line 274.
+ [18
 
 
 ]
-Package hyperref Info: Anchor `annex.b' on input line 268.
+Package hyperref Info: Anchor `annex.b' on input line 274.
 
 Anexo B.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 268.
-pdftex: bookmark at 268: {B} {\numberline{B}Materiais de Apoio} {annex.b}{0}{to
+(babel)             in language  on input line 274.
+pdftex: bookmark at 274: {B} {\numberline{B}Materiais de Apoio} {annex.b}{0}{to
 c}
 (./AneB/aneb.tex
 Package hyperref Info: Anchor `section.b.1' on input line 3.
@@ -1772,107 +1841,107 @@ Package babel Info: Redefining portuges shorthand "|
 
 pdftex: bookmark at 3: {B.1} {\numberline{B.1}Texto Base} {section.b.1}{1}{toc}
 
-Package hyperref Info: Anchor `figure.caption.17' on input line 7.
-<AneB/artigo_parte_1.pdf, id=581, pagebox=cropbox, 614.295pt x 794.97pt>
+<AneB/artigo_parte_1.pdf, id=584, pagebox=cropbox, 614.295pt x 794.97pt>
 File: AneB/artigo_parte_1.pdf Graphic file (type pdf)
 <use AneB/artigo_parte_1.pdf>
-Package pdftex.def Info: AneB/artigo_parte_1.pdf  used on input line 9. on inpu
-t line 9.
+Package pdftex.def Info: AneB/artigo_parte_1.pdf  used on input line 10. on inp
+ut line 10.
 Package pdftex.def Info: Requested size: 455.24411pt x 589.14197pt on input lin
-e 9.
-pdftex: bookmark at 10: {4} {\numberline{4}{\ignorespaces Artigo: Part\IeC {\'\
-i }culas e Intera\c c\~oes - P\'agina 1\relax }} {figure.caption.17}{0}{lof}
-Package hyperref Info: Anchor `figure.caption.18' on input line 14.
-<AneB/artigo_parte_2.pdf, id=582, pagebox=cropbox, 614.295pt x 794.97pt>
+e 10.
+pdftex: bookmark at 11: {4} {\numberline{4}{\ignorespaces Artigo: Part\IeC {\'\
+i }culas e Intera\c c\~oes - P\'agina 1\relax }} {figura.b.4}{0}{loa}
+Package hyperref Info: Anchor `figura.b.4' on input line 13.
+<AneB/artigo_parte_2.pdf, id=585, pagebox=cropbox, 614.295pt x 794.97pt>
 File: AneB/artigo_parte_2.pdf Graphic file (type pdf)
 <use AneB/artigo_parte_2.pdf>
-Package pdftex.def Info: AneB/artigo_parte_2.pdf  used on input line 16. on inp
-ut line 16.
+Package pdftex.def Info: AneB/artigo_parte_2.pdf  used on input line 17. on inp
+ut line 17.
 Package pdftex.def Info: Requested size: 455.24411pt x 589.14197pt on input lin
-e 16.
-pdftex: bookmark at 17: {5} {\numberline{5}{\ignorespaces Artigo: Part\IeC {\'\
-i }culas e Intera\c c\~oes - P\'agina 2\relax }} {figure.caption.18}{0}{lof}
-Package hyperref Info: Anchor `figure.caption.19' on input line 21.
-<AneB/artigo_parte_3.pdf, id=583, pagebox=cropbox, 614.295pt x 794.97pt>
+e 17.
+pdftex: bookmark at 18: {5} {\numberline{5}{\ignorespaces Artigo: Part\IeC {\'\
+i }culas e Intera\c c\~oes - P\'agina 2\relax }} {figura.b.5}{0}{loa}
+Package hyperref Info: Anchor `figura.b.5' on input line 20.
+<AneB/artigo_parte_3.pdf, id=586, pagebox=cropbox, 614.295pt x 794.97pt>
 File: AneB/artigo_parte_3.pdf Graphic file (type pdf)
 <use AneB/artigo_parte_3.pdf>
-Package pdftex.def Info: AneB/artigo_parte_3.pdf  used on input line 23. on inp
-ut line 23.
+Package pdftex.def Info: AneB/artigo_parte_3.pdf  used on input line 24. on inp
+ut line 24.
 Package pdftex.def Info: Requested size: 455.24411pt x 589.14197pt on input lin
-e 23.
-pdftex: bookmark at 24: {6} {\numberline{6}{\ignorespaces Artigo: Part\IeC {\'\
-i }culas e Intera\c c\~oes - P\'agina 3\relax }} {figure.caption.19}{0}{lof}
-Package hyperref Info: Anchor `figure.caption.20' on input line 28.
-<AneB/artigo_parte_4.pdf, id=584, pagebox=cropbox, 614.295pt x 794.97pt>
+e 24.
+pdftex: bookmark at 25: {6} {\numberline{6}{\ignorespaces Artigo: Part\IeC {\'\
+i }culas e Intera\c c\~oes - P\'agina 3\relax }} {figura.b.6}{0}{loa}
+Package hyperref Info: Anchor `figura.b.6' on input line 27.
+<AneB/artigo_parte_4.pdf, id=587, pagebox=cropbox, 614.295pt x 794.97pt>
 File: AneB/artigo_parte_4.pdf Graphic file (type pdf)
 <use AneB/artigo_parte_4.pdf>
-Package pdftex.def Info: AneB/artigo_parte_4.pdf  used on input line 30. on inp
-ut line 30.
+Package pdftex.def Info: AneB/artigo_parte_4.pdf  used on input line 31. on inp
+ut line 31.
 Package pdftex.def Info: Requested size: 455.24411pt x 589.14197pt on input lin
-e 30.
-pdftex: bookmark at 31: {7} {\numberline{7}{\ignorespaces Artigo: Part\IeC {\'\
-i }culas e Intera\c c\~oes - P\'agina 4\relax }} {figure.caption.20}{0}{lof}
-Package hyperref Info: Anchor `figure.caption.21' on input line 35.
-<AneB/artigo_parte_5.pdf, id=585, pagebox=cropbox, 614.295pt x 794.97pt>
+e 31.
+pdftex: bookmark at 32: {7} {\numberline{7}{\ignorespaces Artigo: Part\IeC {\'\
+i }culas e Intera\c c\~oes - P\'agina 4\relax }} {figura.b.7}{0}{loa}
+Package hyperref Info: Anchor `figura.b.7' on input line 34.
+<AneB/artigo_parte_5.pdf, id=588, pagebox=cropbox, 614.295pt x 794.97pt>
 File: AneB/artigo_parte_5.pdf Graphic file (type pdf)
 <use AneB/artigo_parte_5.pdf>
-Package pdftex.def Info: AneB/artigo_parte_5.pdf  used on input line 37. on inp
-ut line 37.
+Package pdftex.def Info: AneB/artigo_parte_5.pdf  used on input line 38. on inp
+ut line 38.
 Package pdftex.def Info: Requested size: 455.24411pt x 589.14197pt on input lin
-e 37.
-pdftex: bookmark at 38: {8} {\numberline{8}{\ignorespaces Artigo: Part\IeC {\'\
-i }culas e Intera\c c\~oes - P\'agina 5\relax }} {figure.caption.21}{0}{lof}
-Package hyperref Info: Anchor `section.b.2' on input line 42.
+e 38.
+pdftex: bookmark at 39: {8} {\numberline{8}{\ignorespaces Artigo: Part\IeC {\'\
+i }culas e Intera\c c\~oes - P\'agina 5\relax }} {figura.b.8}{0}{loa}
+Package hyperref Info: Anchor `figura.b.8' on input line 41.
+Package hyperref Info: Anchor `section.b.2' on input line 43.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 42.
-pdftex: bookmark at 42: {B.2} {\numberline{B.2}V\IeC {\'\i }deo} {section.b.2}{
+(babel)             in language  on input line 43.
+pdftex: bookmark at 43: {B.2} {\numberline{B.2}V\IeC {\'\i }deo} {section.b.2}{
 1}{toc}
 )
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 271.
+(babel)             in language  on input line 277.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 271.
-Package hyperref Info: Anchor `page.18' on input line 271.
- [18
+(babel)             in language  on input line 277.
+Package hyperref Info: Anchor `page.19' on input line 277.
+ [19
 
 ]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 271.
+(babel)             in language  on input line 277.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 271.
-Package hyperref Info: Anchor `page.19' on input line 271.
- [19 <./AneB/artigo_parte_1.pdf>]
+(babel)             in language  on input line 277.
+Package hyperref Info: Anchor `page.20' on input line 277.
+ [20 <./AneB/artigo_parte_1.pdf>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 271.
+(babel)             in language  on input line 277.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 271.
-Package hyperref Info: Anchor `page.20' on input line 271.
- [20 <./AneB/artigo_parte_2.pdf>]
+(babel)             in language  on input line 277.
+Package hyperref Info: Anchor `page.21' on input line 277.
+ [21 <./AneB/artigo_parte_2.pdf>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 271.
+(babel)             in language  on input line 277.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 271.
-Package hyperref Info: Anchor `page.21' on input line 271.
+(babel)             in language  on input line 277.
+Package hyperref Info: Anchor `page.22' on input line 277.
 
-[21 <./AneB/artigo_parte_3.pdf>]
+[22 <./AneB/artigo_parte_3.pdf>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 271.
+(babel)             in language  on input line 277.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 271.
-Package hyperref Info: Anchor `page.22' on input line 271.
- [22 <./AneB/artigo_parte_4.pdf>]
+(babel)             in language  on input line 277.
+Package hyperref Info: Anchor `page.23' on input line 277.
+ [23 <./AneB/artigo_parte_4.pdf>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 271.
+(babel)             in language  on input line 277.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 271.
-Package hyperref Info: Anchor `page.23' on input line 271.
- [23 <./AneB/artigo_parte_5.pdf>]
-Package hyperref Info: Anchor `annex.c' on input line 271.
+(babel)             in language  on input line 277.
+Package hyperref Info: Anchor `page.24' on input line 277.
+ [24 <./AneB/artigo_parte_5.pdf>]
+Package hyperref Info: Anchor `annex.c' on input line 277.
 
 Anexo C.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 271.
-pdftex: bookmark at 271: {C} {\numberline{C}Autoriza\c c\~oes} {annex.c}{0}{toc
+(babel)             in language  on input line 277.
+pdftex: bookmark at 277: {C} {\numberline{C}Autoriza\c c\~oes} {annex.c}{0}{toc
 }
 (./AneC/anec.tex
 Package hyperref Info: Anchor `section.c.1' on input line 3.
@@ -1888,19 +1957,19 @@ pdftex: bookmark at 7: {C.2} {\numberline{C.2}Autoriza\c c\~ao para Menor} {sec
 tion.c.2}{1}{toc}
 )
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 274.
+(babel)             in language  on input line 280.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 274.
-Package hyperref Info: Anchor `page.24' on input line 274.
- [24
+(babel)             in language  on input line 280.
+Package hyperref Info: Anchor `page.25' on input line 280.
+ [25
 
 ]
-Package hyperref Info: Anchor `annex.d' on input line 274.
+Package hyperref Info: Anchor `annex.d' on input line 280.
 
 Anexo D.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 274.
-pdftex: bookmark at 274: {D} {\numberline{D}Registro de Imagens} {annex.d}{0}{t
+(babel)             in language  on input line 280.
+pdftex: bookmark at 280: {D} {\numberline{D}Registro de Imagens} {annex.d}{0}{t
 oc}
 (./AneD/aned.tex
 Package hyperref Info: Anchor `section.d.1' on input line 3.
@@ -1912,59 +1981,50 @@ pdftex: bookmark at 3: {D.1} {\numberline{D.1}Fotografias} {section.d.1}{1}{toc
 ) 
 AED: lastpage setting LastPage
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 300.
+(babel)             in language  on input line 306.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 300.
-Package hyperref Info: Anchor `page.25' on input line 300.
-[25
+(babel)             in language  on input line 306.
+Package hyperref Info: Anchor `page.26' on input line 306.
+[26
 
 ]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 300.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 300.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 300.
+(babel)             in language  on input line 306.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 306.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 306.
  (./dissertação.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 300.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 300.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 306.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 306.
 Package rerunfilecheck Info: File `dissertação.out' has not changed.
-(rerunfilecheck)             Checksum: 660D893218DE51D43A47343D6C73911E;5457.
+(rerunfilecheck)             Checksum: A52C0087EEF1AE6563F11FBB61F27E3A;5395.
 Package rerunfilecheck Info: File `dissertação.brf' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 300.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 306.
  ) 
 Here is how much of TeX's memory you used:
- 10773 strings out of 492990
- 159564 string characters out of 6135005
- 263909 words of memory out of 5000000
- 13814 multiletter control sequences out of 15000+600000
+ 10861 strings out of 492990
+ 160672 string characters out of 6135005
+ 264978 words of memory out of 5000000
+ 13902 multiletter control sequences out of 15000+600000
  98154 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,12n,45p,457b,622s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{table.caption.15} has been referenced but does no
-t exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.22} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.16} has been referenced but does not
- exist, replaced by a fixed one
-
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/
-dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/sha
-re/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/
-lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/te
-xmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
-7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/
-type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso12.pfb>
-</usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on dissertação.pdf (43 pages, 691582 bytes).
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
+c/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/s
+hare/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/publi
+c/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/
+texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/l
+mr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/font
+s/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso12.pf
+b></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
+Output written on dissertação.pdf (44 pages, 692120 bytes).
 PDF statistics:
- 776 PDF objects out of 1000 (max. 8388607)
- 693 compressed objects within 7 object streams
- 146 named destinations out of 1000 (max. 500000)
- 644 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 778 PDF objects out of 1000 (max. 8388607)
+ 694 compressed objects within 7 object streams
+ 145 named destinations out of 1000 (max. 500000)
+ 636 words of extra memory for PDF output out of 10000 (max. 10000000)
 
