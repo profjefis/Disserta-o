@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2017.11.4)  20 JAN 2018 09:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2017.11.4)  24 JAN 2018 22:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1295,6 +1295,11 @@ Package babel Info: Redefining portuges shorthand "|
 
 pdftex: bookmark at 12: {1.4} {\numberline{1.4}Organiza\c c\~ao do Trabalho} {s
 ection.1.4}{1}{toc}
+Package hyperref Info: Reference (link) `chapter.2' on input line 14.
+Package hyperref Info: Reference (link) `chapter.3' on input line 16.
+Package hyperref Info: Reference (link) `chapter.4' on input line 18.
+Package hyperref Info: Reference (link) `chapter.5' on input line 20.
+Package hyperref Info: Reference (link) `chapter.6' on input line 22.
 )
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 234.
@@ -1308,13 +1313,19 @@ Package `hyperref' Info: End of reference (cite) `cite.moreira2004particulas',
 line 2.
 Package `hyperref' Info: End of reference (cite) `cite.moreira2004particulas', 
 line 2.
+Package `hyperref' Info: End of reference (link) `chapter.2', line 14.
+Package `hyperref' Info: End of reference (link) `chapter.3', line 16.
+Package `hyperref' Info: End of reference (link) `chapter.4', line 18.
+Package `hyperref' Info: End of reference (link) `chapter.5', line 20.
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 234.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 234.
 Package hyperref Info: Anchor `page.2' on input line 234.
- [2]
+ [2
+Package `hyperref' Info: End of reference (link) `chapter.6', line 22.
+]
 Package hyperref Info: Anchor `chapter.2' on input line 234.
 
 Cap\'{\i }tulo 2.
@@ -1329,7 +1340,7 @@ Package babel Info: Redefining portuges shorthand "|
 
 pdftex: bookmark at 1: {2.1} {\numberline{2.1}Base Legal} {section.2.1}{1}{toc}
 
-<Fundamentacao_Teorica/spiderrobot.JPG, id=507, 614.295pt x 462.22687pt>
+<Fundamentacao_Teorica/spiderrobot.JPG, id=512, 614.295pt x 462.22687pt>
 File: Fundamentacao_Teorica/spiderrobot.JPG Graphic file (type jpg)
 <use Fundamentacao_Teorica/spiderrobot.JPG>
 Package pdftex.def Info: Fundamentacao_Teorica/spiderrobot.JPG  used on input l
@@ -1841,7 +1852,7 @@ Package babel Info: Redefining portuges shorthand "|
 
 pdftex: bookmark at 3: {B.1} {\numberline{B.1}Texto Base} {section.b.1}{1}{toc}
 
-<AneB/artigo_parte_1.pdf, id=584, pagebox=cropbox, 614.295pt x 794.97pt>
+<AneB/artigo_parte_1.pdf, id=589, pagebox=cropbox, 614.295pt x 794.97pt>
 File: AneB/artigo_parte_1.pdf Graphic file (type pdf)
 <use AneB/artigo_parte_1.pdf>
 Package pdftex.def Info: AneB/artigo_parte_1.pdf  used on input line 10. on inp
@@ -1851,7 +1862,7 @@ e 10.
 pdftex: bookmark at 11: {4} {\numberline{4}{\ignorespaces Artigo: Part\IeC {\'\
 i }culas e Intera\c c\~oes - P\'agina 1\relax }} {figura.b.4}{0}{loa}
 Package hyperref Info: Anchor `figura.b.4' on input line 13.
-<AneB/artigo_parte_2.pdf, id=585, pagebox=cropbox, 614.295pt x 794.97pt>
+<AneB/artigo_parte_2.pdf, id=590, pagebox=cropbox, 614.295pt x 794.97pt>
 File: AneB/artigo_parte_2.pdf Graphic file (type pdf)
 <use AneB/artigo_parte_2.pdf>
 Package pdftex.def Info: AneB/artigo_parte_2.pdf  used on input line 17. on inp
@@ -1861,7 +1872,7 @@ e 17.
 pdftex: bookmark at 18: {5} {\numberline{5}{\ignorespaces Artigo: Part\IeC {\'\
 i }culas e Intera\c c\~oes - P\'agina 2\relax }} {figura.b.5}{0}{loa}
 Package hyperref Info: Anchor `figura.b.5' on input line 20.
-<AneB/artigo_parte_3.pdf, id=586, pagebox=cropbox, 614.295pt x 794.97pt>
+<AneB/artigo_parte_3.pdf, id=591, pagebox=cropbox, 614.295pt x 794.97pt>
 File: AneB/artigo_parte_3.pdf Graphic file (type pdf)
 <use AneB/artigo_parte_3.pdf>
 Package pdftex.def Info: AneB/artigo_parte_3.pdf  used on input line 24. on inp
@@ -1871,7 +1882,7 @@ e 24.
 pdftex: bookmark at 25: {6} {\numberline{6}{\ignorespaces Artigo: Part\IeC {\'\
 i }culas e Intera\c c\~oes - P\'agina 3\relax }} {figura.b.6}{0}{loa}
 Package hyperref Info: Anchor `figura.b.6' on input line 27.
-<AneB/artigo_parte_4.pdf, id=587, pagebox=cropbox, 614.295pt x 794.97pt>
+<AneB/artigo_parte_4.pdf, id=592, pagebox=cropbox, 614.295pt x 794.97pt>
 File: AneB/artigo_parte_4.pdf Graphic file (type pdf)
 <use AneB/artigo_parte_4.pdf>
 Package pdftex.def Info: AneB/artigo_parte_4.pdf  used on input line 31. on inp
@@ -1881,7 +1892,7 @@ e 31.
 pdftex: bookmark at 32: {7} {\numberline{7}{\ignorespaces Artigo: Part\IeC {\'\
 i }culas e Intera\c c\~oes - P\'agina 4\relax }} {figura.b.7}{0}{loa}
 Package hyperref Info: Anchor `figura.b.7' on input line 34.
-<AneB/artigo_parte_5.pdf, id=588, pagebox=cropbox, 614.295pt x 794.97pt>
+<AneB/artigo_parte_5.pdf, id=593, pagebox=cropbox, 614.295pt x 794.97pt>
 File: AneB/artigo_parte_5.pdf Graphic file (type pdf)
 <use AneB/artigo_parte_5.pdf>
 Package pdftex.def Info: AneB/artigo_parte_5.pdf  used on input line 38. on inp
@@ -2006,10 +2017,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 306.
  ) 
 Here is how much of TeX's memory you used:
- 10861 strings out of 492990
- 160672 string characters out of 6135005
- 264978 words of memory out of 5000000
- 13902 multiletter control sequences out of 15000+600000
+ 10867 strings out of 492990
+ 160768 string characters out of 6135005
+ 265245 words of memory out of 5000000
+ 13908 multiletter control sequences out of 15000+600000
  98154 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,12n,45p,457b,622s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2021,10 +2032,10 @@ texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/l
 mr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/font
 s/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso12.pf
 b></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on dissertação.pdf (44 pages, 692120 bytes).
+Output written on dissertação.pdf (44 pages, 692477 bytes).
 PDF statistics:
- 778 PDF objects out of 1000 (max. 8388607)
- 694 compressed objects within 7 object streams
+ 783 PDF objects out of 1000 (max. 8388607)
+ 699 compressed objects within 7 object streams
  145 named destinations out of 1000 (max. 500000)
  636 words of extra memory for PDF output out of 10000 (max. 10000000)
 
