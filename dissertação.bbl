@@ -5,6 +5,11 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{1.45.2.1 }
 
+\bibitem[author 2010 (accessed December 7, 2014)]{Doe:2009:Online}
+\abntrefinfo{author}{AUTHOR}{2010 (accessed December 7, 2014)}
+{AUTHOR. \textbf{Title of Citation}. 2010 (accessed December 7, 2014).
+\url{http://www.myurl.com}.}
+
 \bibitem[Marji 2014]{marji2014aprenda}
 \abntrefinfo{Marji}{MARJI}{2014}
 {MARJI, M. \textbf{Aprenda a programar com Scratch: uma introdu{\c{c}}{\~a}o

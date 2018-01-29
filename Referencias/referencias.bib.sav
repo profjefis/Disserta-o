@@ -1,3 +1,4 @@
+% Encoding: UTF-8
 % Banco de artigos para a dissertação de mestrado
 %Jogos e Scratch
 @article{de2015aumento,
@@ -83,12 +84,6 @@
   publisher={Novatec Editora}
 }
 
-@misc{Doe:2009:Online,
-author = {author},
-title = {Title of Citation},
-year = {2010 (accessed December 7, 2014)}, 
-howpublished = "\url{http://www.myurl.com}"}
-
 %Partículas Elementares
 
 @article{ostermann1999fisica,
@@ -163,5 +158,4 @@ howpublished = "\url{http://www.myurl.com}"}
   year={2004}
 }
 
-
-
+@Comment{jabref-meta: databaseType:bibtex;}
