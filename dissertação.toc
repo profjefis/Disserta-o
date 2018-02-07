@@ -2,7 +2,7 @@
 \contentsline {chapter}{\numberline {1}Introdu\c c\~ao}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Motiva\c c\~ao, Import\^ancia e Justificativa}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Quest\~ao de Pesquisa e Delimita\c c\~ao}{1}{section.1.2}
-\contentsline {section}{\numberline {1.3}Objetivos}{1}{section.1.3}
+\contentsline {section}{\numberline {1.3}Objetivos e Hip\'oteses }{1}{section.1.3}
 \contentsline {section}{\numberline {1.4}Organiza\c c\~ao do Trabalho}{1}{section.1.4}
 \contentsline {chapter}{\numberline {2}Fundamenta\c c\~ao Te\'orica}{3}{chapter.2}
 \contentsline {section}{\numberline {2.1}Base Legal}{3}{section.2.1}
@@ -13,11 +13,11 @@
 \contentsline {chapter}{\numberline {3}Descri\c c\~ao do Produto Educacional}{4}{chapter.3}
 \contentsline {section}{\numberline {3.1}O Jogo Digital}{4}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}O Scratch}{4}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Programa\c c\~ao}{5}{subsection.3.1.2}
-\contentsline {subsection}{\numberline {3.1.3}Descri\c c\~ao}{5}{subsection.3.1.3}
-\contentsline {subsection}{\numberline {3.1.4}Enredo}{6}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {3.1.2}A Programa\c c\~ao}{5}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Caracter\IeC {\'\i }sticas}{5}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Enredo}{5}{subsection.3.1.4}
 \contentsline {subsection}{\numberline {3.1.5}Atividades Extras}{6}{subsection.3.1.5}
-\contentsline {section}{\numberline {3.2}Organiza\c c\~ao da Sequ\^encia Did\'atica}{7}{section.3.2}
+\contentsline {section}{\numberline {3.2}Organiza\c c\~ao da Sequ\^encia Did\'atica}{6}{section.3.2}
 \contentsline {chapter}{\numberline {4}Aplica\c c\~ao do Produto Educacional}{8}{chapter.4}
 \contentsline {section}{\numberline {4.1}Metodologia}{8}{section.4.1}
 \contentsline {section}{\numberline {4.2}Relato de Experi\^encia}{8}{section.4.2}
@@ -44,25 +44,14 @@
 \SetAppendixTocName {Ap\^endice}
 \contentsline {chapter}{\numberline {A}O Jogo Digital}{13}{appendix.A}
 \contentsline {section}{\numberline {A.1}Enredo}{13}{section.A.1}
-\contentsline {section}{\numberline {A.2}Programa\c c\~ao}{13}{section.A.2}
-\contentsline {section}{\numberline {A.3}Design}{13}{section.A.3}
-\contentsline {chapter}{\numberline {B}Question\'arios}{14}{appendix.B}
-\contentsline {section}{\numberline {B.1}Inicial}{14}{section.B.1}
-\contentsline {section}{\numberline {B.2}Pr\'e-Teste}{14}{section.B.2}
-\contentsline {section}{\numberline {B.3}P\'os-Teste}{14}{section.B.3}
-\contentsline {section}{\numberline {B.4}Final}{14}{section.B.4}
-\contentsline {chapter}{\numberline {C}Atividades}{15}{appendix.C}
-\contentsline {section}{\numberline {C.1}Resenha Cr\IeC {\'\i }tica}{15}{section.C.1}
-\contentsline {chapter}{\numberline {D}Aula Expositiva}{16}{appendix.D}
-\contentsline {section}{\numberline {D.1}Slides}{16}{section.D.1}
+\contentsline {section}{\numberline {A.2}Programa\c c\~ao}{20}{section.A.2}
+\contentsline {section}{\numberline {A.3}Design}{20}{section.A.3}
+\contentsline {section}{\numberline {A.4}Tutorial}{20}{section.A.4}
+\contentsline {chapter}{\numberline {B}Question\'arios}{30}{appendix.B}
+\contentsline {chapter}{\numberline {C}Atividades}{45}{appendix.C}
+\contentsline {chapter}{\numberline {D}Aula Expositiva}{46}{appendix.D}
 \SetAppendixTocName {Anexo}
-\contentsline {chapter}{\numberline {A}Manuais do Scratch}{17}{annex.a}
-\contentsline {section}{\numberline {A.1}Manuais do Scratch}{17}{section.a.1}
-\contentsline {chapter}{\numberline {B}Materiais de Apoio}{18}{annex.b}
-\contentsline {section}{\numberline {B.1}Texto Base}{18}{section.b.1}
-\contentsline {section}{\numberline {B.2}V\IeC {\'\i }deo}{18}{section.b.2}
-\contentsline {chapter}{\numberline {C}Autoriza\c c\~oes}{24}{annex.c}
-\contentsline {section}{\numberline {C.1}Autoriza\c c\~ao para Maior}{24}{section.c.1}
-\contentsline {section}{\numberline {C.2}Autoriza\c c\~ao para Menor}{24}{section.c.2}
-\contentsline {chapter}{\numberline {D}Registro de Imagens}{25}{annex.d}
-\contentsline {section}{\numberline {D.1}Fotografias}{25}{section.d.1}
+\contentsline {chapter}{\numberline {A}Manuais do Scratch}{52}{annex.a}
+\contentsline {chapter}{\numberline {B}Materiais de Apoio}{53}{annex.b}
+\contentsline {chapter}{\numberline {C}Autoriza\c c\~oes}{58}{annex.c}
+\contentsline {chapter}{\numberline {D}Registro de Imagens}{60}{annex.d}
