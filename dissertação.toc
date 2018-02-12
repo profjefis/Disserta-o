@@ -62,5 +62,5 @@
 \contentsline {section}{\numberline {B.1}Texto Base}{87}{section.b.1}
 \contentsline {section}{\numberline {B.2}V\IeC {\'\i }deo}{92}{section.b.2}
 \contentsline {chapter}{\numberline {C}Autoriza\c c\~oes}{93}{annex.c}
-\contentsline {chapter}{\numberline {D}Registro de Imagens}{95}{annex.d}
-\contentsline {section}{\numberline {D.1}Premia\c c\~ao}{96}{section.d.1}
+\contentsline {chapter}{\numberline {D}Registro de Imagens}{96}{annex.d}
+\contentsline {section}{\numberline {D.1}Premia\c c\~ao}{97}{section.d.1}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2017.11.4)  12 FEB 2018 19:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2017.11.4)  12 FEB 2018 19:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3991,44 +3991,51 @@ Package babel Info: Redefining portuges shorthand "|
 pdftex: bookmark at 279: {C} {\numberline{C}Autoriza\c c\~oes} {annex.c}{0}{toc
 }
 (./AneC/anec.tex
-<AneC/Term_aut_maior_2.pdf, id=2476, pagebox=cropbox, 553.58823pt x 692.3466pt>
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package hyperref Info: Anchor `page.93' on input line 1.
+ [93
+
+]
+<AneC/Term_aut_maior_2.pdf, id=2480, pagebox=cropbox, 553.58823pt x 692.3466pt>
 
 File: AneC/Term_aut_maior_2.pdf Graphic file (type pdf)
 <use AneC/Term_aut_maior_2.pdf>
-Package pdftex.def Info: AneC/Term_aut_maior_2.pdf  used on input line 5. on in
-put line 5.
+Package pdftex.def Info: AneC/Term_aut_maior_2.pdf  used on input line 7. on in
+put line 7.
 Package pdftex.def Info: Requested size: 409.71692pt x 512.43411pt on input lin
-e 5.
+e 7.
 
-pdftex: bookmark at 6: {81} {\numberline{81}{\ignorespaces Autoriza\c c\~ao: es
+pdftex: bookmark at 8: {81} {\numberline{81}{\ignorespaces Autoriza\c c\~ao: es
 tudantes maiores\relax }} {figura.c.81}{0}{loa}
-Package hyperref Info: Anchor `figura.c.81' on input line 8.
-<AneC/Term_aut_menor_2.pdf, id=2477, pagebox=cropbox, 547.80661pt x 718.3638pt>
+Package hyperref Info: Anchor `figura.c.81' on input line 10.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 12.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 12.
+Package hyperref Info: Anchor `page.94' on input line 12.
+[94 <./AneC/Term_aut_maior_2.pdf>]
+<AneC/Term_aut_menor_2.pdf, id=2492, pagebox=cropbox, 547.80661pt x 718.3638pt>
 
 File: AneC/Term_aut_menor_2.pdf Graphic file (type pdf)
 <use AneC/Term_aut_menor_2.pdf>
-Package pdftex.def Info: AneC/Term_aut_menor_2.pdf  used on input line 15. on i
-nput line 15.
+Package pdftex.def Info: AneC/Term_aut_menor_2.pdf  used on input line 18. on i
+nput line 18.
 Package pdftex.def Info: Requested size: 409.71692pt x 537.3027pt on input line
- 15.
-pdftex: bookmark at 16: {82} {\numberline{82}{\ignorespaces Autoriza\c c\~ao: e
+ 18.
+
+pdftex: bookmark at 19: {82} {\numberline{82}{\ignorespaces Autoriza\c c\~ao: e
 studantes menores\relax }} {figura.c.82}{0}{loa}
-Package hyperref Info: Anchor `figura.c.82' on input line 18.
+Package hyperref Info: Anchor `figura.c.82' on input line 21.
 )
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 282.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 282.
-Package hyperref Info: Anchor `page.93' on input line 282.
- [93
-
- <./AneC/Term_aut_maior_2.pdf>]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 282.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 282.
-Package hyperref Info: Anchor `page.94' on input line 282.
- [94 <./AneC/Term_aut_menor_2.pdf>]
+Package hyperref Info: Anchor `page.95' on input line 282.
+ [95 <./AneC/Term_aut_menor_2.pdf>]
 Package hyperref Info: Anchor `annex.d' on input line 282.
 
 Anexo D.
@@ -4041,8 +4048,8 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
-Package hyperref Info: Anchor `page.95' on input line 1.
- [95
+Package hyperref Info: Anchor `page.96' on input line 1.
+ [96
 
 ]
 Package hyperref Info: Anchor `section.d.1' on input line 2.
@@ -4051,7 +4058,7 @@ Package babel Info: Redefining portuges shorthand "|
 
 pdftex: bookmark at 2: {D.1} {\numberline{D.1}Premia\c c\~ao} {section.d.1}{1}{
 toc}
-<AneD/win1.pdf, id=2505, pagebox=cropbox, 597.50829pt x 845.0471pt>
+<AneD/win1.pdf, id=2509, pagebox=cropbox, 597.50829pt x 845.0471pt>
 File: AneD/win1.pdf Graphic file (type pdf)
 <use AneD/win1.pdf>
 Package pdftex.def Info: AneD/win1.pdf  used on input line 6. on input line 6.
@@ -4062,7 +4069,7 @@ nput line 7.
 pdftex: bookmark at 7: {1} {\numberline{1}{\ignorespaces Pesquisa Inicial: Intr
 odu\c c\~ao\relax }} {fotografia.d.1}{0}{loe}
 Package hyperref Info: Anchor `fotografia.d.1' on input line 9.
-<AneD/win2.pdf, id=2506, pagebox=cropbox, 597.50829pt x 845.0471pt>
+<AneD/win2.pdf, id=2510, pagebox=cropbox, 597.50829pt x 845.0471pt>
 File: AneD/win2.pdf Graphic file (type pdf)
 <use AneD/win2.pdf>
 Package pdftex.def Info: AneD/win2.pdf  used on input line 13. on input line 13
@@ -4072,7 +4079,7 @@ Package pdftex.def Info: Requested size: 159.33821pt x 225.3419pt on input line
 pdftex: bookmark at 14: {2} {\numberline{2}{\ignorespaces Pesquisa Inicial: Int
 rodu\c c\~ao\relax }} {fotografia.d.2}{0}{loe}
 Package hyperref Info: Anchor `fotografia.d.2' on input line 16.
-<AneD/win3.pdf, id=2507, pagebox=cropbox, 597.50829pt x 845.0471pt>
+<AneD/win3.pdf, id=2511, pagebox=cropbox, 597.50829pt x 845.0471pt>
 File: AneD/win3.pdf Graphic file (type pdf)
 <use AneD/win3.pdf>
 Package pdftex.def Info: AneD/win3.pdf  used on input line 20. on input line 20
@@ -4082,7 +4089,7 @@ e 20.
 pdftex: bookmark at 21: {3} {\numberline{3}{\ignorespaces Pesquisa Inicial: Int
 rodu\c c\~ao\relax }} {fotografia.d.3}{0}{loe}
 Package hyperref Info: Anchor `fotografia.d.3' on input line 23.
-<AneD/win4.pdf, id=2508, pagebox=cropbox, 597.50829pt x 845.0471pt>
+<AneD/win4.pdf, id=2512, pagebox=cropbox, 597.50829pt x 845.0471pt>
 File: AneD/win4.pdf Graphic file (type pdf)
 <use AneD/win4.pdf>
 Package pdftex.def Info: AneD/win4.pdf  used on input line 27. on input line 27
@@ -4098,14 +4105,14 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 308.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 308.
-Package hyperref Info: Anchor `page.96' on input line 308.
-[96 <./AneD/win1.pdf> <./AneD/win2.pdf>]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 308.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 308.
 Package hyperref Info: Anchor `page.97' on input line 308.
- [97 <./AneD/win3.pdf> <./AneD/win4.pdf>]
+[97 <./AneD/win1.pdf> <./AneD/win2.pdf>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 308.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 308.
+Package hyperref Info: Anchor `page.98' on input line 308.
+ [98 <./AneD/win3.pdf> <./AneD/win4.pdf>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 308.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 308.
@@ -4131,8 +4138,8 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 308.
 ### simple group (level 1) entered at line 13 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 12061 strings out of 492990
- 184649 string characters out of 6135005
+ 12062 strings out of 492990
+ 184656 string characters out of 6135005
  280151 words of memory out of 5000000
  14812 multiletter control sequences out of 15000+600000
  101786 words of font info for 80 fonts, out of 8000000 for 9000
@@ -4151,10 +4158,10 @@ f/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12
 s/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
 </usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1
 /public/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb>
-Output written on dissertação.pdf (117 pages, 15454750 bytes).
+Output written on dissertação.pdf (118 pages, 15454875 bytes).
 PDF statistics:
- 2666 PDF objects out of 2984 (max. 8388607)
- 2001 compressed objects within 21 object streams
- 330 named destinations out of 1000 (max. 500000)
+ 2671 PDF objects out of 2984 (max. 8388607)
+ 2005 compressed objects within 21 object streams
+ 331 named destinations out of 1000 (max. 500000)
  1131 words of extra memory for PDF output out of 10000 (max. 10000000)
 
