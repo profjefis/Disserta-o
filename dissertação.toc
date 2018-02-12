@@ -32,26 +32,29 @@
 \contentsline {chapter}{\numberline {5}Resultados e Discuss\~oes}{10}{chapter.5}
 \contentsline {section}{\numberline {5.1}Resultados e Discuss\~oes sobre a Sequ\^encia de Aplica\c c\~ao}{10}{section.5.1}
 \contentsline {subsection}{\numberline {5.1.1}An\'alise da Pesquisa Inicial}{10}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}An\'alise do Pr\'e-Teste}{11}{subsection.5.1.2}
-\contentsline {subsection}{\numberline {5.1.3}An\'alise da Primeira Aplica\c c\~ao do Jogo}{11}{subsection.5.1.3}
-\contentsline {subsection}{\numberline {5.1.4}Discuss\~oes sobre o V\IeC {\'\i }deo: ``{O Discreto Charme das Part\IeC {\'\i }culas Elementares}''}{11}{subsection.5.1.4}
-\contentsline {subsection}{\numberline {5.1.5}An\'alise das Aulas Expositivas 1 e 2}{11}{subsection.5.1.5}
-\contentsline {subsection}{\numberline {5.1.6}An\'alise da Segunda Aplica\c c\~ao do Jogo}{11}{subsection.5.1.6}
-\contentsline {subsection}{\numberline {5.1.7}An\'alise do P\'os-Teste}{11}{subsection.5.1.7}
-\contentsline {subsection}{\numberline {5.1.8}An\'alise da Pesquisa Final}{11}{subsection.5.1.8}
-\contentsline {chapter}{\numberline {6}Conclus\~ao}{15}{chapter.6}
-\contentsline {chapter}{Refer\^encias}{16}{chapter.7}
+\contentsline {subsection}{\numberline {5.1.2}An\'alise dos Testes}{12}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}An\'alise das Aplica\c c\~ao do Jogo}{12}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Discuss\~oes sobre o V\IeC {\'\i }deo: ``{O Discreto Charme das Part\IeC {\'\i }culas Elementares}''}{12}{subsection.5.1.4}
+\contentsline {subsection}{\numberline {5.1.5}An\'alise das Aulas Expositivas 1 e 2}{12}{subsection.5.1.5}
+\contentsline {subsection}{\numberline {5.1.6}An\'alise da Pesquisa Final}{12}{subsection.5.1.6}
+\contentsline {chapter}{\numberline {6}Conclus\~ao}{28}{chapter.6}
+\contentsline {chapter}{Refer\^encias}{29}{chapter.7}
 \SetAppendixTocName {Ap\^endice}
-\contentsline {chapter}{\numberline {A}O Jogo Digital}{17}{appendix.A}
-\contentsline {section}{\numberline {A.1}Enredo}{17}{section.A.1}
-\contentsline {section}{\numberline {A.2}Programa\c c\~ao}{24}{section.A.2}
-\contentsline {section}{\numberline {A.3}Design}{24}{section.A.3}
-\contentsline {section}{\numberline {A.4}Tutorial}{25}{section.A.4}
-\contentsline {chapter}{\numberline {B}Question\'arios}{46}{appendix.B}
-\contentsline {chapter}{\numberline {C}Atividades}{61}{appendix.C}
-\contentsline {chapter}{\numberline {D}Aula Expositiva}{62}{appendix.D}
+\contentsline {chapter}{\numberline {A}O Jogo Digital}{30}{appendix.A}
+\contentsline {section}{\numberline {A.1}Enredo}{30}{section.A.1}
+\contentsline {section}{\numberline {A.2}Programa\c c\~ao}{37}{section.A.2}
+\contentsline {section}{\numberline {A.3}Design}{37}{section.A.3}
+\contentsline {section}{\numberline {A.4}Tutorial}{38}{section.A.4}
+\contentsline {chapter}{\numberline {B}Question\'arios}{59}{appendix.B}
+\contentsline {section}{\numberline {B.1}Pesquisa Inicial}{60}{section.B.1}
+\contentsline {section}{\numberline {B.2}Testes}{62}{section.B.2}
+\contentsline {section}{\numberline {B.3}Pesquisa Final}{67}{section.B.3}
+\contentsline {chapter}{\numberline {C}Atividades}{72}{appendix.C}
+\contentsline {chapter}{\numberline {D}Aula Expositiva}{73}{appendix.D}
 \SetAppendixTocName {Anexo}
-\contentsline {chapter}{\numberline {A}Manuais do Scratch}{68}{annex.a}
-\contentsline {chapter}{\numberline {B}Materiais de Apoio}{69}{annex.b}
-\contentsline {chapter}{\numberline {C}Autoriza\c c\~oes}{74}{annex.c}
-\contentsline {chapter}{\numberline {D}Registro de Imagens}{76}{annex.d}
+\contentsline {chapter}{\numberline {A}Manuais do Scratch}{79}{annex.a}
+\contentsline {chapter}{\numberline {B}Materiais de Apoio}{80}{annex.b}
+\contentsline {section}{\numberline {B.1}Texto Base}{81}{section.b.1}
+\contentsline {section}{\numberline {B.2}V\IeC {\'\i }deo}{86}{section.b.2}
+\contentsline {chapter}{\numberline {C}Autoriza\c c\~oes}{87}{annex.c}
+\contentsline {chapter}{\numberline {D}Registro de Imagens}{89}{annex.d}
