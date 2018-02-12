@@ -1712,4 +1712,7 @@
 	\endlist}%
 % ---
 
+%Hiperlinks como rodapé
+
+\newcommand\fnurl[2]{\href{#2}{#1}\footnote{\url{#2}}}
 
