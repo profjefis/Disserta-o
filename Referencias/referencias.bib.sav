@@ -84,12 +84,6 @@
   publisher={Novatec Editora}
 }
 
-@misc{Doe:2009:Online,
-author = {author},
-title = {Title of Citation},
-year = {2010 (accessed December 7, 2014)}, 
-howpublished = "\url{http://www.myurl.com}"}
-
 %Partículas Elementares
 
 @article{ostermann1999fisica,
@@ -162,6 +156,83 @@ howpublished = "\url{http://www.myurl.com}"}
   author={Moreira, Marco Antonio},
   journal={F{\'\i}sica na escola. S{\~a}o Paulo. Vol. 5, n. 2 (out. 2004), p. 10-14},
   year={2004}
+}
+
+@Article{resnick2009scratch,
+  author    = {Resnick, Mitchel and Maloney, John and Monroy-Hern{\'a}ndez, Andr{\'e}s and Rusk, Natalie and Eastmond, Evelyn and Brennan, Karen and Millner, Amon and Rosenbaum, Eric and Silver, Jay and Silverman, Brian and others},
+  title     = {Scratch: programming for all},
+  journal   = {Communications of the ACM},
+  year      = {2009},
+  volume    = {52},
+  number    = {11},
+  pages     = {60--67},
+  publisher = {ACM},
+}
+
+@Article{resnick2008sowing,
+  author    = {Resnick, Mitchel},
+  title     = {Sowing the seeds for a more creative society.},
+  journal   = {Learning \& Leading with Technology},
+  year      = {2008},
+  volume    = {35},
+  number    = {4},
+  pages     = {18--22},
+  publisher = {ERIC},
+}
+
+@Misc{on:scratch2018,
+  author       = {MIT Media Lab},
+  title        = {Acerca do Scratch},
+  howpublished = {\url{https://scratch.mit.edu/about}},
+  year         = {2018},
+  note         = {[Online; acessado em 13 de Fevereiro de 2008]},
+}
+
+@Misc{onwikiscratch,
+  author       = {Wikip{\'e}dia},
+  title        = {Role-playing game},
+  howpublished = {\url{https://pt.wikipedia.org/wiki/Role-playing_game}},
+  year         = {2018},
+  note         = {[Online; acessado em 13 de Fevereiro de 2008]},
+}
+
+@Misc{onwikiquiz,
+  author       = {Wikip{\'e}dia},
+  title        = {Quiz},
+  howpublished = {\url{https://pt.wikipedia.org/wiki/Quiz}},
+  year         = {2018},
+  note         = {[Online; acessado em 15 de Fevereiro de 2008]},
+}
+
+@Misc{onscratch2018,
+  author       = {MIT Media Lab},
+  title        = {Acerca do Scratch},
+  howpublished = {\url{https://scratch.mit.edu/about}},
+  year         = {2018},
+  note         = {[Online; acessado em 13 de Fevereiro de 2008]},
+}
+
+@Article{o2013new,
+  author  = {O'Luanaigh, Cian},
+  title   = {New results indicate that new particle is a Higgs boson},
+  journal = {CERN-http://home. cern/about/updates/2013/03/new-results-indicate-new-particle-higgs-boson (acessado em 15/02/2018)},
+  year    = {2013},
+}
+
+@PhdThesis{marques2009recuperar,
+  author = {Marques, Maria Teresa Pinheiro Martinho},
+  title  = {Recuperar o engenho a partir da necessidade, com recurso {\`a}s tecnologias educativas: contributo do ambiente gr{\'a}fico de programa{\c{c}}{\~a}o Scratch em contexto formal de aprendizagem},
+  school = {Universidade de Lisboa},
+  year   = {2009},
+}
+
+@InProceedings{klopfer2004programming,
+  author       = {Klopfer, Eric and Resnick, Mitchel and Maloney, John and Silverman, Brian and diSessa, Andrea and Begel, Andrew and Hancock, Chris},
+  title        = {Programming revisited: the educational value of computer programming},
+  booktitle    = {Proceedings of the 6th international Conference on Learning Sciences},
+  year         = {2004},
+  pages        = {16--18},
+  organization = {International Society of the Learning Sciences},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

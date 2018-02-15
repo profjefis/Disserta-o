@@ -5,16 +5,69 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{1.45.2.1 }
 
-\bibitem[Marji 2014]{marji2014aprenda}
-\abntrefinfo{Marji}{MARJI}{2014}
-{MARJI, M. \textbf{Aprenda a programar com Scratch: uma introdu{\c{c}}{\~a}o
-  visual {\`a} programa{\c{c}}{\~a}o com jogos, arte, ci{\^e}ncia e
-  matem{\'a}tica}. [S.l.]: Novatec Editora, 2014.}
+\bibitem[Bastos \textit{et al.} 2010]{bastos2010schatch}
+\abntrefinfo{Bastos \textit{et al.}}{BASTOS \textit{et al.}}{2010}
+{BASTOS, B.~L.; BORGES, M.; D?ABREU, J. Schatch, arduino e o construcionismo:
+  Ferramentas para a educa{\c{c}}{\~a}o.
+\textbf{Semin{\'a}rio de Tecnologia Educacional de Arauc{\'a}ria}, 2010.}
+
+\bibitem[Klopfer \textit{et al.} 2004]{klopfer2004programming}
+\abntrefinfo{Klopfer \textit{et al.}}{KLOPFER \textit{et al.}}{2004}
+{KLOPFER, E.; RESNICK, M.; MALONEY, J.; SILVERMAN, B.; DISESSA, A.; BEGEL, A.;
+  HANCOCK, C. Programming revisited: the educational value of computer
+  programming. In:  INTERNATIONAL SOCIETY OF THE LEARNING SCIENCES.
+  \textbf{Proceedings of the 6th international Conference on Learning
+  Sciences}. [S.l.], 2004. p. 16--18.}
+
+\bibitem[Lab 2018]{on:scratch2018}
+\abntrefinfo{Lab}{LAB}{2018}
+{LAB, M.~M. \textbf{Acerca do Scratch}. 2018.
+\url{https://scratch.mit.edu/about}.
+[Online; acessado em 13 de Fevereiro de 2008].}
+
+\bibitem[Marques 2009]{marques2009recuperar}
+\abntrefinfo{Marques}{MARQUES}{2009}
+{MARQUES, M. T. P.~M.
+\textbf{Recuperar o engenho a partir da necessidade, com recurso {\`a}s
+  tecnologias educativas: contributo do ambiente gr{\'a}fico de
+  programa{\c{c}}{\~a}o Scratch em contexto formal de aprendizagem}.
+Tese (Doutorado) --- Universidade de Lisboa, 2009.}
 
 \bibitem[Moreira 2004]{moreira2004particulas}
 \abntrefinfo{Moreira}{MOREIRA}{2004}
 {MOREIRA, M.~A. Part{\'\i}culas e intera{\c{c}}{\~o}es.
 \textbf{F{\'\i}sica na escola. S{\~a}o Paulo. Vol. 5, n. 2 (out. 2004), p.
   10-14}, 2004.}
+
+\bibitem[Moreira 2011]{moreira2011unidades}
+\abntrefinfo{Moreira}{MOREIRA}{2011}
+{MOREIRA, M.~A. Unidades de ense{\~n}anza potencialmente significativas--ueps.
+\textbf{Aprendizagem Significativa em Revista}, v.~1, n.~2, p.~43, 2011.}
+
+\bibitem[O'Luanaigh 2013]{o2013new}
+\abntrefinfo{O'Luanaigh}{O'LUANAIGH}{2013}
+{O'LUANAIGH, C. New results indicate that new particle is a higgs boson.
+\textbf{CERN-http://home.
+  cern/about/updates/2013/03/new-results-indicate-new-particle-higgs-boson
+  (acessado em 15/02/2018)}, 2013.}
+
+\bibitem[Resnick \textit{et al.} 2009]{resnick2009scratch}
+\abntrefinfo{Resnick \textit{et al.}}{RESNICK \textit{et al.}}{2009}
+{RESNICK, M.; MALONEY, J.; MONROY-HERN{\'A}NDEZ, A.; RUSK, N.; EASTMOND, E.;
+  BRENNAN, K.; MILLNER, A.; ROSENBAUM, E.; SILVER, J.; SILVERMAN, B. \textit{et
+  al.} Scratch: programming for all.
+\textbf{Communications of the ACM}, ACM, v.~52, n.~11, p. 60--67, 2009.}
+
+\bibitem[Wikip{\'e}dia 2018]{onwikiquiz}
+\abntrefinfo{Wikip{\'e}dia}{WIKIP{\'E}DIA}{2018a}
+{WIKIP{\'E}DIA. \textbf{Quiz}. 2018.
+\url{https://pt.wikipedia.org/wiki/Quiz}.
+[Online; acessado em 15 de Fevereiro de 2008].}
+
+\bibitem[Wikip{\'e}dia 2018]{onwikiscratch}
+\abntrefinfo{Wikip{\'e}dia}{WIKIP{\'E}DIA}{2018b}
+{WIKIP{\'E}DIA. \textbf{Role-playing game}. 2018.
+\url{https://pt.wikipedia.org/wiki/Role-playing_game}.
+[Online; acessado em 13 de Fevereiro de 2008].}
 
 \end{thebibliography}
