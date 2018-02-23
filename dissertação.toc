@@ -18,7 +18,7 @@
 \contentsline {subsection}{\numberline {3.1.2}O Scratch}{5}{subsection.3.1.2}
 \contentsline {subsection}{\numberline {3.1.3}Caracter\IeC {\'\i }sticas do Projeto}{6}{subsection.3.1.3}
 \contentsline {section}{\numberline {3.2}A Sequ\^encia Did\'atica}{8}{section.3.2}
-\contentsline {section}{\numberline {3.3}Relato de Experi\^encia}{10}{section.3.3}
+\contentsline {section}{\numberline {3.3}Relato de Experi\^encia}{9}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Situa\c c\~ao Problema e Pesquisa Inicial}{10}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}Pr\'e-teste}{11}{subsection.3.3.2}
 \contentsline {subsection}{\numberline {3.3.3}Aplica\c c\~ao do jogo}{12}{subsection.3.3.3}
