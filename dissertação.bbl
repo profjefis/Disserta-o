@@ -51,6 +51,13 @@ Tese (Doutorado) --- Universidade de Lisboa, 2009.}
 {MOREIRA, M.~A. Unidades de ense{\~n}anza potencialmente significativas--ueps.
 \textbf{Aprendizagem Significativa em Revista}, v.~1, n.~2, p.~43, 2011.}
 
+\bibitem[Odorico \textit{et al.} 2012]{odorico2012analise}
+\abntrefinfo{Odorico \textit{et al.}}{ODORICO \textit{et al.}}{2012}
+{ODORICO, E.~K.; NUNES, D.~M.; MOREIRA, A.; OLIVEIRA, H.~M. de; CARDOSO, A.
+  An{\'a}lise do n{\~a}o uso do laborat{\'o}rio de inform{\'a}tica nas escolas
+  p{\'u}blicas e estudo de caso. In:  \textbf{Anais do Workshop de
+  Inform{\'a}tica na Escola}. [S.l.: s.n.], 2012. v.~1, n.~1.}
+
 \bibitem[O'Luanaigh 2013]{o2013new}
 \abntrefinfo{O'Luanaigh}{O'LUANAIGH}{2013}
 {O'LUANAIGH, C. New results indicate that new particle is a higgs boson.
@@ -65,14 +72,20 @@ Tese (Doutorado) --- Universidade de Lisboa, 2009.}
   al.} Scratch: programming for all.
 \textbf{Communications of the ACM}, ACM, v.~52, n.~11, p. 60--67, 2009.}
 
-\bibitem[Wikip{\'e}dia 2018]{onwikiquiz}
+\bibitem[Wikip{\'e}dia 2018]{onwikiencurtador}
 \abntrefinfo{Wikip{\'e}dia}{WIKIP{\'E}DIA}{2018a}
+{WIKIP{\'E}DIA. \textbf{Encurtador de URL}. 2018.
+\url{https://pt.wikipedia.org/wiki/Encurtamento_de_URL}.
+[Online; acessado em 06 de Março de 2018].}
+
+\bibitem[Wikip{\'e}dia 2018]{onwikiquiz}
+\abntrefinfo{Wikip{\'e}dia}{WIKIP{\'E}DIA}{2018b}
 {WIKIP{\'E}DIA. \textbf{Quiz}. 2018.
 \url{https://pt.wikipedia.org/wiki/Quiz}.
 [Online; acessado em 15 de Fevereiro de 2018].}
 
 \bibitem[Wikip{\'e}dia 2018]{onwikiscratch}
-\abntrefinfo{Wikip{\'e}dia}{WIKIP{\'E}DIA}{2018b}
+\abntrefinfo{Wikip{\'e}dia}{WIKIP{\'E}DIA}{2018c}
 {WIKIP{\'E}DIA. \textbf{Role-playing game}. 2018.
 \url{https://pt.wikipedia.org/wiki/Role-playing_game}.
 [Online; acessado em 13 de Fevereiro de 2018].}
