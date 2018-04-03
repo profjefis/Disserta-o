@@ -1,5 +1,5 @@
 % Encoding: UTF-8
-% Banco de artigos para a dissertação de mestrado
+% Banco de artigos para a disserta��o de mestrado
 %Jogos e Scratch
 @article{de2015aumento,
 	title={O aumento do engajamento no aprendizado atrav{\'e}s da gamifica{\c{c}}{\~a}o do ensino},
@@ -84,7 +84,7 @@
   publisher={Novatec Editora}
 }
 
-%Partículas Elementares
+%Part�culas Elementares
 
 @article{ostermann1999fisica,
   title={F{\'\i}sica Moderna e Contempor{\^a}nea no ensino m{\'e}dio: elabora{\c{c}}{\~a}o de material did{\'a}tico, em forma de p{\^o}ster, sobre part{\'\i}culas elementares e intera{\c{c}}{\~o}es fundamentais},
@@ -129,7 +129,7 @@
 }
 
 @article{pinheiro2009relato,
-  title={Relato sobre a implementa{\c{c}}{\~a}o de uma unidade de aprendizagem sobre part{\'\i}culas elementares e intera{\c{c}}{\~o}es fundamentais no ensino m{\'e}dio},
+  title={Relato sobre a implementa{\c{c}}{\~a}o de uma  de aprendizagem sobre part{\'\i}culas elementares e intera{\c{c}}{\~o}es fundamentais no ensino m{\'e}dio},
   author={Pinheiro, Lisiane Araujo and Costa, SSC},
   journal={Experi{\^e}ncias em Ensino de Ci{\^e}ncias},
   volume={4},
@@ -233,6 +233,103 @@
   year         = {2004},
   pages        = {16--18},
   organization = {International Society of the Learning Sciences},
+}
+
+@Misc{Lab2018,
+  author       = {MIT Media Lab},
+  title        = {Acerca do Scratch},
+  howpublished = {\url{https://scratch.mit.edu/about}},
+  year         = {2018},
+  note         = {[Online; acessado em 13 de Fevereiro de 2008]},
+}
+
+@Misc{Wikipedia2018,
+  author       = {Wikip{\'e}dia},
+  title        = {Role-playing game},
+  howpublished = {\url{https://pt.wikipedia.org/wiki/Role-playing_game}},
+  year         = {2018},
+  note         = {[Online; acessado em 13 de Fevereiro de 2018]},
+}
+
+@Misc{Wikipedia2018a,
+  author       = {Wikip{\'e}dia},
+  title        = {Quiz},
+  howpublished = {\url{https://pt.wikipedia.org/wiki/Quiz}},
+  year         = {2018},
+  note         = {[Online; acessado em 15 de Fevereiro de 2018]},
+}
+
+@Article{OLuanaigh2013,
+  author  = {O'Luanaigh, Cian},
+  title   = {New results indicate that new particle is a Higgs boson},
+  journal = {CERN-http://home. cern/about/updates/2013/03/new-results-indicate-new-particle-higgs-boson (acessado em 15/02/2018)},
+  year    = {2013},
+}
+
+@article{moreira2011unidades,
+	title={Unidades de ense{\~n}anza potencialmente significativas--UEPS},
+	author={Moreira, Marco Antonio},
+	journal={Aprendizagem Significativa em Revista},
+	volume={1},
+	number={2},
+	pages={43},
+	year={2011}
+}
+
+@article{heidemann2010ferramentas,
+	title={Ferramentas online no ensino de ci{\^e}ncias: uma proposta com o Google Docs},
+	author={Heidemann, Leonardo Albuquerque and Oliveira, {\^A}ngelo Mozart Medeiros de and Veit, Eliane Angela},
+	journal={F{\'\i}sica na escola. S{\~a}o Paulo. Vol. 11, n. 2,(out. 2010), p. 30-33},
+	year={2010}
+}
+
+@misc{onwikiencurtador,
+	author = {Wikip{\'e}dia},
+	title = {Encurtador de URL},
+	howpublished = "\url{https://pt.wikipedia.org/wiki/Encurtamento_de_URL}",
+	year = {2018}, 
+	note = "[Online; acessado em 06 de Mar�o de 2018]"
+}
+
+@inproceedings{odorico2012analise,
+	title={An{\'a}lise do n{\~a}o uso do laborat{\'o}rio de inform{\'a}tica nas escolas p{\'u}blicas e estudo de caso},
+	author={Odorico, Elizandra K and Nunes, Denilson M and Moreira, Alex and de Oliveira, Helen MP and Cardoso, Andr{\'e}a},
+	booktitle={Anais do Workshop de Inform{\'a}tica na Escola},
+	volume={1},
+	number={1},
+	year={2012}
+}
+
+@article{moreira2012mapas,
+	title={Mapas conceituais e aprendizagem significativa (concept maps and meaningful learning)},
+	author={Moreira, Marco Antonio},
+	journal={Aprendizagem significativa, organizadores pr{\'e}vios, mapas conceituais, digramas V e Unidades de ensino potencialmente significativas},
+	pages={41},
+	year={2012}
+}
+
+@article{moreira1999teoria,
+	title={A teoria de Ausubel},
+	author={MOREIRA, Marco A},
+	journal={Aprendizagem Significativa. Editora UnB},
+	year={1999}
+}
+
+@book{gowin1981educating,
+	title={Educating},
+	author={Gowin, D Bob},
+	year={1981},
+	publisher={Cornell University Press}
+}
+
+@Article{Moreira2011,
+  author  = {Moreira, Marco Antonio},
+  title   = {Unidades de ense{\~n}anza potencialmente significativas--UEPS},
+  journal = {Aprendizagem Significativa em Revista},
+  year    = {2011},
+  volume  = {1},
+  number  = {2},
+  pages   = {43},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
