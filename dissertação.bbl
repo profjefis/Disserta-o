@@ -5,6 +5,12 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{1.45.2.1 }
 
+\bibitem[Ausubel \textit{et al.} 1978]{ausubel1978educational}
+\abntrefinfo{Ausubel \textit{et al.}}{AUSUBEL \textit{et al.}}{1978}
+{AUSUBEL, D.~P.; NOVAK, J.~D.; HANESIAN, H. \textit{et al.} Educational
+  psychology: A cognitive view.
+Holt, Rinehart and Winston New York, 1978.}
+
 \bibitem[Bastos \textit{et al.} 2010]{bastos2010schatch}
 \abntrefinfo{Bastos \textit{et al.}}{BASTOS \textit{et al.}}{2010}
 {BASTOS, B.~L.; BORGES, M.; D'ABREU, J. Schatch, arduino e o construcionismo:
@@ -91,6 +97,11 @@ Tese (Doutorado) --- Universidade de Lisboa, 2009.}
 {MATTAR, J. \textbf{Games em educa{\c{c}}{\~a}o: como os nativos digitais
   aprendem}. [S.l.]: S{\~a}o Paulo: Pearson Prentice Hall, 2010.}
 
+\bibitem[MOREIRA 1999]{moreira1999teoria}
+\abntrefinfo{MOREIRA}{MOREIRA}{1999}
+{MOREIRA, M.~A. A teoria de ausubel.
+\textbf{Aprendizagem Significativa. Editora UnB}, 1999.}
+
 \bibitem[Moreira 2004]{moreira2004particulas}
 \abntrefinfo{Moreira}{MOREIRA}{2004}
 {MOREIRA, M.~A. Part{\'\i}culas e intera{\c{c}}{\~o}es.
@@ -109,6 +120,13 @@ Tese (Doutorado) --- Universidade de Lisboa, 2009.}
 \textbf{Aprendizagem significativa, organizadores pr{\'e}vios, mapas
   conceituais, digramas V e Unidades de ensino potencialmente significativas},
   p.~41, 2012.}
+
+\bibitem[Nascimento \textit{et al.}]{nascimento20jogos}
+\abntrefinfo{Nascimento \textit{et al.}}{NASCIMENTO \textit{et al.}}{}
+{NASCIMENTO, K.~S.; STAMBERG, C. da S.; LEMKE, C.~E. Jogos educacionais:
+  revis{\~a}o bibliogr{\'a}fica com base em trabalhos publicados no cinted.
+\textbf{Inform{\'a}tica na educa{\c{c}}{\~a}o: teoria \& pr{\'a}tica}, v.~20,
+  n. 3 set/nov.}
 
 \bibitem[Odorico \textit{et al.} 2012]{odorico2012analise}
 \abntrefinfo{Odorico \textit{et al.}}{ODORICO \textit{et al.}}{2012}
@@ -163,6 +181,13 @@ Tese (Doutorado) --- Universidade de Lisboa, 2009.}
 \abntrefinfo{Scott}{SCOTT}{2004}
 {SCOTT, A.~J. 3-d spreadsheet simulation of a modern particle detector.
 \textbf{Physics education}, IOP Publishing, v.~39, n.~1, p.~91, 2004.}
+
+\bibitem[Siqueira e Pietrocola 2005]{siqueira2005revisando}
+\abntrefinfo{Siqueira e Pietrocola}{SIQUEIRA; PIETROCOLA}{2005}
+{SIQUEIRA, M.; PIETROCOLA, M. Revisando materiais em ensino m{\'e}dio sobre o
+  tema f{\'\i}sica de part{\'\i}culas elementares.
+\textbf{V ENPEC-Encontro Nacional de Pesquisa em Ensino em Ci{\^e}ncias,
+  Bauru}, 2005.}
 
 \bibitem[Vianna \textit{et al.} 2013]{vianna2013gamification}
 \abntrefinfo{Vianna \textit{et al.}}{VIANNA \textit{et al.}}{2013}
