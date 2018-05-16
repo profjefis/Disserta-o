@@ -23,6 +23,10 @@ Holt, Rinehart and Winston New York, 1978.}
   elementary particles with fast feedback.
 \textbf{Physics education}, IOP Publishing, v.~41, n.~1, p.~47, 2006.}
 
+\bibitem[BNCC 2017]{medio2017brasilia}
+\abntrefinfo{BNCC}{BNCC}{2017}
+{BNCC, M. \textbf{BNCC Ensino Médio}. [S.l.]: MEC, 2017.}
+
 \bibitem[Correia \textit{et al.} 2016]{correia2016revisao}
 \abntrefinfo{Correia \textit{et al.}}{CORREIA \textit{et al.}}{2016}
 {CORREIA, T.~M.; ALVES, M. F.~C.; CORREIA, T. D. H.~M. Revis{\~a}o
@@ -91,14 +95,6 @@ Holt, Rinehart and Winston New York, 1978.}
   ACM symposium on User interface software and technology}. [S.l.], 2012. p.
   103--112.}
 
-\bibitem[Lima \textit{et al.} 2015]{lima2015criaccao}
-\abntrefinfo{Lima \textit{et al.}}{LIMA \textit{et al.}}{2015}
-{LIMA, C. G. M.~d. \textit{et al.} Cria{\c{c}}{\~a}o, constru{\c{c}}{\~a}o, uso
-  e an{\'a}lise de um jogo digital voltado ao ensino de circuitos
-  el{\'e}tricos.
-Insitituto Federal de Educa{\c{c}}{\~a}o, Ci{\^e}ncia e Tecnologia do Rio
-  Grande do Norte, 2015.}
-
 \bibitem[Marques 2009]{marques2009recuperar}
 \abntrefinfo{Marques}{MARQUES}{2009}
 {MARQUES, M. T. P.~M.
@@ -111,10 +107,6 @@ Tese (Doutorado) --- Universidade de Lisboa, 2009.}
 \abntrefinfo{Mattar}{MATTAR}{2010}
 {MATTAR, J. \textbf{Games em educa{\c{c}}{\~a}o: como os nativos digitais
   aprendem}. [S.l.]: S{\~a}o Paulo: Pearson Prentice Hall, 2010.}
-
-\bibitem[M{\'e}dio 2017]{medio2017brasilia}
-\abntrefinfo{M{\'e}dio}{M{\'E}DIO}{2017}
-{M{\'E}DIO, M.~B. \textbf{BNCC Ensino Médio}. [S.l.]: MEC, 2017.}
 
 \bibitem[MOREIRA 1999]{moreira1999teoria}
 \abntrefinfo{MOREIRA}{MOREIRA}{1999}
@@ -139,6 +131,13 @@ Tese (Doutorado) --- Universidade de Lisboa, 2009.}
 \textbf{Aprendizagem significativa, organizadores pr{\'e}vios, mapas
   conceituais, digramas V e Unidades de ensino potencialmente significativas},
   p.~41, 2012.}
+
+\bibitem[Mozena e Ostermann 2016]{mozena2016base}
+\abntrefinfo{Mozena e Ostermann}{MOZENA; OSTERMANN}{2016}
+{MOZENA, E.~R.; OSTERMANN, F. Sobre a base nacional comum curricular (bncc) e o
+  ensino de f{\'\i}sica.
+\textbf{Caderno Brasileiro de Ensino de F{\'\i}sica}, v.~33, n.~2, p. 327--332,
+  2016.}
 
 \bibitem[Nascimento \textit{et al.} 2017]{nascimento20jogos}
 \abntrefinfo{Nascimento \textit{et al.}}{NASCIMENTO \textit{et al.}}{2017}

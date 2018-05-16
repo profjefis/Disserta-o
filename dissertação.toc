@@ -21,9 +21,8 @@
 \contentsline {subsection}{\numberline {2.5.2}Inser\c c\~ao de Jogos Digitais na Educa\c c\~ao}{21}{subsection.2.5.2}
 \contentsline {section}{\numberline {2.6}Marcos Legais}{23}{section.2.6}
 \contentsline {subsection}{\numberline {2.6.1}Diretrizes B\'asicas e Par\^ametros Curriculares}{23}{subsection.2.6.1}
-\contentsline {subsection}{\numberline {2.6.2}Propostas do Novo Curr\IeC {\'\i }culo do Ensino M\'edio}{25}{subsection.2.6.2}
-\contentsline {section}{\numberline {2.7}Livros Did\'aticos de F\IeC {\'\i }sica PNLD 2018-2020}{26}{section.2.7}
-\contentsline {subsection}{\numberline {2.7.1}Obras Selecionadas}{26}{subsection.2.7.1}
+\contentsline {subsection}{\numberline {2.6.2}A BNCC}{25}{subsection.2.6.2}
+\contentsline {subsection}{\numberline {2.6.3}Livros Did\'aticos de F\IeC {\'\i }sica PNLD 2018-2020}{25}{subsection.2.6.3}
 \contentsline {chapter}{\numberline {3}Metodologia}{30}{chapter.3}
 \contentsline {section}{\numberline {3.1}O Jogo Digital}{30}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}O Processo de Elabora\c c\~ao}{30}{subsection.3.1.1}
@@ -54,28 +53,28 @@
 \contentsline {section}{\numberline {5.4}Discuss\~oes sobre o V\IeC {\'\i }deo: ``{O Discreto Charme das Part\IeC {\'\i }culas Elementares}''}{51}{section.5.4}
 \contentsline {section}{\numberline {5.5}An\'alise das Aulas Expositivas e Dialogadas}{51}{section.5.5}
 \contentsline {section}{\numberline {5.6}An\'alise da Pesquisa Final}{51}{section.5.6}
-\contentsline {chapter}{\numberline {6}Considera\c c\~oes Finais}{60}{chapter.6}
-\contentsline {chapter}{Refer\^encias}{61}{chapter.7}
+\contentsline {chapter}{\numberline {6}Considera\c c\~oes Finais}{61}{chapter.6}
+\contentsline {chapter}{Refer\^encias}{62}{chapter.7}
 \SetAppendixTocName {Ap\^endice}
-\contentsline {chapter}{\numberline {A}O Jogo Digital}{64}{appendix.A}
-\contentsline {section}{\numberline {A.1}Enredo}{65}{section.A.1}
-\contentsline {section}{\numberline {A.2}Tutorial}{73}{section.A.2}
-\contentsline {chapter}{\numberline {B}Question\'arios}{94}{appendix.B}
-\contentsline {section}{\numberline {B.1}Pesquisa Inicial}{95}{section.B.1}
-\contentsline {section}{\numberline {B.2}Testes}{97}{section.B.2}
-\contentsline {section}{\numberline {B.3}Pesquisa Final}{102}{section.B.3}
-\contentsline {chapter}{\numberline {C}Atividades}{107}{appendix.C}
-\contentsline {section}{\numberline {C.1}Resenha Cr\IeC {\'\i }tica}{108}{section.C.1}
-\contentsline {chapter}{\numberline {D}Aula Expositiva}{109}{appendix.D}
-\contentsline {section}{\numberline {D.1}Slides}{110}{section.D.1}
+\contentsline {chapter}{\numberline {A}O Jogo Digital}{65}{appendix.A}
+\contentsline {section}{\numberline {A.1}Enredo}{66}{section.A.1}
+\contentsline {section}{\numberline {A.2}Tutorial}{74}{section.A.2}
+\contentsline {chapter}{\numberline {B}Question\'arios}{95}{appendix.B}
+\contentsline {section}{\numberline {B.1}Pesquisa Inicial}{96}{section.B.1}
+\contentsline {section}{\numberline {B.2}Testes}{98}{section.B.2}
+\contentsline {section}{\numberline {B.3}Pesquisa Final}{103}{section.B.3}
+\contentsline {chapter}{\numberline {C}Atividades}{108}{appendix.C}
+\contentsline {section}{\numberline {C.1}Resenha Cr\IeC {\'\i }tica}{109}{section.C.1}
+\contentsline {chapter}{\numberline {D}Aula Expositiva}{110}{appendix.D}
+\contentsline {section}{\numberline {D.1}Slides}{111}{section.D.1}
 \SetAppendixTocName {Anexo}
-\contentsline {chapter}{\numberline {A}Manuais do Scratch}{116}{annex.a}
-\contentsline {section}{\numberline {A.1}V\IeC {\'\i }deo}{117}{section.a.1}
-\contentsline {section}{\numberline {A.2}Livros}{118}{section.a.2}
-\contentsline {section}{\numberline {A.3}Tutorias e Artigos}{119}{section.a.3}
-\contentsline {chapter}{\numberline {B}Materiais de Apoio}{120}{annex.b}
-\contentsline {section}{\numberline {B.1}Texto Base}{121}{section.b.1}
-\contentsline {section}{\numberline {B.2}V\IeC {\'\i }deo}{126}{section.b.2}
-\contentsline {chapter}{\numberline {C}Autoriza\c c\~oes}{127}{annex.c}
-\contentsline {chapter}{\numberline {D}Registro de Imagens}{130}{annex.d}
-\contentsline {section}{\numberline {D.1}Premia\c c\~ao}{131}{section.d.1}
+\contentsline {chapter}{\numberline {A}Manuais do Scratch}{117}{annex.a}
+\contentsline {section}{\numberline {A.1}V\IeC {\'\i }deo}{118}{section.a.1}
+\contentsline {section}{\numberline {A.2}Livros}{119}{section.a.2}
+\contentsline {section}{\numberline {A.3}Tutorias e Artigos}{120}{section.a.3}
+\contentsline {chapter}{\numberline {B}Materiais de Apoio}{121}{annex.b}
+\contentsline {section}{\numberline {B.1}Texto Base}{122}{section.b.1}
+\contentsline {section}{\numberline {B.2}V\IeC {\'\i }deo}{127}{section.b.2}
+\contentsline {chapter}{\numberline {C}Autoriza\c c\~oes}{128}{annex.c}
+\contentsline {chapter}{\numberline {D}Registro de Imagens}{131}{annex.d}
+\contentsline {section}{\numberline {D.1}Premia\c c\~ao}{132}{section.d.1}
