@@ -49,32 +49,32 @@
 \contentsline {chapter}{\numberline {5}Resultados e Discuss\~oes}{49}{chapter.5}
 \contentsline {section}{\numberline {5.1}An\'alise da Pesquisa Inicial}{49}{section.5.1}
 \contentsline {section}{\numberline {5.2}An\'alise dos Testes}{51}{section.5.2}
-\contentsline {section}{\numberline {5.3}An\'alise das Aplica\c c\~oes do Jogo}{51}{section.5.3}
-\contentsline {section}{\numberline {5.4}Discuss\~oes sobre o V\IeC {\'\i }deo: ``{O Discreto Charme das Part\IeC {\'\i }culas Elementares}''}{51}{section.5.4}
-\contentsline {section}{\numberline {5.5}An\'alise das Aulas Expositivas e Dialogadas}{51}{section.5.5}
-\contentsline {section}{\numberline {5.6}An\'alise da Pesquisa Final}{51}{section.5.6}
-\contentsline {chapter}{\numberline {6}Considera\c c\~oes Finais}{61}{chapter.6}
-\contentsline {chapter}{Refer\^encias}{62}{chapter.7}
+\contentsline {section}{\numberline {5.3}An\'alise das Aplica\c c\~oes do Jogo}{56}{section.5.3}
+\contentsline {section}{\numberline {5.4}Discuss\~oes sobre o V\IeC {\'\i }deo: ``{O Discreto Charme das Part\IeC {\'\i }culas Elementares}''}{56}{section.5.4}
+\contentsline {section}{\numberline {5.5}An\'alise das Aulas Expositivas e Dialogadas}{56}{section.5.5}
+\contentsline {section}{\numberline {5.6}An\'alise da Pesquisa Final}{56}{section.5.6}
+\contentsline {chapter}{\numberline {6}Considera\c c\~oes Finais}{67}{chapter.6}
+\contentsline {chapter}{Refer\^encias}{68}{chapter.7}
 \SetAppendixTocName {Ap\^endice}
-\contentsline {chapter}{\numberline {A}O Jogo Digital}{65}{appendix.A}
-\contentsline {section}{\numberline {A.1}Enredo}{66}{section.A.1}
-\contentsline {section}{\numberline {A.2}Tutorial}{74}{section.A.2}
-\contentsline {chapter}{\numberline {B}Question\'arios}{95}{appendix.B}
-\contentsline {section}{\numberline {B.1}Pesquisa Inicial}{96}{section.B.1}
-\contentsline {section}{\numberline {B.2}Testes}{98}{section.B.2}
-\contentsline {section}{\numberline {B.3}Pesquisa Final}{103}{section.B.3}
-\contentsline {chapter}{\numberline {C}Atividades}{108}{appendix.C}
-\contentsline {section}{\numberline {C.1}Resenha Cr\IeC {\'\i }tica}{109}{section.C.1}
-\contentsline {chapter}{\numberline {D}Aula Expositiva}{110}{appendix.D}
-\contentsline {section}{\numberline {D.1}Slides}{111}{section.D.1}
+\contentsline {chapter}{\numberline {A}O Jogo Digital}{71}{appendix.A}
+\contentsline {section}{\numberline {A.1}Enredo}{72}{section.A.1}
+\contentsline {section}{\numberline {A.2}Tutorial}{80}{section.A.2}
+\contentsline {chapter}{\numberline {B}Question\'arios}{101}{appendix.B}
+\contentsline {section}{\numberline {B.1}Pesquisa Inicial}{102}{section.B.1}
+\contentsline {section}{\numberline {B.2}Testes}{104}{section.B.2}
+\contentsline {section}{\numberline {B.3}Pesquisa Final}{109}{section.B.3}
+\contentsline {chapter}{\numberline {C}Atividades}{114}{appendix.C}
+\contentsline {section}{\numberline {C.1}Resenha Cr\IeC {\'\i }tica}{115}{section.C.1}
+\contentsline {chapter}{\numberline {D}Aula Expositiva}{116}{appendix.D}
+\contentsline {section}{\numberline {D.1}Slides}{117}{section.D.1}
 \SetAppendixTocName {Anexo}
-\contentsline {chapter}{\numberline {A}Manuais do Scratch}{117}{annex.a}
-\contentsline {section}{\numberline {A.1}V\IeC {\'\i }deo}{118}{section.a.1}
-\contentsline {section}{\numberline {A.2}Livros}{119}{section.a.2}
-\contentsline {section}{\numberline {A.3}Tutorias e Artigos}{120}{section.a.3}
-\contentsline {chapter}{\numberline {B}Materiais de Apoio}{121}{annex.b}
-\contentsline {section}{\numberline {B.1}Texto Base}{122}{section.b.1}
-\contentsline {section}{\numberline {B.2}V\IeC {\'\i }deo}{127}{section.b.2}
-\contentsline {chapter}{\numberline {C}Autoriza\c c\~oes}{128}{annex.c}
-\contentsline {chapter}{\numberline {D}Registro de Imagens}{131}{annex.d}
-\contentsline {section}{\numberline {D.1}Premia\c c\~ao}{132}{section.d.1}
+\contentsline {chapter}{\numberline {A}Manuais do Scratch}{123}{annex.a}
+\contentsline {section}{\numberline {A.1}V\IeC {\'\i }deo}{124}{section.a.1}
+\contentsline {section}{\numberline {A.2}Livros}{125}{section.a.2}
+\contentsline {section}{\numberline {A.3}Tutorias e Artigos}{126}{section.a.3}
+\contentsline {chapter}{\numberline {B}Materiais de Apoio}{127}{annex.b}
+\contentsline {section}{\numberline {B.1}Texto Base}{128}{section.b.1}
+\contentsline {section}{\numberline {B.2}V\IeC {\'\i }deo}{133}{section.b.2}
+\contentsline {chapter}{\numberline {C}Autoriza\c c\~oes}{134}{annex.c}
+\contentsline {chapter}{\numberline {D}Registro de Imagens}{137}{annex.d}
+\contentsline {section}{\numberline {D.1}Premia\c c\~ao}{138}{section.d.1}
