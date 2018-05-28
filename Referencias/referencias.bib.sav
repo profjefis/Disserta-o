@@ -1,5 +1,5 @@
 % Encoding: UTF-8
-% Banco de artigos para a dissertação de mestrado
+% Banco de artigos para a dissertaï¿½ï¿½o de mestrado
 %Jogos e Scratch
 @article{de2015aumento,
 	title={O aumento do engajamento no aprendizado atrav{\'e}s da gamifica{\c{c}}{\~a}o do ensino},
@@ -84,7 +84,7 @@
   publisher={Novatec Editora}
 }
 
-%Partículas Elementares
+%Partï¿½culas Elementares
 
 @article{ostermann1999fisica,
   title={F{\'\i}sica Moderna e Contempor{\^a}nea no ensino m{\'e}dio: elabora{\c{c}}{\~a}o de material did{\'a}tico, em forma de p{\^o}ster, sobre part{\'\i}culas elementares e intera{\c{c}}{\~o}es fundamentais},
@@ -235,37 +235,35 @@
   organization = {International Society of the Learning Sciences},
 }
 
-@Comment{jabref-meta: databaseType:bibtex;}
-
-@misc{onscratch2018,
-	author = {MIT Media Lab},
-	title = {Acerca do Scratch},
-	howpublished = "\url{https://scratch.mit.edu/about}",
-	year = {2018}, 
-	note = "[Online; acessado em 13 de Fevereiro de 2008]"
+@Misc{Lab2018,
+  author       = {MIT Media Lab},
+  title        = {Acerca do Scratch},
+  howpublished = {\url{https://scratch.mit.edu/about}},
+  year         = {2018},
+  note         = {[Online; acessado em 13 de Fevereiro de 2008]},
 }
 
-@misc{onwikiscratch,
-	author = {Wikip{\'e}dia},
-	title = {Role-playing game},
-	howpublished = "\url{https://pt.wikipedia.org/wiki/Role-playing_game}",
-	year = {2018}, 
-	note = "[Online; acessado em 13 de Fevereiro de 2018]"
+@Misc{Wikipedia2018,
+  author       = {Wikip{\'e}dia},
+  title        = {Role-playing game},
+  howpublished = {\url{https://pt.wikipedia.org/wiki/Role-playing_game}},
+  year         = {2018},
+  note         = {[Online; acessado em 13 de Fevereiro de 2018]},
 }
 
-@misc{onwikiquiz,
-	author = {Wikip{\'e}dia},
-	title = {Quiz},
-	howpublished = "\url{https://pt.wikipedia.org/wiki/Quiz}",
-	year = {2018}, 
-	note = "[Online; acessado em 15 de Fevereiro de 2018]"
+@Misc{Wikipedia2018a,
+  author       = {Wikip{\'e}dia},
+  title        = {Quiz},
+  howpublished = {\url{https://pt.wikipedia.org/wiki/Quiz}},
+  year         = {2018},
+  note         = {[Online; acessado em 15 de Fevereiro de 2018]},
 }
 
-@article{o2013new,
-	title={New results indicate that new particle is a Higgs boson},
-	author={O'Luanaigh, Cian},
-	journal={CERN-http://home. cern/about/updates/2013/03/new-results-indicate-new-particle-higgs-boson (acessado em 15/02/2018)},
-	year={2013}
+@Article{OLuanaigh2013,
+  author  = {O'Luanaigh, Cian},
+  title   = {New results indicate that new particle is a Higgs boson},
+  journal = {CERN-http://home. cern/about/updates/2013/03/new-results-indicate-new-particle-higgs-boson (acessado em 15/02/2018)},
+  year    = {2013},
 }
 
 @article{moreira2011unidades,
@@ -290,7 +288,7 @@
 	title = {Encurtador de URL},
 	howpublished = "\url{https://pt.wikipedia.org/wiki/Encurtamento_de_URL}",
 	year = {2018}, 
-	note = "[Online; acessado em 06 de Março de 2018]"
+	note = "[Online; acessado em 06 de Marï¿½o de 2018]"
 }
 
 @inproceedings{odorico2012analise,
@@ -324,14 +322,14 @@
 	publisher={Cornell University Press}
 }
 
-@article{moreira2011unidades,
-	title={Unidades de ense{\~n}anza potencialmente significativas--UEPS},
-	author={Moreira, Marco Antonio},
-	journal={Aprendizagem Significativa em Revista},
-	volume={1},
-	number={2},
-	pages={43},
-	year={2011}
+@Article{Moreira2011,
+  author  = {Moreira, Marco Antonio},
+  title   = {Unidades de ense{\~n}anza potencialmente significativas--UEPS},
+  journal = {Aprendizagem Significativa em Revista},
+  year    = {2011},
+  volume  = {1},
+  number  = {2},
+  pages   = {43},
 }
 
 @article{prensky2012aprendizagem,
@@ -365,7 +363,7 @@
 
 @book{gamificacaoeducacao2014,
 	title={Gamifica{\c{c}}{\~a}o na Educa{\c{c}}{\~a}o},
-	author={Fadel, Luciane Maria and Ulbricht, Vania Ribas and Batista, Claudia Regina and  Vanzin, Tarcísio},
+	author={Fadel, Luciane Maria and Ulbricht, Vania Ribas and Batista, Claudia Regina and  Vanzin, Tarcï¿½sio},
 	year={2014},
 	publisher={Pimenta Cultural}
 }
@@ -379,11 +377,11 @@
 	organization={ACM}
 }
 
-@article{ostermann2000revisao,
-	title={Uma revis{\~a}o bibliogr{\'a}fica sobre a {\'a}rea de pesquisa" F{\'\i}sica Moderna e Contempor{\^a}nea no Ensino M{\'e}dio"},
-	author={Ostermann, Fernanda and Moreira, Marco Antonio},
-	journal={Investiga{\c{c}}{\~o}es em ensino de ci{\^e}ncias. Porto Alegre. Vol. 5, n. 1 (jan./abr. 2000), p. 23-48},
-	year={2000}
+@Article{Ostermann2000,
+  author  = {Ostermann, Fernanda and Moreira, Marco Antonio},
+  title   = {Uma revis{\~a}o bibliogr{\'a}fica sobre a {\'a}rea de pesquisa" F{\'\i}sica Moderna e Contempor{\^a}nea no Ensino M{\'e}dio"},
+  journal = {Investiga{\c{c}}{\~o}es em ensino de ci{\^e}ncias. Porto Alegre. Vol. 5, n. 1 (jan./abr. 2000), p. 23-48},
+  year    = {2000},
 }
 
 @article{pereira2009ensino,
@@ -446,11 +444,11 @@
 	publisher={IOP Publishing}
 }
 
-@article{ostermann2001poster,
-	title={Um p{\^o}ster para ensinar F{\'\i}sica de Part{\'\i}culas na escola},
-	author={Ostermann, Fernanda and Cavalcanti, Claudio Jose de Holanda},
-	journal={F{\'\i}sica na escola. S{\~a}o Paulo. Vol. 2, n. 1 (maio 2001), p. 13-18},
-	year={2001}
+@Article{Ostermann2001,
+  author  = {Ostermann, Fernanda and Cavalcanti, Claudio Jose de Holanda},
+  title   = {Um p{\^o}ster para ensinar F{\'\i}sica de Part{\'\i}culas na escola},
+  journal = {F{\'\i}sica na escola. S{\~a}o Paulo. Vol. 2, n. 1 (maio 2001), p. 13-18},
+  year    = {2001},
 }
 
 @article{pascolini2002feynman,
@@ -529,11 +527,11 @@
 	publisher={Universidade Federal de Santa Catarina (UFSC)}
 }
 
-@article{siqueira2005revisando,
-	title={Revisando materiais em ensino m{\'e}dio sobre o tema f{\'\i}sica de part{\'\i}culas elementares},
-	author={Siqueira, M and Pietrocola, M},
-	journal={V ENPEC-Encontro Nacional de Pesquisa em Ensino em Ci{\^e}ncias, Bauru},
-	year={2005}
+@Article{Siqueira2005,
+  author  = {Siqueira, M and Pietrocola, M},
+  title   = {Revisando materiais em ensino m{\'e}dio sobre o tema f{\'\i}sica de part{\'\i}culas elementares},
+  journal = {V ENPEC-Encontro Nacional de Pesquisa em Ensino em Ci{\^e}ncias, Bauru},
+  year    = {2005},
 }
 
 @misc{medio1999brasilia,
@@ -544,7 +542,7 @@
 }
 
 @misc{medio2017brasilia,
-	title={BNCC Ensino Médio},
+	title={BNCC Ensino Mï¿½dio},
 	author={BNCC, MEC},
 	year={2017},
 	publisher={MEC}
@@ -594,13 +592,4 @@ http://portal.mec.gov.br/
 	publisher={5. ed.-S{\~a}o Paulo: Atlas}
 }
 
-@article{ostermann2000atualizaccao,
-	title={Atualiza{\c{c}}{\~a}o do curr{\'\i}culo de F{\'\i}sica na escola de n{\'\i}vel m{\'e}dio: um estudo desta problem{\'a}tica na perspectiva de uma experi{\^e}ncia em sala de aula e da forma{\c{c}}{\~a}o inicial de professores. 2000a},
-	author={OSTERMANN, Fernanda and MOREIRA, Marco Antonio},
-	journal={Trabalho apresentado no VII Encontro de Pesquisa em Ensino de F{\'\i}sica, Florian{\'o}polis},
-	year={2000}
-}
-
-
-
-
+@Comment{jabref-meta: databaseType:bibtex;}
