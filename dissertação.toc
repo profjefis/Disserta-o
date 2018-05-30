@@ -64,20 +64,20 @@
 \contentsline {section}{\numberline {B.2}Resultados da Pesquisa Inicial}{95}{section.B.2}
 \contentsline {section}{\numberline {B.3}Testes}{98}{section.B.3}
 \contentsline {section}{\numberline {B.4}Resultados dos Testes}{103}{section.B.4}
-\contentsline {section}{\numberline {B.5}Pesquisa Final}{110}{section.B.5}
-\contentsline {section}{\numberline {B.6}Resultados da Pesquisa Final}{115}{section.B.6}
-\contentsline {chapter}{\numberline {C}Atividades}{122}{appendix.C}
-\contentsline {section}{\numberline {C.1}Resenha Cr\IeC {\'\i }tica}{123}{section.C.1}
-\contentsline {chapter}{\numberline {D}Aula Expositiva}{124}{appendix.D}
-\contentsline {section}{\numberline {D.1}Slides}{125}{section.D.1}
+\contentsline {section}{\numberline {B.5}Pesquisa Final}{111}{section.B.5}
+\contentsline {section}{\numberline {B.6}Resultados da Pesquisa Final}{112}{section.B.6}
+\contentsline {chapter}{\numberline {C}Atividades}{124}{appendix.C}
+\contentsline {section}{\numberline {C.1}Resenha Cr\IeC {\'\i }tica}{125}{section.C.1}
+\contentsline {chapter}{\numberline {D}Aula Expositiva}{126}{appendix.D}
+\contentsline {section}{\numberline {D.1}Slides}{127}{section.D.1}
 \SetAppendixTocName {Anexo}
-\contentsline {chapter}{\numberline {A}Manuais do Scratch}{131}{annex.a}
-\contentsline {section}{\numberline {A.1}V\IeC {\'\i }deo}{132}{section.a.1}
-\contentsline {section}{\numberline {A.2}Livros}{133}{section.a.2}
-\contentsline {section}{\numberline {A.3}Tutorias e Artigos}{134}{section.a.3}
-\contentsline {chapter}{\numberline {B}Materiais de Apoio}{135}{annex.b}
-\contentsline {section}{\numberline {B.1}Texto Base}{136}{section.b.1}
-\contentsline {section}{\numberline {B.2}V\IeC {\'\i }deo}{141}{section.b.2}
-\contentsline {chapter}{\numberline {C}Autoriza\c c\~oes}{142}{annex.c}
-\contentsline {chapter}{\numberline {D}Registro de Imagens}{145}{annex.d}
-\contentsline {section}{\numberline {D.1}Premia\c c\~ao}{146}{section.d.1}
+\contentsline {chapter}{\numberline {A}Manuais do Scratch}{133}{annex.a}
+\contentsline {section}{\numberline {A.1}V\IeC {\'\i }deo}{134}{section.a.1}
+\contentsline {section}{\numberline {A.2}Livros}{135}{section.a.2}
+\contentsline {section}{\numberline {A.3}Tutorias e Artigos}{136}{section.a.3}
+\contentsline {chapter}{\numberline {B}Materiais de Apoio}{137}{annex.b}
+\contentsline {section}{\numberline {B.1}Texto Base}{138}{section.b.1}
+\contentsline {section}{\numberline {B.2}V\IeC {\'\i }deo}{143}{section.b.2}
+\contentsline {chapter}{\numberline {C}Autoriza\c c\~oes}{144}{annex.c}
+\contentsline {chapter}{\numberline {D}Registro de Imagens}{147}{annex.d}
+\contentsline {section}{\numberline {D.1}Premia\c c\~ao}{148}{section.d.1}
