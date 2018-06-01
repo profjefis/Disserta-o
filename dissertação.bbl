@@ -5,6 +5,12 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{1.45.2.1 }
 
+\bibitem[Ander-Egg 1978]{ander1978introduccion}
+\abntrefinfo{Ander-Egg}{ANDER-EGG}{1978}
+{ANDER-EGG, E. \textbf{Introducci{\'o}n a las t{\'e}cnicas de investigaci{\'o}n
+  social para trabajadores sociales}.
+[S.l.], 1978.}
+
 \bibitem[Ausubel \textit{et al.} 1978]{ausubel1978educational}
 \abntrefinfo{Ausubel \textit{et al.}}{AUSUBEL \textit{et al.}}{1978}
 {AUSUBEL, D.~P.; NOVAK, J.~D.; HANESIAN, H. \textit{et al.} Educational
