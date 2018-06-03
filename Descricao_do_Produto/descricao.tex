@@ -1,6 +1,10 @@
-\section{O Jogo Digital}\label{sec:jogo_digital}
+Nossa proposta de produto educacional consiste em uma sequência didática com o foco na aprendizagem baseada em jogos digitais. Neste capítulo, descreveremos primeiramente as principais característica do game, desde a sua elaboração até sua finalização, e logo após, descreveremos a sequência didática na qual o jogo está inserido, relatando os detalhes que serão abordados em cada aula. 
 
-\section{Os Primeiros Passos}
+O jogo digital representa o âmago do nosso produto educacional. Descreveremos a seguir o processo de elaboração, a ferramenta programação e as principais suas caraterísticas.
+
+\section{O Processo de Elaboração}\label{sec:jogo_digital}
+
+%\subsection{Os Primeiros Passos}\label{subsec:primeiros_passos}
 
 Após várias pesquisas relacionadas à temática da aprendizagem baseada em jogos digitais, elaboramos um plano de execução para concretizar a criação do jogo digital. Este plano consistia em pesquisar as várias etapas da construção de um jogo, desde a criação do enredo até à programação. 
 
@@ -10,7 +14,7 @@ Apesar de já termos um conhecimento básico de lógica de programação, teríamos qu
 
 No intuito de encarar a barreira técnica da programação, escolhemos desenvolver nosso projeto em Scratch. Esta escolha foi devido principalmente à facilidade de aprendizagem de utilizar a ferramenta e à vasta comunidade interativa de ?rojetos e fóruns especializados. 
 
-\subsection{O Scratch}
+\section{A Ferramenta de Programação}\label{subsec:scratch}
 
 Segundo o site \citeonline{on:scratch2018}, o Scratch é um projeto do Lifelong Kindergarten Group do MIT Media Lab. Disponibilizado gratuitamente, o Scratch ajuda os jovens a pensar de forma criativa, a raciocinar sistematicamente e a trabalhar colaborativamente competências essenciais à vida no século XXI. Com ele é possível programar suas próprias histórias, jogos e animações interativas, além de poder compartilhar suas criações com toda a comunidade. Justamente esta comunidade ativa, que torna-o bastante interativo, pois os estudantes podem compartilhar seus projetos e aprender uns com os outros \apud{resnick2009scratch}{bastos2010schatch}.
 
@@ -31,20 +35,38 @@ Estes aspectos inovadores trazem uma aprendizagem muito mais fácil e ativa. Dest
 	\item Programação em blocos: programação de \aspas{encaixe}\footnote{Como se fossem peças de LEGO}, evitando possíveis erros de sintaxe.
 	\item Colaboração: comunidade ativa e interativa com fóruns especializados. 
 \end{enumerate}
- 
-\subsection{Principais Características do Projeto}\label{subsec:programação}
 
+\section{Principais Características}\label{subsec:caracteristicas}
 
+%Tívemos uma tarefa árdua para concluir a elaboração do jogo, pensamos em cada etapa do projeto, desde a definição do tema até a programação.
 
-\subsection{Características}
+Por tratar do tema de Física de Partículas Elementares, pensamos em criar um jogo que explicasse de forma interativa o modelo padrão e as interações fundamentais da natureza. Percebemos que uma parcela de estudantes já tinham ouvido falar do Bóson de Higgs e o LHC, desta forma decidimos elaborar o jogo tendo como tema principal o bóson de Higgs. Denominamos o nosso projeto de: \aspas{Em Busca do Bóson de Higgs}. 
 
-Estilo do jogo é o Rpg(explicar o que é o estilo), primeira pessoa no qual o jogador tem a liberdade de movimentar o personagem principal 
+O principal estilo do game é o RPG\footnote{\textit{RPG (Role-playing game)}:é um tipo de jogo em que os jogadores assumem papéis de personagens e criam narrativas colaborativamente \cite{onwikiscratch}}. Nosso projeto tem um estilo que segue um princípio de narrativa \aspas{linear}, pois os diálogos são predeterminados e seguem uma sequência lógica (mesmo tendo o conhecimento que uma das principais características dos RPGs são as escolhas dos jogadores que determinam o rumo que o jogo irá tomar \cite{onwikiscratch}. 
+
+A dinâmica do jogo é baseada em um \textit{Quiz}\footnote{Quiz: é o nome dado a um jogo no qual os jogadores (individualmente ou em equipes) tentam responder corretamente a questões que lhes são colocadas. Em alguns contextos, a palavra também é utilizada como sinônimo de teste informal para a avaliação de aquisição de conhecimentos ou capacidades em ambientes de aprendizagem \cite{onwikiquiz}}. As perguntas e respostas foram cuidadosamente elaboradas, sendo que todo o embasamento teórico para respondê-las estão associadas aos diálogos. Isto representa a autossuficiência do game, ou seja, não é necessário conhecimento prévio de física de partículas para respondê-las.
+
+O objetivo principal do game é explicar, de forma didática e interativa, o modelo padrão e as interações fundamentais, sendo que o clímax é a detecção do bóson de Higgs \cite{o2013new}. 
+
+O jogo tem vários personagens, cada personagem corresponde a um cientista da física ou da química, são eles:
+
+\begin{description}
+	\item [Peter Higgs]: Primeiro personagem, ele tem a missão de dar as primeiras indicações do jogo. 
+	\item [Linus Pauli]: Segundo personagem, ele tem a missão de explicar sobre os férmions e bósons;
+	\item [César Lattes]: Terceiro personagem, ele tem a missão de explicar sobre o modelo padrão das partículas elementares;
+	\item [Albert Einstein]: Terceiro personagem, ele tem a missão de explicar sobre as interações fundamentais e as partículas mediadoras.
+\end{description} 
+
+Após passar por todos estes personagem, Higgs aparece novamente para o desfecho da narrativa.
+
+A última missão consiste em uma pequena simulação sobre o LHC, uma espécie de mini-game em que o objetivo é elevar a energia com a colisão de hádrons com o intuito de detectar o bóson de Higgs.
+
 
 %Objetivo do jogo
 
 %enredo
 
-Aqui será abordado os seguintes tópicos sobre o jogo: descrição, estilo, dinâmica, jogabilidade, plataforma de programação e arte.
+%Aqui será abordado os seguintes tópicos sobre o jogo: descrição, estilo, dinâmica, jogabilidade, plataforma de programação e arte.
 
 
 %Agracimentos Em meados do ano de 2013, em Salvador-BA, após um minicurso do professor guilherme erwin hartung sobre jogos digitais, despertou-me um interesse em aplicar as ideias absorvida naquele minicurso em minhas aulas, tendo o intuito de deixar minhas aulas mais dinâmicas, interativas e interessantes. Meu projeto consistia em realizar oficinas para estudantes sobre programação de jogos digitais. 
@@ -63,11 +85,11 @@ Aqui será abordado os seguintes tópicos sobre o jogo: descrição, estilo, dinâmic
 
 %Estilo do jogo
 
-O jogo um estilo de rpg jogo de primeira pessoa, no qual o jogador tem a liberdade de explorar o cenário, entretanto para conseguir alcançar o objetivo deverá seguir as orientação de cada personagem
+%O jogo um estilo de rpg jogo de primeira pessoa, no qual o jogador tem a liberdade de explorar o cenário, entretanto para conseguir alcançar o objetivo deverá seguir as orientação de cada personagem
 
 %Formato de perguntas e respostas (Anexo)
 
-O jogo tem um total de 20 perguntas referentes ao tema de física de partículas elementares, para responder as perguntas o jogador deverá prestar bastante atenção nos diálogos. O jogo é autossuficiente, ou seja, as respostas então na própria narrativa. Não precisa de conhecimento prévio.
+%O jogo tem um total de 20 perguntas referentes ao tema de física de partículas elementares, para responder as perguntas o jogador deverá prestar bastante atenção nos diálogos. O jogo é autossuficiente, ou seja, as respostas então na própria narrativa. Não precisa de conhecimento prévio.
 
 %Enredo do jogo (Anexo)
 
@@ -77,60 +99,33 @@ O jogo tem um total de 20 perguntas referentes ao tema de física de partículas e
 
 
 
-\subsection{Enredo}\label{subsec:enredo}
+%\subsection{Enredo}\label{subsec:enredo}
 
-Está em anexo
+%Está em anexo
 
-Personagens:
-\begin{description}
-	\item [Higgs]: Primeiro personagem do enredo, ele explica o início do jogo 
-	\item [Pauli]: Explica sobre os spins e a relação dos férmions e bósons
-	\item [César Lattes]: Importância de destacar um brasileiro no cenário mundial da ciência 
-	\item [Einstein]: Interações fundamentais da natureza
-\end{description}
+%Personagens:
+%\begin{description}
+%	\item [Higgs]: Primeiro personagem do enredo, ele explica o início do jogo 
+%	\item [Pauli]: Explica sobre os spins e a relação dos férmions e bósons
+%	\item [César Lattes]: Importância de destacar um brasileiro no cenário mundial da ciência 
+%	\item [Einstein]: Interações fundamentais da natureza
+%\end{description}
 
-\subsection{Atividades Extras}\label{subsec:atividades_extras}
+%\subsection{Atividades Extras}\label{subsec:atividades_extras}
 
 Além do jogo digital que corresponde o cerne do meu produto, criei duas aplicações complementares.
 
-A primeira consiste em um mini-game de classificação das partículas elementares do modelo padrão. Das dezoito partículas contidas no mini-game \footnote{Partículas: up, down, top, bottom, charm e strange, elétron, neutrino do elétron, múon, neutrino do múon, tau e neutrino do tau, fóton, glúon, $w_{+}$, $w_{-}$, $w_{0}$ e Higgs} o objetivo consiste em classificar estas partículas nas classes dos Quarks, Léptons e Bósons.
-
-O jogador tem como alvo três blocos de classificação, o jogador tem como objetivo classificar as partículas, caso a classificação for inadequada, os blocos descerão, caso a classificação for adequada os blocos permaneceram no mesmo patamar.
-
-À medida que os blocos descem o jogador deverá ter bastante atenção, pois caso os blocos descerem muito e colidir com a seta de classificação, o jogo chegará ao fim.
-
-
-Simulação computacional de relatividade restrita
-
-
-Outra atividade extra consiste em uma simples simulação de relatividade restrita, no qual o jogador controla o parâmetro velocidade da partícula e percebe a modificação do tempo de vida médio
-
-\section{Metodologia}\label{sec:organização_didática}
-Aqui nesta seção comentarei sobre a montagem da sequência didática.
-
-Total de aulas: 10
-
-Público alvo: estudantes da terceira série do ensino médio do CED 15 - Ceilândia.
-
-Total de turmas: 4
-
-\begin{figura}[ht]
-	\centering
-	\includegraphics[width=0.9 \textwidth]{Descricao_do_Produto/sequencia}
-	\caption{Pesquisa Inicial: Introdução}
-	\label{fig:rd_int}
-\end{figura}
-
 \begin{description}
-	\item [Aula 1:] Pesquisa inicial - jogos digitais
-	\item [Aula 2:] Pré-teste
-	\item [Aula 3:] 1ª Aplicação do jogo
-	\item [Aula 4 e Aula 5:] Vídeo \aspas{O Discreto charme das partículas elementares}
-	\item [Aula 6 e Aula 7:] Aula expositiva
-	\item [Aula 8] Segunda aplicação do jogo
-	\item [Aula 9] Pós-teste
-	\item [Aula 10] Pesquisa final - aplicação do produto educacional
+	\item[Classificação das Partículas]: É um mini-game cujo objetivo é classificar de forma adequada as partículas do modelo padrão;
+	\item[Simulação Relativística]: Consiste em uma simulação da dilatação do tempo de vida médio do múon.
 \end{description}
 
+Para mais detalhes do game e das atividades complementares, veja o apêndice \ref{app_a:tutorial}.
 
+%A primeira consiste em um mini-game de classificação das partículas elementares do modelo padrão. Das dezoito partículas contidas no mini-game \footnote{Partículas: up, down, top, bottom, charm e strange, elétron, neutrino do elétron, múon, neutrino do múon, tau e neutrino do tau, fóton, glúon, $w_{+}$, $w_{-}$, $w_{0}$ e Higgs} o objetivo consiste em classificar estas partículas nas classes dos Quarks, Léptons e Bósons.
 
+%O jogador tem como alvo três blocos de classificação, o jogador tem como objetivo classificar as partículas, caso a classificação for inadequada, os blocos descerão, caso a classificação for adequada os blocos permaneceram no mesmo patamar.
+
+%À medida que os blocos descem o jogador deverá ter bastante atenção, pois caso os blocos descerem muito e colidir com a seta de classificação, o jogo chegará ao fim.
+
+%Outra atividade extra consiste em uma simples simulação de relatividade restrita, no qual o jogador controla o parâmetro velocidade da partícula e percebe a modificação do tempo de vida médio
