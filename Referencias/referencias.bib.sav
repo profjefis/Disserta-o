@@ -235,31 +235,25 @@
   organization = {International Society of the Learning Sciences},
 }
 
-@Misc{Lab2018,
+@Misc{onscratch2018,
   author       = {MIT Media Lab},
   title        = {Acerca do Scratch},
   howpublished = {\url{https://scratch.mit.edu/about}},
-  year         = {2018},
-  note         = {[Online; acessado em 13 de Fevereiro de 2008]},
 }
 
-@Misc{Wikipedia2018,
+@Misc{onwikiscratch,
   author       = {Wikip{\'e}dia},
   title        = {Role-playing game},
   howpublished = {\url{https://pt.wikipedia.org/wiki/Role-playing_game}},
-  year         = {2018},
-  note         = {[Online; acessado em 13 de Fevereiro de 2018]},
 }
 
-@Misc{Wikipedia2018a,
+@Misc{onwikiquiz,
   author       = {Wikip{\'e}dia},
   title        = {Quiz},
   howpublished = {\url{https://pt.wikipedia.org/wiki/Quiz}},
-  year         = {2018},
-  note         = {[Online; acessado em 15 de Fevereiro de 2018]},
 }
 
-@Article{OLuanaigh2013,
+@Article{o2013new,
   author  = {O'Luanaigh, Cian},
   title   = {New results indicate that new particle is a Higgs boson},
   journal = {CERN-http://home. cern/about/updates/2013/03/new-results-indicate-new-particle-higgs-boson (acessado em 15/02/2018)},
@@ -322,7 +316,7 @@
 	publisher={Cornell University Press}
 }
 
-@Article{Moreira2011,
+@Article{moreira2011unidades,
   author  = {Moreira, Marco Antonio},
   title   = {Unidades de ense{\~n}anza potencialmente significativas--UEPS},
   journal = {Aprendizagem Significativa em Revista},
@@ -377,7 +371,7 @@
 	organization={ACM}
 }
 
-@Article{Ostermann2000,
+@Article{ostermann2000revisao,
   author  = {Ostermann, Fernanda and Moreira, Marco Antonio},
   title   = {Uma revis{\~a}o bibliogr{\'a}fica sobre a {\'a}rea de pesquisa" F{\'\i}sica Moderna e Contempor{\^a}nea no Ensino M{\'e}dio"},
   journal = {Investiga{\c{c}}{\~o}es em ensino de ci{\^e}ncias. Porto Alegre. Vol. 5, n. 1 (jan./abr. 2000), p. 23-48},
@@ -444,7 +438,7 @@
 	publisher={IOP Publishing}
 }
 
-@Article{Ostermann2001,
+@Article{ostermann2001poster,
   author  = {Ostermann, Fernanda and Cavalcanti, Claudio Jose de Holanda},
   title   = {Um p{\^o}ster para ensinar F{\'\i}sica de Part{\'\i}culas na escola},
   journal = {F{\'\i}sica na escola. S{\~a}o Paulo. Vol. 2, n. 1 (maio 2001), p. 13-18},
@@ -527,7 +521,7 @@
 	publisher={Universidade Federal de Santa Catarina (UFSC)}
 }
 
-@Article{Siqueira2005,
+@Article{siqueira2005revisando,
   author  = {Siqueira, M and Pietrocola, M},
   title   = {Revisando materiais em ensino m{\'e}dio sobre o tema f{\'\i}sica de part{\'\i}culas elementares},
   journal = {V ENPEC-Encontro Nacional de Pesquisa em Ensino em Ci{\^e}ncias, Bauru},
@@ -569,14 +563,6 @@ http://portal.mec.gov.br/
 	note = "[Online; acessado em 28 de Abril de 2018]"
 }
 
-@article{sant2010conexoes,
-	title={Conex{\~o}es com a F{\'\i}sica, Vol. 3},
-	author={SANT?ANNA, Blaidi and MARTINI, Gloria and REIS, Hugo C and SPINELLI, Walter},
-	journal={S{\~a}o Paulo: Moderna},
-	pages={91},
-	year={2017}
-}
-
 @article{brasil2011lei,
 	title={Lei 9394/96--Lei de Diretrizes e Bases da Educa{\c{c}}{\~a}o Nacional. Dispon{\'\i}vel em< www. planalto. gov. br>},
 	author={Brasil, LDB},
@@ -590,6 +576,127 @@ http://portal.mec.gov.br/
 	author={Marconi, Marina de Andrade and Lakatos, Eva Maria},
 	year={2003},
 	publisher={5. ed.-S{\~a}o Paulo: Atlas}
+}
+
+@Book{yamamoto2013fisica,
+  title   = {F{\'\i}sica para o ensino m{\'e}dio},
+  year    = {2016},
+  author  = {Yamamoto, Kazuhito and Fuke, Luiz Felipe},
+  volume  = {3},
+  journal = {S{\~a}o Paulo: Saraiva},
+}
+
+@Book{xavier2010fisica,
+  title   = {F{\'\i}sica aula por aula},
+  year    = {2016},
+  author  = {Xavier, Claudio and Barreto, Benigno},
+  volume  = {3},
+  journal = {S{\~a}o Paulo: FTD},
+}
+
+@Book{stefanovits2013ser,
+  title   = {Ser protagonista: F{\'\i}sica},
+  year    = {2016},
+  author  = {STEFANOVITS, Angelo},
+  volume  = {3},
+  journal = {3{\textordmasculine} ano: ensino m{\'e}dio},
+}
+
+@Book{pietrocola2011fisica,
+  title   = {F{\'\i}sica em contextos},
+  year    = {2016},
+  author  = {PIETROCOLA, Maur{\'\i}cio and POGIBIN, Alexander and ANDRADE, R de and ROMERO, Talita Raquel},
+  volume  = {3},
+  journal = {S{\~a}o Paulo: FTD},
+}
+
+@Book{sant2010conexoes,
+  title   = {Conex{\~o}es com a F{\'\i}sica},
+  year    = {2016},
+  author  = {Sant'Anna, Blaidi and MARTINI, Gl{\'o}ria and REIS, Hugo Carneiro and SPINELLI, Walter},
+  volume  = {3},
+  journal = {S{\~a}o Paulo: Moderna},
+}
+
+@Book{penteado2005fisica,
+  title   = {F{\'\i}sica: ci{\^e}ncia e tecnologia},
+  year    = {2016},
+  author  = {Penteado, Paulo C{\'e}sar M and Torres, Carlos Magno A},
+  volume  = {3},
+  journal = {S{\~a}o Paulo: Moderna},
+}
+
+@Book{maximo2011fisica,
+  title   = {F{\'\i}sica: contexto e aplica{\c{c}}{\~o}es},
+  year    = {2016},
+  author  = {M{\'a}ximo, Antonio and Alvarenga, Beatriz},
+  volume  = {3},
+  journal = {2{\textordfeminine} Edi{\c{c}}{\~a}o. S{\~a}o: Scipione},
+}
+
+@Book{guimaraes2013fisica,
+  title   = {F{\'\i}sica (Vol. 3)},
+  year    = {2016},
+  author  = {Guimar{\~a}es, O and Piqueira, JR and Carron, W},
+  volume  = {3},
+  journal = {S{\~a}o Paulo: {\'A}tica},
+}
+
+@Book{gonccalves2013fisica,
+  title   = {F{\'\i}sica: intera{\c{c}}{\~a}o e tecnologia},
+  year    = {2016},
+  author  = {Gon{\c{c}}alves Filho, Aurelio and Toscano, Carlos},
+  volume  = {3},
+  journal = {S{\~a}o Paulo: Leya},
+}
+
+@Book{gaspar2011compreendendo,
+  title   = {Compreendendo a f{\'\i}sica},
+  year    = {2016},
+  author  = {Gaspar, Alberto},
+  volume  = {3},
+  journal = {Editora {\'A}tica},
+}
+
+@Book{bonjorno2013fisica,
+  title   = {F{\'\i}sica (Vol. 3)},
+  year    = {2016},
+  author  = {Bonjorno, JR and Clinton, MR and Prado, E and Casemiro, R and Bonjorno, RA},
+  volume  = {3},
+  journal = {S{\~a}o Paulo: FTD},
+}
+
+@PhdThesis{pinheiro2011particulas,
+  author = {Pinheiro, Lisiane Ara{\'u}jo},
+  title  = {Disserta{\c{c}}{\~a}o de Mestrado - Part{\'\i}culas elementares e intera{\c{c}}{\~o}es fundamentais no Ensino M{\'e}dio},
+  year   = {2011},
+}
+
+@Article{ostermann2000atualizaccao,
+  author  = {OSTERMANN, Fernanda and MOREIRA, Marco Antonio},
+  title   = {Atualiza{\c{c}}{\~a}o do curr{\'\i}culo de F{\'\i}sica na escola de n{\'\i}vel m{\'e}dio: um estudo desta problem{\'a}tica na perspectiva de uma experi{\^e}ncia em sala de aula e da forma{\c{c}}{\~a}o inicial de professores. 2000a},
+  journal = {Trabalho apresentado no VII Encontro de Pesquisa em Ensino de F{\'\i}sica, Florian{\'o}polis},
+  year    = {2000},
+}
+
+@TechReport{ander1978introduccion,
+  author = {Ander-Egg, Ezequiel},
+  title  = {Introducci{\'o}n a las t{\'e}cnicas de investigaci{\'o}n social para trabajadores sociales},
+  year   = {1978},
+}
+
+@PhdThesis{cavalcante2013pnldfisica,
+  author = {Cavalcate, Anderson Brasil Silva},
+  title  = {Disserta{\c{c}}{\~a}o de Mestrado - ENERGIA NUCLEAR NO ENSINO M{\'E}DIO: uma an{\'a}lise dos livros did{\'a}ticos de F{\'i}sica dos programas PNLEM 2007 e PNLD 2012 no Ensino M{\'e}dio},
+  year   = {2013},
+}
+
+@Book{biscuola2010fisica,
+  title   = {F{\'\i}sica 3},
+  year    = {2016},
+  author  = {Biscuola, Gualter Jos{\'e} and Boas, Newton V and Doca, Ricardo Helou},
+  volume  = {3},
+  journal = {S{\~a}o Paulo: Saraiva},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
