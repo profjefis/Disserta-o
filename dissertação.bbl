@@ -5,6 +5,11 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{1.45.2.1 }
 
+\bibitem[Abdalla 2006]{abdalla2006discreto}
+\abntrefinfo{Abdalla}{ABDALLA}{2006}
+{ABDALLA, M. C.~B. \textbf{O discreto charme das part{\'\i}culas elementares.}
+  [S.l.]: Unesp, 2006.}
+
 \bibitem[Ander-Egg 1978]{ander1978introduccion}
 \abntrefinfo{Ander-Egg}{ANDER-EGG}{1978}
 {ANDER-EGG, E. \textbf{Introducci{\'o}n a las t{\'e}cnicas de investigaci{\'o}n
@@ -16,6 +21,13 @@
 {AUSUBEL, D.~P.; NOVAK, J.~D.; HANESIAN, H. \textit{et al.} Educational
   psychology: A cognitive view.
 Holt, Rinehart and Winston New York, 1978.}
+
+\bibitem[BALTHAZAR 2010]{balthazar2010particulas}
+\abntrefinfo{BALTHAZAR}{BALTHAZAR}{2010}
+{BALTHAZAR, W.~F.
+\textbf{Part{\'\i}culas Elementares no Ensino M{\'e}dio: uma abordagem a partir
+  do LHC}.
+Tese (Doutorado), 2010.}
 
 \bibitem[Bastos \textit{et al.} 2010]{bastos2010schatch}
 \abntrefinfo{Bastos \textit{et al.}}{BASTOS \textit{et al.}}{2010}
@@ -251,6 +263,13 @@ Tese (Doutorado) --- Universidade de Lisboa, 2009.}
 {PIETROCOLA, M.; POGIBIN, A.; ANDRADE, R.~d.; ROMERO, T.~R. \textbf{F{\'\i}sica
   em contextos}. [S.l.: s.n.], 2016.}
 
+\bibitem[Pinheiro 2011]{pinheiro2011particulas}
+\abntrefinfo{Pinheiro}{PINHEIRO}{2011}
+{PINHEIRO, L.~A.
+\textbf{Disserta{\c{c}}{\~a}o de Mestrado - Part{\'\i}culas elementares e
+  intera{\c{c}}{\~o}es fundamentais no Ensino M{\'e}dio}.
+Tese (Doutorado), 2011.}
+
 \bibitem[Prensky 2012]{prensky2012aprendizagem}
 \abntrefinfo{Prensky}{PRENSKY}{2012}
 {PRENSKY, M. Aprendizagem baseada em jogos digitais.
@@ -273,12 +292,25 @@ Tese (Doutorado) --- Universidade de Lisboa, 2009.}
 {SCOTT, A.~J. 3-d spreadsheet simulation of a modern particle detector.
 \textbf{Physics education}, IOP Publishing, v.~39, n.~1, p.~91, 2004.}
 
+\bibitem[SIQUEIRA 2006]{siqueira2006visivel}
+\abntrefinfo{SIQUEIRA}{SIQUEIRA}{2006}
+{SIQUEIRA, M. Do vis{\'\i}vel ao indivis{\'\i}vel: uma proposta de f{\'\i}sica
+  de part{\'\i}culas elementares para o ensino m{\'e}dio.
+\textbf{S{\~a}o Paulo: IF/FE USP}, 2006.}
+
 \bibitem[Siqueira e Pietrocola 2005]{siqueira2005revisando}
 \abntrefinfo{Siqueira e Pietrocola}{SIQUEIRA; PIETROCOLA}{2005}
 {SIQUEIRA, M.; PIETROCOLA, M. Revisando materiais em ensino m{\'e}dio sobre o
   tema f{\'\i}sica de part{\'\i}culas elementares.
 \textbf{V ENPEC-Encontro Nacional de Pesquisa em Ensino em Ci{\^e}ncias,
   Bauru}, 2005.}
+
+\bibitem[Siqueira e Pietrocola 2006]{siqueira2006transposiccao}
+\abntrefinfo{Siqueira e Pietrocola}{SIQUEIRA; PIETROCOLA}{2006}
+{SIQUEIRA, M.; PIETROCOLA, M. A transposi{\c{c}}{\~a}o did{\'a}tica aplicada a
+  teoria contempor{\^a}nea: A f{\'\i}sica de part{\'\i}culas elementares no
+  ensino m{\'e}dio.
+\textbf{X Encontro de Pesquisa em Ensino de F{\'\i}sica, Londrina}, 2006.}
 
 \bibitem[Stefanovits 2016]{stefanovits2013ser}
 \abntrefinfo{Stefanovits}{STEFANOVITS}{2016}
