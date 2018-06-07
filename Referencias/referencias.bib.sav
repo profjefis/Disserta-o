@@ -597,7 +597,7 @@ http://portal.mec.gov.br/
 @Book{stefanovits2013ser,
   title   = {Ser protagonista: F{\'\i}sica},
   year    = {2016},
-  author  = {STEFANOVITS, Angelo},
+  author  = {Stefanovits, Angelo},
   volume  = {3},
   journal = {3{\textordmasculine} ano: ensino m{\'e}dio},
 }
@@ -605,7 +605,7 @@ http://portal.mec.gov.br/
 @Book{pietrocola2011fisica,
   title   = {F{\'\i}sica em contextos},
   year    = {2016},
-  author  = {PIETROCOLA, Maur{\'\i}cio and POGIBIN, Alexander and ANDRADE, R de and ROMERO, Talita Raquel},
+  author  = {Pietrocola, Maur{\'\i}cio and Pogibin, Alexander and Andrade, R de and Romero, Talita Raquel},
   volume  = {3},
   journal = {S{\~a}o Paulo: FTD},
 }
@@ -697,6 +697,56 @@ http://portal.mec.gov.br/
   author  = {Biscuola, Gualter Jos{\'e} and Boas, Newton V and Doca, Ricardo Helou},
   volume  = {3},
   journal = {S{\~a}o Paulo: Saraiva},
+}
+
+@Article{pereira2013ensino,
+  author  = {PEREIRA, JM and LONDERO, L},
+  title   = {O ensino de part{\'\i}culas elementares por meio da leitura de ?Alice no Pa{\'\i}s do Quantum?},
+  journal = {SIMP{\'O}SIO NACIONAL DE ENSINO DE F{\'I}SICA, XX},
+  year    = {2013},
+}
+
+@Article{siqueira2011fisica,
+  author  = {Siqueira, M and Pietrocola, M},
+  title   = {Como a f{\'\i}sica de part{\'\i}culas elementares pode contribuir para o Ensino B{\'a}sico},
+  journal = {O que s{\~a}o quarks, gl{\'u}ons, b{\'o}sons de Higgs, buracos negros e outras coisas estranhas},
+  year    = {2011},
+  pages   = {263--284},
+}
+
+@PhdThesis{pinheiro2011particulas,
+  author = {Pinheiro, Lisiane Araujo},
+  title  = {Part{\'\i}culas Elementares e Intera{\c{c}}{\~o}es Fundamentais no Ensino M{\'e}dio. 313f},
+  school = {Disserta{\c{c}}{\~a}o (Mestrado Profissional em Ensino de F{\'\i}sica)--Universidade Federal do Rio Grande do Sul, Porto Alegre},
+  year   = {2011},
+}
+
+@PhdThesis{balthazar2010particulas,
+  author  = {BALTHAZAR, WAGNER FRANKLIN},
+  title   = {Part{\'\i}culas Elementares no Ensino M{\'e}dio: uma abordagem a partir do LHC},
+  year    = {2010},
+  journal = {S{\~a}o Paulo: Editora Livraria da F{\'\i}sica: Rio de Janeiro: CBPF--Centro Brasileiro de Pesquisas F{\'\i}sicas (Cole{\c{c}}{\~a}o T{\'o}picos em F{\'\i}sica)},
+}
+
+@PhdThesis{siqueira2006transposiccao,
+  author  = {Siqueira, Maxwell and Pietrocola, Maur{\'\i}cio},
+  title   = {A Transposi{\c{c}}{\~a}o Did{\'a}tica aplicada a teoria contempor{\^a}nea: A F{\'\i}sica de Part{\'\i}culas elementares no Ensino M{\'e}dio},
+  year    = {2006},
+  journal = {X Encontro de Pesquisa em Ensino de F{\'\i}sica, Londrina},
+}
+
+@Article{siqueira2006visivel,
+  author  = {SIQUEIRA, Maxwell},
+  title   = {Do vis{\'\i}vel ao indivis{\'\i}vel: uma proposta de F{\'\i}sica de Part{\'\i}culas Elementares para o Ensino M{\'e}dio},
+  journal = {S{\~a}o Paulo: IF/FE USP},
+  year    = {2006},
+}
+
+@Book{abdalla2006discreto,
+  title     = {O discreto charme das part{\'\i}culas elementares.},
+  publisher = {Unesp},
+  year      = {2006},
+  author    = {Abdalla, Maria Cristina Batoni},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
