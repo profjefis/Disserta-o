@@ -33,7 +33,8 @@
     \strng{fullhash}{SJ1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labelalpha}{Smi13}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{year}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{number}{6}
@@ -63,7 +64,8 @@
     \strng{fullhash}{SJ2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labelalpha}{Smi12}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{year}
     \field{sortinit}{S}
     \field{sortinithash}{S}
     \field{edition}{1}

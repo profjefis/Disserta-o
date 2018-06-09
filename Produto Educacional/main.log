@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.6)  6 JUN 2018 22:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.6)  9 JUN 2018 16:07
 entering extended mode
 **./main.tex
 (main.tex
@@ -16,8 +16,8 @@ Applying: [2015/01/01] Make \] robust on input line 74.
 LaTeX Info: Redefining \] on input line 75.
 Already applied: [0000/00/00] Make \] robust on input line 83.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\bk11.clo"
-File: bk11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\bk12.clo"
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -406,9 +406,8 @@ File: switch.def 2017/11/03 3.15 Babel switching mechanism
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
-Language: english 2017/06/06 v3.3r English support from the babel system
-
+(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\babel-portuges\portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2017/11/03 3.15 Babel common definitions
 
@@ -418,9 +417,8 @@ File: switch.def 2017/11/03 3.15 Babel switching mechanism
 \babel@savecnt=\count111
 \U@D=\dimen160
 )
-\l@canadian = a dialect from \language\l@american 
-\l@australian = a dialect from \language\l@british 
-\l@newzealand = a dialect from \language\l@british 
+\l@brazilian = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
 ))
 (C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
@@ -1642,14 +1640,13 @@ File: bkm-pdftex.def 2016/05/17 v1.26 bookmark driver for pdfTeX (HO)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
-Package csquotes Info: Redefining alias 'default' -> 'english'.
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
+Package csquotes Info: Redefining alias 'default' -> 'brazilian'.
+Package biblatex Info: Trying to load language 'brazilian'...
+Package biblatex Info: ... file 'brazilian.lbx' found.
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\lbx\english.lbx
-File: english.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
-)
-(main.aux)
+(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\lbx\brazilian.lbx
+File: brazilian.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
+) (main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
@@ -1689,12 +1686,12 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 * \topmargin=-8.91173pt
 * \headheight=14.5pt
 * \headsep=10.0pt
-* \topskip=11.0pt
-* \footskip=27.46295pt
-* \marginparwidth=116.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=98.0pt
 * \marginparsep=7.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1805,13 +1802,9 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `pag' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <14.4> not available
+LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/pag/b/n' tried instead on input line 66.
-LaTeX Font Info:    Font shape `T1/pag/b/n' in size <14.4> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 66.
-LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/pag/b/n' tried instead on input line 66.
-LaTeX Font Info:    Font shape `T1/pag/b/n' in size <20.74> not available
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <17.28> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 66.
 LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 66
 .
@@ -1859,6 +1852,11 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 (C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 76.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 76.
+
 [1
 
 {C:/Users/Dell/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Pictures/b
@@ -1867,7 +1865,7 @@ LaTeX Font Info:    Try loading font information for OMS+ptm on input line 80.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
 )
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 80.
 
 Underfull \hbox (badness 10000) in paragraph at lines 80--81
@@ -1892,17 +1890,21 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 86.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 86.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 86.
 
 Underfull \hbox (badness 10000) in paragraph at lines 86--87
 
  []
 
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 100.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 100.
 [2]
 <Pictures/chapter_head_1.pdf, id=24, pagebox=cropbox, 597.432pt x 298.716pt>
 File: Pictures/chapter_head_1.pdf Graphic file (type pdf)
@@ -1912,179 +1914,297 @@ n input line 100.
 Package pdftex.def Info: Requested size: 597.50787pt x 298.77907pt on input lin
 e 100.
  (main.toc
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 5.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 5.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/pag/b/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <14.4> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <12> not available
-(Font)              Font shape `T1/pag/b/n' tried instead on input line 7.
+(Font)              Font shape `T1/pag/b/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 7.
-LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/pag/b/n' tried instead on input line 7.
-LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10.95> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 7.
- [3
-
- <./Pictures/chapter_head_1.pdf>])
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `T1/pag/bx/it' in size <14.4> not available
+(Font)              Font shape `T1/pag/b/it' tried instead on input line 11.
+LaTeX Font Info:    Font shape `T1/pag/b/it' in size <14.4> not available
+(Font)              Font shape `T1/pag/db/it' tried instead on input line 11.
+LaTeX Font Info:    Font shape `T1/pag/db/it' in size <14.4> not available
+(Font)              Font shape `T1/pag/db/sl' tried instead on input line 11.
+)
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
- [4]
-\c@ttl@toc@default=\count451
-LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <220> not available
-(Font)              Font shape `T1/pag/b/n' tried instead on input line 110.
-LaTeX Font Info:    Font shape `T1/pag/b/n' in size <220> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 110.
- (main.ptc)
-LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <30> not available
-(Font)              Font shape `T1/pag/b/n' tried instead on input line 110.
-LaTeX Font Info:    Font shape `T1/pag/b/n' in size <30> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 110.
- [5
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 102.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 102.
+ [3
 
+ <./Pictures/chapter_head_1.pdf>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 102.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 102.
+ [4
 
-] [6]
-Chapter 1.
-<Pictures/chapter_head_2.pdf, id=173, pagebox=cropbox, 3581.38pt x 1790.69pt>
+]
+Cap\'{\i }tulo 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 118.
+<Pictures/chapter_head_2.pdf, id=84, pagebox=cropbox, 3581.38pt x 1790.69pt>
 File: Pictures/chapter_head_2.pdf Graphic file (type pdf)
 <use Pictures/chapter_head_2.pdf>
 Package pdftex.def Info: Pictures/chapter_head_2.pdf  used on input line 118. o
 n input line 118.
 Package pdftex.def Info: Requested size: 597.50787pt x 298.75726pt on input lin
 e 118.
-[7
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 122.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 124.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 124.
+[5
 
  <./Pictures/chapter_head_2.pdf>]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 134.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 155.
- [8]
-Chapter 2.
+
+Package Fancyhdr Warning: \headheight is too small (14.5pt): 
+ Make it at least 14.73pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 124.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 124.
+[6]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 128.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 132.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 132.
+ [7]
+
+Package Fancyhdr Warning: \headheight is too small (14.5pt): 
+ Make it at least 14.73pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 140.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 140.
+[8]
+Cap\'{\i }tulo 2.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 140.
 File: Pictures/chapter_head_2.pdf Graphic file (type pdf)
 <use Pictures/chapter_head_2.pdf>
-Package pdftex.def Info: Pictures/chapter_head_2.pdf  used on input line 164. o
-n input line 164.
+Package pdftex.def Info: Pictures/chapter_head_2.pdf  used on input line 140. o
+n input line 140.
 Package pdftex.def Info: Requested size: 597.50787pt x 298.75726pt on input lin
-e 164.
-Package mdframed Info: mdframed works in twoside mode on input line 173.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 173.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 173.
-LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <10> not available
-(Font)              Font shape `T1/pag/b/n' tried instead on input line 173.
-LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 173.
-Package mdframed Info: mdframed works in twoside mode on input line 184.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 184.
-Package mdframed Info: mdframed works in twoside mode on input line 194.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 194.
+e 140.
+LaTeX Font Info:    Font shape `T1/pag/bx/it' in size <24.88> not available
+(Font)              Font shape `T1/pag/b/it' tried instead on input line 140.
+LaTeX Font Info:    Font shape `T1/pag/b/it' in size <24.88> not available
+(Font)              Font shape `T1/pag/db/it' tried instead on input line 140.
+LaTeX Font Info:    Font shape `T1/pag/db/it' in size <24.88> not available
+(Font)              Font shape `T1/pag/db/sl' tried instead on input line 140.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 144.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 146.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 146.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 146.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 150.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 150.
 [9
 
 ]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 223.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 223.
-Package mdframed Info: mdframed works in twoside mode on input line 232.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 232.
-LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <6> not available
-(Font)              Font shape `T1/pag/b/n' tried instead on input line 267.
-LaTeX Font Info:    Font shape `T1/pag/b/n' in size <6> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 267.
- [10]
-Package mdframed Info: mdframed works in twoside mode on input line 287.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 287.
- [11] [12
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 157.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 169.
+LaTeX Font Info:    Font shape `T1/pag/bx/it' in size <12> not available
+(Font)              Font shape `T1/pag/b/it' tried instead on input line 176.
+LaTeX Font Info:    Font shape `T1/pag/b/it' in size <12> not available
+(Font)              Font shape `T1/pag/db/it' tried instead on input line 176.
+LaTeX Font Info:    Font shape `T1/pag/db/it' in size <12> not available
+(Font)              Font shape `T1/pag/db/sl' tried instead on input line 176.
 
-] (main.ptc) [13] [14]
-Chapter 3.
+
+Package Fancyhdr Warning: \headheight is too small (14.5pt): 
+ Make it at least 14.73pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 176.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 176.
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
+[][][][]$\T1/cmtt/m/n/10 http : / / projectos . ese . ips . pt / eduscratch / i
+ndex . php / 36-[]uncategorised /
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 195.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 195.
+[11]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 195.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 195.
+ [12
+
+]
+Cap\'{\i }tulo 3.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 195.
 File: Pictures/chapter_head_1.pdf Graphic file (type pdf)
 <use Pictures/chapter_head_1.pdf>
-Package pdftex.def Info: Pictures/chapter_head_1.pdf  used on input line 321. o
-n input line 321.
+Package pdftex.def Info: Pictures/chapter_head_1.pdf  used on input line 195. o
+n input line 195.
 Package pdftex.def Info: Requested size: 597.50787pt x 298.77907pt on input lin
-e 321.
-<Pictures/placeholder.jpg, id=264, 351.3125pt x 193.72375pt>
-File: Pictures/placeholder.jpg Graphic file (type jpg)
-<use Pictures/placeholder.jpg>
-Package pdftex.def Info: Pictures/placeholder.jpg  used on input line 344. on i
-nput line 344.
-Package pdftex.def Info: Requested size: 175.6558pt x 96.86163pt on input line 
-344.
-[15
+e 195.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 196.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 196.
+[13]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 198.
 
- <./Pictures/placeholder.jpg>] [16
+
+Package Fancyhdr Warning: \headheight is too small (14.5pt): 
+ Make it at least 14.73pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 199.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 199.
+[14]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 201.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 202.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 202.
+ [15]
+
+Package Fancyhdr Warning: \headheight is too small (14.5pt): 
+ Make it at least 14.73pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 202.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 202.
+[16]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 204.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 205.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 205.
+ [17]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 207.
+
+
+Package Fancyhdr Warning: \headheight is too small (14.5pt): 
+ Make it at least 14.73pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 208.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 208.
+[18]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 214.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 214.
+ [19]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 214.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 214.
+ [20
 
 ]
 File: Pictures/chapter_head_1.pdf Graphic file (type pdf)
 <use Pictures/chapter_head_1.pdf>
-Package pdftex.def Info: Pictures/chapter_head_1.pdf  used on input line 352. o
-n input line 352.
+Package pdftex.def Info: Pictures/chapter_head_1.pdf  used on input line 214. o
+n input line 214.
 Package pdftex.def Info: Requested size: 597.50787pt x 298.77907pt on input lin
-e 352.
- [17] [18
+e 214.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 215.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 217.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 220.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 227.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 227.
+ [21]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 227.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 227.
+ [22
 
 ]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 230.
+
 No file main.ind.
-\tf@ptc=\write8
-\openout8 = `main.ptc'.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 373.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 373.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 235.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 235.
 (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 373.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 373.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 235.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 235.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
- ) 
-Here is how much of TeX's memory you used:
- 37701 strings out of 493312
- 700293 string characters out of 3138902
- 1081467 words of memory out of 3000000
- 40438 multiletter control sequences out of 15000+200000
- 664508 words of font info for 287 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 57i,15n,65p,1104b,2706s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{section*.5} has been referenced but does not exis
-t, replaced by a fixed one
+ )
+(\end occurred inside a group at level 1)
 
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc} <C:\Users\Dell\AppDat
-a\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1095.pk><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
-msfonts/symbols/msbm10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/rsfs
-/rsfs10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/avantgar/uagd8a.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/urw/avantgar/uagk8a.pfb><C:/Users/Dell/A
-ppData/Roaming/MiKTeX/2.9/fonts/type1/urw/symbol/usyr.pfb><C:/Users/Dell/AppDat
-a/Roaming/MiKTeX/2.9/fonts/type1/urw/symbol/usyr.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
-w/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.p
-fb>
-Output written on main.pdf (18 pages, 421967 bytes).
+### simple group (level 1) entered at line 159 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 37490 strings out of 493312
+ 696689 string characters out of 3138902
+ 1074591 words of memory out of 3000000
+ 40296 multiletter control sequences out of 15000+200000
+ 620088 words of font info for 225 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,12n,65p,1104b,1958s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{section*.5} has been referenced but
+ does not exist, replaced by a fixed one
+
+ <C:\Users\Dell\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ect
+t1000.pk>{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc} <C:\Users\De
+ll\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1200.pk><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/urw/avantgar/uagd8a.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/urw/avantgar/uagdo8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/urw/avantgar/uagk8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/ut
+mr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (22 pages, 379427 bytes).
 PDF statistics:
- 449 PDF objects out of 1000 (max. 8388607)
- 83 named destinations out of 1000 (max. 500000)
- 70369 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 367 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
+ 48284 words of extra memory for PDF output out of 51595 (max. 10000000)
 

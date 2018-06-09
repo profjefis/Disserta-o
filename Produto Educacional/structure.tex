@@ -28,7 +28,7 @@
 
 \usepackage{tikz} % Required for drawing custom shapes
 
-\usepackage[english]{babel} % English language/hyphenation
+\usepackage[brazilian]{babel} % English language/hyphenation
 
 \usepackage{enumitem} % Customize lists
 \setlist{nolistsep} % Reduce spacing between bullet points and numbered lists
@@ -487,3 +487,24 @@ addtohook={%
 \fi
 }
 }
+
+\newenvironment*{cited}[1][default]{%
+	\list{}%
+	\ABNTEXfontereduzida%
+	\addtolength{\leftskip}{\ABNTEXcitacaorecuo}%
+	\item[]%
+	\begin{singlespace}%
+		\ifthenelse{\not\equal{#1}{default}}{\itshape\selectlanguage{#1}}{}%
+	}{%
+	\end{singlespace}%
+	\endlist}%
+% ---
+
+%Hiperlinks como rodapé
+
+\newcommand\fnurl[2]{\href{#2}{#1}\footnote{\url{#2}}}
+
+% Automatiza o processo de aspas
+\newcommand{\aspas}[1]{``{#1}''}
+
+
