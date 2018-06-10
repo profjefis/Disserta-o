@@ -1,19 +1,15 @@
 [0] Config.pm:302> INFO - This is Biber 2.11
 [0] Config.pm:305> INFO - Logfile is 'main.blg'
-[59] biber-MSWIN64:313> INFO - === 
-[108] Biber.pm:371> INFO - Reading 'main.bcf'
-[288] Biber.pm:857> INFO - Found 16 citekeys in bib section 0
+[60] biber-MSWIN64:313> INFO - === 
+[107] Biber.pm:371> INFO - Reading 'main.bcf'
+[289] Biber.pm:857> INFO - Found 19 citekeys in bib section 0
 [320] Biber.pm:3976> INFO - Processing section 0
 [347] Biber.pm:4136> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
 [351] bibtex.pm:1500> INFO - LaTeX decoding ...
-[396] bibtex.pm:1316> INFO - Found BibTeX data source 'bibliography.bib'
-[399] Utils.pm:193> WARN - Duplicate entry key: 'cursoexcel2018' in file 'bibliography.bib', skipping ...
-[407] Utils.pm:193> WARN - month field 'January' in entry 'book_key' is not an integer - this will probably not sort properly.
-[414] Utils.pm:193> WARN - month field 'March' in entry 'article_key' is not an integer - this will probably not sort properly.
-[622] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[622] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[623] Biber.pm:3804> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'pt-BR'
-[623] Biber.pm:3810> INFO - No sort tailoring available for locale 'pt-BR'
-[655] bbl.pm:617> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[674] bbl.pm:720> INFO - Output to main.bbl
-[675] Biber.pm:110> INFO - WARNINGS: 3
+[403] bibtex.pm:1316> INFO - Found BibTeX data source 'bibliography.bib'
+[663] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[663] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[664] Biber.pm:3804> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'pt-BR'
+[664] Biber.pm:3810> INFO - No sort tailoring available for locale 'pt-BR'
+[703] bbl.pm:617> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[725] bbl.pm:720> INFO - Output to main.bbl

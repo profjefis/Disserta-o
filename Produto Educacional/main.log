@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.23)  10 JUN 2018 13:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.23)  10 JUN 2018 18:36
 entering extended mode
 **./main.tex
 (main.tex
@@ -2170,11 +2170,11 @@ LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <12> not available
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `T1/pag/bx/it' in size <14.4> not available
-(Font)              Font shape `T1/pag/b/it' tried instead on input line 10.
+(Font)              Font shape `T1/pag/b/it' tried instead on input line 6.
 LaTeX Font Info:    Font shape `T1/pag/b/it' in size <14.4> not available
-(Font)              Font shape `T1/pag/db/it' tried instead on input line 10.
+(Font)              Font shape `T1/pag/db/it' tried instead on input line 6.
 LaTeX Font Info:    Font shape `T1/pag/db/it' in size <14.4> not available
-(Font)              Font shape `T1/pag/db/sl' tried instead on input line 10.
+(Font)              Font shape `T1/pag/db/sl' tried instead on input line 6.
 )
 \tf@toc=\write7
 \openout7 = `main.toc'.
@@ -2196,18 +2196,19 @@ Package babel Info: Redefining portuges shorthand "|
 Cap\'{\i }tulo 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 121.
-<Pictures/chapter_head_2.pdf, id=93, 3581.38pt x 1790.69pt>
+<Pictures/chapter_head_2.pdf, id=75, 3581.38pt x 1790.69pt>
 File: Pictures/chapter_head_2.pdf Graphic file (type pdf)
 <use Pictures/chapter_head_2.pdf>
 Package pdftex.def Info: Pictures/chapter_head_2.pdf  used on input line 121.
 (pdftex.def)             Requested size: 597.50787pt x 298.75726pt.
+
+Underfull \vbox (badness 4699) has occurred while \output is active []
+
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 125.
+(babel)             in language  on input line 132.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 127.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 127.
-[5
+(babel)             in language  on input line 132.
+ [5
 
  <./Pictures/chapter_head_2.pdf>]
 
@@ -2217,64 +2218,46 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 127.
+(babel)             in language  on input line 152.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 127.
+(babel)             in language  on input line 152.
 [6]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 131.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 135.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 135.
- [7]
-
-Package Fancyhdr Warning: \headheight is too small (14.5pt): 
- Make it at least 14.73pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 143.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 143.
-[8]
 Cap\'{\i }tulo 2.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 143.
+(babel)             in language  on input line 152.
 File: Pictures/chapter_head_2.pdf Graphic file (type pdf)
 <use Pictures/chapter_head_2.pdf>
-Package pdftex.def Info: Pictures/chapter_head_2.pdf  used on input line 143.
+Package pdftex.def Info: Pictures/chapter_head_2.pdf  used on input line 152.
 (pdftex.def)             Requested size: 597.50787pt x 298.75726pt.
 LaTeX Font Info:    Font shape `T1/pag/bx/it' in size <24.88> not available
-(Font)              Font shape `T1/pag/b/it' tried instead on input line 143.
+(Font)              Font shape `T1/pag/b/it' tried instead on input line 152.
 LaTeX Font Info:    Font shape `T1/pag/b/it' in size <24.88> not available
-(Font)              Font shape `T1/pag/db/it' tried instead on input line 143.
+(Font)              Font shape `T1/pag/db/it' tried instead on input line 152.
 LaTeX Font Info:    Font shape `T1/pag/db/it' in size <24.88> not available
-(Font)              Font shape `T1/pag/db/sl' tried instead on input line 143.
+(Font)              Font shape `T1/pag/db/sl' tried instead on input line 152.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 154.
+(babel)             in language  on input line 162.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 154.
-[9
+(babel)             in language  on input line 162.
+[7
 
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 160.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 171.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 160.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 171.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 160.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 171.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 164.
+(babel)             in language  on input line 175.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 177.
+(babel)             in language  on input line 188.
 LaTeX Font Info:    Font shape `T1/pag/bx/it' in size <12> not available
-(Font)              Font shape `T1/pag/b/it' tried instead on input line 185.
+(Font)              Font shape `T1/pag/b/it' tried instead on input line 191.
 LaTeX Font Info:    Font shape `T1/pag/b/it' in size <12> not available
-(Font)              Font shape `T1/pag/db/it' tried instead on input line 185.
+(Font)              Font shape `T1/pag/db/it' tried instead on input line 191.
 LaTeX Font Info:    Font shape `T1/pag/db/it' in size <12> not available
-(Font)              Font shape `T1/pag/db/sl' tried instead on input line 185.
+(Font)              Font shape `T1/pag/db/sl' tried instead on input line 191.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.5pt): 
@@ -2283,77 +2266,45 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 185.
+(babel)             in language  on input line 191.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 185.
-[10]
+(babel)             in language  on input line 191.
+[8]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 189.
+(babel)             in language  on input line 200.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 215.
+(babel)             in language  on input line 224.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 215.
- [11]
+(babel)             in language  on input line 224.
+ [9]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 215.
+(babel)             in language  on input line 224.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 215.
- [12
+(babel)             in language  on input line 224.
+ [10
 
 ]
 Cap\'{\i }tulo 3.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 215.
+(babel)             in language  on input line 224.
 File: Pictures/chapter_head_1.pdf Graphic file (type pdf)
 <use Pictures/chapter_head_1.pdf>
-Package pdftex.def Info: Pictures/chapter_head_1.pdf  used on input line 215.
+Package pdftex.def Info: Pictures/chapter_head_1.pdf  used on input line 224.
 (pdftex.def)             Requested size: 597.50787pt x 298.77907pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 216.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 216.
-[13]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 218.
-
-
-Package Fancyhdr Warning: \headheight is too small (14.5pt): 
- Make it at least 14.73pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 219.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 219.
-[14]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 221.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 222.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 222.
- [15]
-
-Package Fancyhdr Warning: \headheight is too small (14.5pt): 
- Make it at least 14.73pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 222.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 222.
-[16]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 224.
-Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 225.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 225.
- [17]
+(babel)             in language  on input line 236.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 227.
+(babel)             in language  on input line 241.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 241.
+[11]
+<Produto/site_scratch.pdf, id=190, 791.75798pt x 564.50902pt>
+File: Produto/site_scratch.pdf Graphic file (type pdf)
+<use Produto/site_scratch.pdf>
+Package pdftex.def Info: Produto/site_scratch.pdf  used on input line 245.
+(pdftex.def)             Requested size: 298.75264pt x 212.99965pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.5pt): 
@@ -2362,44 +2313,544 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 228.
+(babel)             in language  on input line 250.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 228.
-[18]
+(babel)             in language  on input line 250.
+[12 <./Produto/site_scratch.pdf>]
+<Produto/pesquisa.pdf, id=200, 773.28903pt x 428.80202pt>
+File: Produto/pesquisa.pdf Graphic file (type pdf)
+<use Produto/pesquisa.pdf>
+Package pdftex.def Info: Produto/pesquisa.pdf  used on input line 256.
+(pdftex.def)             Requested size: 298.75264pt x 165.66179pt.
+<Produto/site_jogo.pdf, id=201, 756.42598pt x 492.239pt>
+File: Produto/site_jogo.pdf Graphic file (type pdf)
+<use Produto/site_jogo.pdf>
+Package pdftex.def Info: Produto/site_jogo.pdf  used on input line 265.
+(pdftex.def)             Requested size: 298.75264pt x 194.4135pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 234.
+(babel)             in language  on input line 276.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 234.
- [19]
+(babel)             in language  on input line 276.
+ [13 <./Produto/pesquisa.pdf> <./Produto/site_jogo.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Produto/site_jogo.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>]
+<Produto/tela_inicial.pdf, id=217, 651.23299pt x 518.73799pt>
+File: Produto/tela_inicial.pdf Graphic file (type pdf)
+<use Produto/tela_inicial.pdf>
+Package pdftex.def Info: Produto/tela_inicial.pdf  used on input line 282.
+(pdftex.def)             Requested size: 277.41176pt x 220.97127pt.
+<Produto/options.pdf, id=218, 650.43pt x 517.935pt>
+File: Produto/options.pdf Graphic file (type pdf)
+<use Produto/options.pdf>
+Package pdftex.def Info: Produto/options.pdf  used on input line 291.
+(pdftex.def)             Requested size: 277.41176pt x 220.9058pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (14.5pt): 
+ Make it at least 14.73pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 234.
+(babel)             in language  on input line 296.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 234.
- [20
+(babel)             in language  on input line 296.
+[14 <./Produto/tela_inicial.pdf> <./Produto/options.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Produto/options.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+>]
+<Produto/credits.pdf, id=232, 650.43pt x 467.34601pt>
+File: Produto/credits.pdf Graphic file (type pdf)
+<use Produto/credits.pdf>
+Package pdftex.def Info: Produto/credits.pdf  used on input line 306.
+(pdftex.def)             Requested size: 277.41176pt x 199.32896pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 313.
+<Produto/extras.pdf, id=233, 648.82402pt x 517.935pt>
+File: Produto/extras.pdf Graphic file (type pdf)
+<use Produto/extras.pdf>
+Package pdftex.def Info: Produto/extras.pdf  used on input line 318.
+(pdftex.def)             Requested size: 277.41176pt x 221.45111pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 323.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 323.
+[15 <./Produto/credits.pdf>]
+<Produto/class1.pdf, id=243, 650.43pt x 517.935pt>
+File: Produto/class1.pdf Graphic file (type pdf)
+<use Produto/class1.pdf>
+Package pdftex.def Info: Produto/class1.pdf  used on input line 331.
+(pdftex.def)             Requested size: 277.41176pt x 220.9058pt.
+<Produto/class2.pdf, id=244, 648.02098pt x 518.73799pt>
+File: Produto/class2.pdf Graphic file (type pdf)
+<use Produto/class2.pdf>
+Package pdftex.def Info: Produto/class2.pdf  used on input line 340.
+(pdftex.def)             Requested size: 277.41176pt x 222.07149pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package Fancyhdr Warning: \headheight is too small (14.5pt): 
+ Make it at least 14.73pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 345.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 345.
+[16 <./Produto/extras.pdf> <./Produto/class1.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Produto/class1.pdf): PDF inclusion: multip
+le pdfs with page group included in a single page
+>]
+<Produto/class3.pdf, id=258, 650.43pt x 519.54097pt>
+File: Produto/class3.pdf Graphic file (type pdf)
+<use Produto/class3.pdf>
+Package pdftex.def Info: Produto/class3.pdf  used on input line 353.
+(pdftex.def)             Requested size: 277.41176pt x 221.59077pt.
+<Produto/class5.pdf, id=259, 648.02098pt x 518.73799pt>
+File: Produto/class5.pdf Graphic file (type pdf)
+<use Produto/class5.pdf>
+Package pdftex.def Info: Produto/class5.pdf  used on input line 362.
+(pdftex.def)             Requested size: 277.41176pt x 222.07149pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 367.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 367.
+[17 <./Produto/class2.pdf> <./Produto/class3.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Produto/class3.pdf): PDF inclusion: multip
+le pdfs with page group included in a single page
+>]
+<Produto/class10.pdf, id=273, 650.43pt x 518.73799pt>
+File: Produto/class10.pdf Graphic file (type pdf)
+<use Produto/class10.pdf>
+Package pdftex.def Info: Produto/class10.pdf  used on input line 373.
+(pdftex.def)             Requested size: 277.41176pt x 221.24829pt.
+<Produto/class4.pdf, id=274, 648.82402pt x 518.73799pt>
+File: Produto/class4.pdf Graphic file (type pdf)
+<use Produto/class4.pdf>
+Package pdftex.def Info: Produto/class4.pdf  used on input line 382.
+(pdftex.def)             Requested size: 277.41176pt x 221.79445pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package Fancyhdr Warning: \headheight is too small (14.5pt): 
+ Make it at least 14.73pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 387.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 387.
+[18 <./Produto/class5.pdf> <./Produto/class10.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Produto/class10.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+>]
+<Produto/class7.pdf, id=288, 650.43pt x 520.34402pt>
+File: Produto/class7.pdf Graphic file (type pdf)
+<use Produto/class7.pdf>
+Package pdftex.def Info: Produto/class7.pdf  used on input line 393.
+(pdftex.def)             Requested size: 277.41176pt x 221.93329pt.
+<Produto/class9.pdf, id=289, 651.23299pt x 518.73799pt>
+File: Produto/class9.pdf Graphic file (type pdf)
+<use Produto/class9.pdf>
+Package pdftex.def Info: Produto/class9.pdf  used on input line 402.
+(pdftex.def)             Requested size: 277.41176pt x 220.97127pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 407.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 407.
+[19 <./Produto/class4.pdf> <./Produto/class7.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Produto/class7.pdf): PDF inclusion: multip
+le pdfs with page group included in a single page
+>]
+<Produto/sim1.pdf, id=304, 647.21799pt x 518.73799pt>
+File: Produto/sim1.pdf Graphic file (type pdf)
+<use Produto/sim1.pdf>
+Package pdftex.def Info: Produto/sim1.pdf  used on input line 417.
+(pdftex.def)             Requested size: 256.07741pt x 205.2515pt.
+<Produto/sim2.pdf, id=305, 645.61201pt x 517.935pt>
+File: Produto/sim2.pdf Graphic file (type pdf)
+<use Produto/sim2.pdf>
+Package pdftex.def Info: Produto/sim2.pdf  used on input line 426.
+(pdftex.def)             Requested size: 256.07741pt x 205.43954pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 432.
+
+Package Fancyhdr Warning: \headheight is too small (14.5pt): 
+ Make it at least 14.73pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 435.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 435.
+[20 <./Produto/class9.pdf> <./Produto/sim1.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Produto/sim1.pdf): PDF inclusion: multiple
+ pdfs with page group included in a single page
+>]
+<Produto/jogo_1.pdf, id=319, 650.43pt x 517.935pt>
+File: Produto/jogo_1.pdf Graphic file (type pdf)
+<use Produto/jogo_1.pdf>
+Package pdftex.def Info: Produto/jogo_1.pdf  used on input line 439.
+(pdftex.def)             Requested size: 277.41176pt x 220.9058pt.
+<Produto/jogo_2.pdf, id=320, 649.62701pt x 517.935pt>
+File: Produto/jogo_2.pdf Graphic file (type pdf)
+<use Produto/jogo_2.pdf>
+Package pdftex.def Info: Produto/jogo_2.pdf  used on input line 448.
+(pdftex.def)             Requested size: 277.41176pt x 221.1745pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 453.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 453.
+[21 <./Produto/sim2.pdf> <./Produto/jogo_1.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Produto/jogo_1.pdf): PDF inclusion: multip
+le pdfs with page group included in a single page
+>]
+<Produto/jogo_3.pdf, id=334, 649.62701pt x 517.935pt>
+File: Produto/jogo_3.pdf Graphic file (type pdf)
+<use Produto/jogo_3.pdf>
+Package pdftex.def Info: Produto/jogo_3.pdf  used on input line 459.
+(pdftex.def)             Requested size: 277.41176pt x 221.1745pt.
+<Produto/jogo_4.pdf, id=336, 650.43pt x 517.13202pt>
+File: Produto/jogo_4.pdf Graphic file (type pdf)
+<use Produto/jogo_4.pdf>
+Package pdftex.def Info: Produto/jogo_4.pdf  used on input line 468.
+(pdftex.def)             Requested size: 277.41176pt x 220.56332pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package Fancyhdr Warning: \headheight is too small (14.5pt): 
+ Make it at least 14.73pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 473.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 473.
+[22 <./Produto/jogo_2.pdf> <./Produto/jogo_3.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Produto/jogo_3.pdf): PDF inclusion: multip
+le pdfs with page group included in a single page
+>]
+<Produto/jogo_5.pdf, id=351, 650.43pt x 517.935pt>
+File: Produto/jogo_5.pdf Graphic file (type pdf)
+<use Produto/jogo_5.pdf>
+Package pdftex.def Info: Produto/jogo_5.pdf  used on input line 479.
+(pdftex.def)             Requested size: 277.41176pt x 220.9058pt.
+<Produto/jogo_6.pdf, id=352, 650.43pt x 517.935pt>
+File: Produto/jogo_6.pdf Graphic file (type pdf)
+<use Produto/jogo_6.pdf>
+Package pdftex.def Info: Produto/jogo_6.pdf  used on input line 488.
+(pdftex.def)             Requested size: 277.41176pt x 220.9058pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 493.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 493.
+[23 <./Produto/jogo_4.pdf> <./Produto/jogo_5.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Produto/jogo_5.pdf): PDF inclusion: multip
+le pdfs with page group included in a single page
+>]
+<Produto/jogo_7.pdf, id=366, 649.62701pt x 518.73799pt>
+File: Produto/jogo_7.pdf Graphic file (type pdf)
+<use Produto/jogo_7.pdf>
+Package pdftex.def Info: Produto/jogo_7.pdf  used on input line 499.
+(pdftex.def)             Requested size: 277.41176pt x 221.51741pt.
+<Produto/jogo_8.pdf, id=367, 648.02098pt x 518.73799pt>
+File: Produto/jogo_8.pdf Graphic file (type pdf)
+<use Produto/jogo_8.pdf>
+Package pdftex.def Info: Produto/jogo_8.pdf  used on input line 508.
+(pdftex.def)             Requested size: 277.41176pt x 222.07149pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package Fancyhdr Warning: \headheight is too small (14.5pt): 
+ Make it at least 14.73pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 513.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 513.
+[24 <./Produto/jogo_6.pdf> <./Produto/jogo_7.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Produto/jogo_7.pdf): PDF inclusion: multip
+le pdfs with page group included in a single page
+>]
+<Produto/jogo_9.pdf, id=381, 650.43pt x 517.13202pt>
+File: Produto/jogo_9.pdf Graphic file (type pdf)
+<use Produto/jogo_9.pdf>
+Package pdftex.def Info: Produto/jogo_9.pdf  used on input line 519.
+(pdftex.def)             Requested size: 277.41176pt x 220.56332pt.
+<Produto/jogo_10.pdf, id=382, 650.43pt x 518.73799pt>
+File: Produto/jogo_10.pdf Graphic file (type pdf)
+<use Produto/jogo_10.pdf>
+Package pdftex.def Info: Produto/jogo_10.pdf  used on input line 528.
+(pdftex.def)             Requested size: 277.41176pt x 221.24829pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 533.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 533.
+[25 <./Produto/jogo_8.pdf> <./Produto/jogo_9.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Produto/jogo_9.pdf): PDF inclusion: multip
+le pdfs with page group included in a single page
+>]
+<Produto/jogo_11.pdf, id=397, 650.43pt x 516.32903pt>
+File: Produto/jogo_11.pdf Graphic file (type pdf)
+<use Produto/jogo_11.pdf>
+Package pdftex.def Info: Produto/jogo_11.pdf  used on input line 539.
+(pdftex.def)             Requested size: 277.41176pt x 220.22084pt.
+<Produto/jogo_12.pdf, id=398, 651.23299pt x 517.935pt>
+File: Produto/jogo_12.pdf Graphic file (type pdf)
+<use Produto/jogo_12.pdf>
+Package pdftex.def Info: Produto/jogo_12.pdf  used on input line 548.
+(pdftex.def)             Requested size: 277.41176pt x 220.6292pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package Fancyhdr Warning: \headheight is too small (14.5pt): 
+ Make it at least 14.73pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 553.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 553.
+[26 <./Produto/jogo_10.pdf> <./Produto/jogo_11.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Produto/jogo_11.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+>]
+<Produto/jogo_13.pdf, id=412, 649.62701pt x 517.935pt>
+File: Produto/jogo_13.pdf Graphic file (type pdf)
+<use Produto/jogo_13.pdf>
+Package pdftex.def Info: Produto/jogo_13.pdf  used on input line 559.
+(pdftex.def)             Requested size: 277.41176pt x 221.1745pt.
+<Produto/jogo_14.pdf, id=413, 650.43pt x 519.54097pt>
+File: Produto/jogo_14.pdf Graphic file (type pdf)
+<use Produto/jogo_14.pdf>
+Package pdftex.def Info: Produto/jogo_14.pdf  used on input line 569.
+(pdftex.def)             Requested size: 277.41176pt x 221.59077pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 574.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 574.
+[27 <./Produto/jogo_12.pdf> <./Produto/jogo_13.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Produto/jogo_13.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+>]
+<Produto/jogo_15.pdf, id=427, 650.43pt x 518.73799pt>
+File: Produto/jogo_15.pdf Graphic file (type pdf)
+<use Produto/jogo_15.pdf>
+Package pdftex.def Info: Produto/jogo_15.pdf  used on input line 580.
+(pdftex.def)             Requested size: 277.41176pt x 221.24829pt.
+<Produto/jogo_16.pdf, id=428, 650.43pt x 518.73799pt>
+File: Produto/jogo_16.pdf Graphic file (type pdf)
+<use Produto/jogo_16.pdf>
+Package pdftex.def Info: Produto/jogo_16.pdf  used on input line 589.
+(pdftex.def)             Requested size: 277.41176pt x 221.24829pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package Fancyhdr Warning: \headheight is too small (14.5pt): 
+ Make it at least 14.73pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 594.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 594.
+[28 <./Produto/jogo_14.pdf> <./Produto/jogo_15.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Produto/jogo_15.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+>]
+<Produto/jogo_17.pdf, id=442, 649.62701pt x 518.73799pt>
+File: Produto/jogo_17.pdf Graphic file (type pdf)
+<use Produto/jogo_17.pdf>
+Package pdftex.def Info: Produto/jogo_17.pdf  used on input line 600.
+(pdftex.def)             Requested size: 277.41176pt x 221.51741pt.
+<Produto/jogo_18.pdf, id=443, 649.62701pt x 517.935pt>
+File: Produto/jogo_18.pdf Graphic file (type pdf)
+<use Produto/jogo_18.pdf>
+Package pdftex.def Info: Produto/jogo_18.pdf  used on input line 609.
+(pdftex.def)             Requested size: 277.41176pt x 221.1745pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 614.
+<Produto/jogo_19.pdf, id=444, 651.23299pt x 518.73799pt>
+File: Produto/jogo_19.pdf Graphic file (type pdf)
+<use Produto/jogo_19.pdf>
+Package pdftex.def Info: Produto/jogo_19.pdf  used on input line 619.
+(pdftex.def)             Requested size: 277.41176pt x 220.97127pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Produto/final1.pdf, id=445, 650.43pt x 517.13202pt>
+File: Produto/final1.pdf Graphic file (type pdf)
+<use Produto/final1.pdf>
+Package pdftex.def Info: Produto/final1.pdf  used on input line 628.
+(pdftex.def)             Requested size: 277.41176pt x 220.56332pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 633.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 633.
+[29 <./Produto/jogo_16.pdf> <./Produto/jogo_17.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Produto/jogo_17.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+>]
+<Produto/final2.pdf, id=459, 650.43pt x 518.73799pt>
+File: Produto/final2.pdf Graphic file (type pdf)
+<use Produto/final2.pdf>
+Package pdftex.def Info: Produto/final2.pdf  used on input line 639.
+(pdftex.def)             Requested size: 277.41176pt x 221.24829pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Produto/final3.pdf, id=460, 650.43pt x 517.935pt>
+File: Produto/final3.pdf Graphic file (type pdf)
+<use Produto/final3.pdf>
+Package pdftex.def Info: Produto/final3.pdf  used on input line 650.
+(pdftex.def)             Requested size: 277.41176pt x 220.9058pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package Fancyhdr Warning: \headheight is too small (14.5pt): 
+ Make it at least 14.73pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 655.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 655.
+[30 <./Produto/jogo_18.pdf>]
+<Produto/final4.pdf, id=470, 650.43pt x 518.73799pt>
+File: Produto/final4.pdf Graphic file (type pdf)
+<use Produto/final4.pdf>
+Package pdftex.def Info: Produto/final4.pdf  used on input line 661.
+(pdftex.def)             Requested size: 277.41176pt x 221.24829pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 673.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 673.
+[31 <./Produto/jogo_19.pdf>]
+
+Package Fancyhdr Warning: \headheight is too small (14.5pt): 
+ Make it at least 14.73pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 673.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 673.
+[32 <./Produto/final1.pdf> <./Produto/final2.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Produto/final2.pdf): PDF inclusion: multip
+le pdfs with page group included in a single page
+>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 673.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 673.
+ [33 <./Produto/final3.pdf> <./Produto/final4.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Produto/final4.pdf): PDF inclusion: multip
+le pdfs with page group included in a single page
+>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 673.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 673.
+ [34
 
 ]
 File: Pictures/chapter_head_1.pdf Graphic file (type pdf)
 <use Pictures/chapter_head_1.pdf>
-Package pdftex.def Info: Pictures/chapter_head_1.pdf  used on input line 234.
+Package pdftex.def Info: Pictures/chapter_head_1.pdf  used on input line 673.
 (pdftex.def)             Requested size: 597.50787pt x 298.77907pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 235.
+(babel)             in language  on input line 674.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 237.
+(babel)             in language  on input line 681.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 240.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 243.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 244.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 244.
- [21]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 246.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 249.
-
+(babel)             in language  on input line 681.
+ [35]
 
 Package Fancyhdr Warning: \headheight is too small (14.5pt): 
  Make it at least 14.73pt.
@@ -2407,19 +2858,31 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 257.
+(babel)             in language  on input line 687.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 257.
-[22]
+(babel)             in language  on input line 687.
+[36]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 260.
+(babel)             in language  on input line 697.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 697.
+ [37]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 697.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 697.
+ [38
+
+]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 700.
 
 No file main.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 265.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 265.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 705.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 705.
 (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 265.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 265.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 705.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 705.
 
 
 Package biblatex Warning: Please rerun LaTeX.
@@ -2430,13 +2893,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37994 strings out of 493305
- 709092 string characters out of 3138862
- 1291381 words of memory out of 3000000
- 40726 multiletter control sequences out of 15000+200000
- 626299 words of font info for 255 fonts, out of 3000000 for 9000
+ 38302 strings out of 493305
+ 716001 string characters out of 3138862
+ 1294926 words of memory out of 3000000
+ 40939 multiletter control sequences out of 15000+200000
+ 622827 words of font info for 245 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,12n,67p,1528b,3656s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 57i,12n,67p,836b,3656s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{section*.8} has been referenced but does not exis
 t, replaced by a fixed one
 
@@ -2447,9 +2910,9 @@ s/MiKTeX 2.9/fonts/type1/urw/avantgar/uagd8a.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/urw/avantgar/uagdo8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
 w/avantgar/uagk8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a
 .pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (22 pages, 397455 bytes).
+Output written on main.pdf (38 pages, 3634362 bytes).
 PDF statistics:
- 412 PDF objects out of 1000 (max. 8388607)
- 63 named destinations out of 1000 (max. 500000)
- 53940 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 711 PDF objects out of 1000 (max. 8388607)
+ 130 named destinations out of 1000 (max. 500000)
+ 49996 words of extra memory for PDF output out of 51595 (max. 10000000)
 

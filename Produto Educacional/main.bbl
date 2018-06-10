@@ -137,6 +137,34 @@
       \field{year}{2018}
       \keyw{video}
     \endentry
+    \entry{medio2017brasilia}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=8bb1170edc1988e677fc0aad8ce901a5}{%
+           family={BNCC},
+           familyi={B\bibinitperiod},
+           given={MEC},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MEC}%
+      }
+      \strng{namehash}{8bb1170edc1988e677fc0aad8ce901a5}
+      \strng{fullhash}{8bb1170edc1988e677fc0aad8ce901a5}
+      \strng{bibnamehash}{8bb1170edc1988e677fc0aad8ce901a5}
+      \strng{authorbibnamehash}{8bb1170edc1988e677fc0aad8ce901a5}
+      \strng{authornamehash}{8bb1170edc1988e677fc0aad8ce901a5}
+      \strng{authorfullhash}{8bb1170edc1988e677fc0aad8ce901a5}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{BNCC Ensino M{é}dio}
+      \field{year}{2017}
+      \keyw{others}
+    \endentry
     \entry{scratchbrasil2018}{misc}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=a4a9c1c7b24f06c13fb61a686359bdec}{%
@@ -391,6 +419,64 @@
       \field{year}{2009}
       \keyw{others}
     \endentry
+    \entry{ostermann2001atualizaccao}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=64fbd512b47cd0827d9f869ec548f630}{%
+           family={Ostermann},
+           familyi={O\bibinitperiod},
+           given={Fernanda},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=91c7c3c451e6c6e4c7da572287ee8a6a}{%
+           family={Moreira},
+           familyi={M\bibinitperiod},
+           given={Marco\bibnamedelima Antonio},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{062dbe906953e523f987636611f53b5b}
+      \strng{fullhash}{062dbe906953e523f987636611f53b5b}
+      \strng{bibnamehash}{062dbe906953e523f987636611f53b5b}
+      \strng{authorbibnamehash}{062dbe906953e523f987636611f53b5b}
+      \strng{authornamehash}{062dbe906953e523f987636611f53b5b}
+      \strng{authorfullhash}{062dbe906953e523f987636611f53b5b}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Caderno catarinense de ensino de f{í}sica. Florian{ó}polis. Vol. 18, n. 2 (ago. 2001), p. 135-151}
+      \field{title}{Atualiza{ç}{ã}o do curr{í}culo de F{í}sica na escola de n{í}vel m{é}dio: um estudo desta problem{á}tica na perspectiva de uma experi{ê}ncia em sala de aula e da forma{ç}{ã}o inicial de professores}
+      \field{year}{2001}
+    \endentry
+    \entry{prensky2012aprendizagem}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=6d930e5b057a98ac52b572dd1890bd11}{%
+           family={Prensky},
+           familyi={P\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6d930e5b057a98ac52b572dd1890bd11}
+      \strng{fullhash}{6d930e5b057a98ac52b572dd1890bd11}
+      \strng{bibnamehash}{6d930e5b057a98ac52b572dd1890bd11}
+      \strng{authorbibnamehash}{6d930e5b057a98ac52b572dd1890bd11}
+      \strng{authornamehash}{6d930e5b057a98ac52b572dd1890bd11}
+      \strng{authorfullhash}{6d930e5b057a98ac52b572dd1890bd11}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{S{ã}o Paulo: SENAC}
+      \field{title}{Aprendizagem baseada em jogos digitais}
+      \field{year}{2012}
+      \field{pages}{575}
+      \range{pages}{1}
+    \endentry
     \entry{resnick2009scratch}{article}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -479,76 +565,36 @@
       \field{pages}{60\bibrangedash 67}
       \range{pages}{8}
     \endentry
-    \entry{article_key}{article}{}
-      \name{author}{1}{}{%
-        {{uniquename=2,uniquepart=given,hash=26a8b4a95216218b2dfc1460f6d4c494}{%
-           family={Smith},
+    \entry{siqueira2005revisando}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=a8b3fdb95a56538271a1b380566067d8}{%
+           family={Siqueira},
            familyi={S\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod},
-           givenun=2}}%
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2436a569e6819fea8097dee0fab11f54}{%
+           family={Pietrocola},
+           familyi={P\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
       }
-      \list{location}{1}{%
-        {City}%
-      }
-      \list{publisher}{1}{%
-        {Publisher}%
-      }
-      \strng{namehash}{26a8b4a95216218b2dfc1460f6d4c494}
-      \strng{fullhash}{26a8b4a95216218b2dfc1460f6d4c494}
-      \strng{bibnamehash}{26a8b4a95216218b2dfc1460f6d4c494}
-      \strng{authorbibnamehash}{26a8b4a95216218b2dfc1460f6d4c494}
-      \strng{authornamehash}{26a8b4a95216218b2dfc1460f6d4c494}
-      \strng{authorfullhash}{26a8b4a95216218b2dfc1460f6d4c494}
+      \strng{namehash}{3710727bcc3889ac4e9006b19f93807c}
+      \strng{fullhash}{3710727bcc3889ac4e9006b19f93807c}
+      \strng{bibnamehash}{3710727bcc3889ac4e9006b19f93807c}
+      \strng{authorbibnamehash}{3710727bcc3889ac4e9006b19f93807c}
+      \strng{authornamehash}{3710727bcc3889ac4e9006b19f93807c}
+      \strng{authorfullhash}{3710727bcc3889ac4e9006b19f93807c}
       \field{sortinit}{S}
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{3}
-      \field{number}{6}
-      \field{title}{Article title}
-      \field{volume}{14}
-      \field{year}{2013}
-      \field{pages}{1\bibrangedash 8}
-      \range{pages}{8}
-    \endentry
-    \entry{book_key}{book}{}
-      \name{author}{1}{}{%
-        {{uniquename=2,uniquepart=given,hash=5d0ddda3a367ceb26fbaeca02e391c22}{%
-           family={Smith},
-           familyi={S\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod},
-           givenun=2}}%
-      }
-      \list{location}{1}{%
-        {City}%
-      }
-      \list{publisher}{1}{%
-        {Publisher}%
-      }
-      \strng{namehash}{5d0ddda3a367ceb26fbaeca02e391c22}
-      \strng{fullhash}{5d0ddda3a367ceb26fbaeca02e391c22}
-      \strng{bibnamehash}{5d0ddda3a367ceb26fbaeca02e391c22}
-      \strng{authorbibnamehash}{5d0ddda3a367ceb26fbaeca02e391c22}
-      \strng{authornamehash}{5d0ddda3a367ceb26fbaeca02e391c22}
-      \strng{authorfullhash}{5d0ddda3a367ceb26fbaeca02e391c22}
-      \field{sortinit}{S}
-      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{edition}{1}
-      \field{month}{1}
-      \field{series}{2}
-      \field{title}{Book title}
-      \field{volume}{3}
-      \field{year}{2012}
-      \field{pages}{123\bibrangedash 200}
-      \range{pages}{78}
+      \field{journaltitle}{V ENPEC-Encontro Nacional de Pesquisa em Ensino em Ci{ê}ncias, Bauru}
+      \field{title}{Revisando materiais em ensino m{é}dio sobre o tema f{í}sica de part{í}culas elementares}
+      \field{year}{2005}
     \endentry
     \entry{ilustradicas2018}{misc}{}
       \name{author}{1}{}{%
@@ -576,6 +622,38 @@
       \field{title}{\textit{SCRATCH}: Criando um jogo do zero!}
       \field{year}{2018}
       \keyw{video}
+    \endentry
+    \entry{terrazzan1992inserccao}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=464ec9595380f9cdb948147f62917868}{%
+           family={Terrazzan},
+           familyi={T\bibinitperiod},
+           given={Eduardo\bibnamedelima Adolfo},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Universidade Federal de Santa Catarina (UFSC)}%
+      }
+      \strng{namehash}{464ec9595380f9cdb948147f62917868}
+      \strng{fullhash}{464ec9595380f9cdb948147f62917868}
+      \strng{bibnamehash}{464ec9595380f9cdb948147f62917868}
+      \strng{authorbibnamehash}{464ec9595380f9cdb948147f62917868}
+      \strng{authornamehash}{464ec9595380f9cdb948147f62917868}
+      \strng{authorfullhash}{464ec9595380f9cdb948147f62917868}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Caderno Brasileiro de Ensino de F{í}sica}
+      \field{number}{3}
+      \field{title}{A inser{ç}{ã}o da f{í}sica moderna e contempor{â}nea no ensino de f{í}sica na escola de 2{º} grau}
+      \field{volume}{9}
+      \field{year}{1992}
+      \field{pages}{209\bibrangedash 214}
+      \range{pages}{6}
     \endentry
   \enddatalist
 \endrefsection

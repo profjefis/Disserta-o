@@ -3,37 +3,25 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{5}{chapter.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Inser\IeC {\c c}\IeC {\~a}o de F\IeC {\'\i }sica de Part\IeC {\'\i }culas Elementares no Ensino M\IeC {\'e}dio}{5}{section.1.1}
+\contentsline {chapter}{\numberline {2}Tutorias do \textit {Scratch}}{7}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Aprendizagem Baseada em Jogos Digitais}{7}{section.1.2}
+\contentsline {section}{\numberline {2.1}Livros}{8}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Tutorias do \textit {Scratch}}{9}{chapter.2}
+\contentsline {section}{\numberline {2.2}V\IeC {\'\i }deos}{9}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Livros}{10}{section.2.1}
+\contentsline {section}{\numberline {2.3}Artigos}{9}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}V\IeC {\'\i }deos}{10}{section.2.2}
+\contentsline {chapter}{\numberline {3}O Jogo ``{Em Busca do B\IeC {\'o}son de Higgs}''}{11}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Artigos}{11}{section.2.3}
+\contentsline {section}{\numberline {3.1}introdu\IeC {\c c}\IeC {\~a}o}{11}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}O Jogo ``{Em Busca do B\IeC {\'o}son de Higgs}''}{13}{chapter.3}
+\contentsline {section}{\numberline {3.2}Acesso ao Jogo}{11}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Acesso ao Jogo}{14}{section.3.1}
+\contentsline {section}{\numberline {3.3}Atividades Extras}{15}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Atividades Extras}{15}{section.3.2}
+\contentsline {section}{\numberline {3.4}O Jogo principal}{21}{section.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}O Jogo principal}{17}{section.3.3}
+\contentsline {section}{\numberline {3.5}A fase Final}{29}{section.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}A fase Final}{18}{section.3.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\leavevmode {\color {ocre}Refer\IeC {\^e}ncias}}{21}{chapter*.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Artigos}{21}{section*.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Livros}{21}{section*.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Sites}{21}{section*.5}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{V\IeC {\'\i }deos}{22}{section*.6}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Outros}{22}{section*.7}
+\contentsline {chapter}{\leavevmode {\color {ocre}Refer\IeC {\^e}ncias}}{35}{chapter*.2}
 \contentsfinish 
