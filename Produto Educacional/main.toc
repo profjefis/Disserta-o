@@ -1,6 +1,5 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
-\defcounter {refsection}{0}\relax 
-\select@language {brazilian}
+\babel@toc {brazilian}{}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{5}{chapter.1}
 \defcounter {refsection}{0}\relax 
@@ -10,11 +9,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}Tutorias do \textit {Scratch}}{9}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Livros}{9}{section.2.1}
+\contentsline {section}{\numberline {2.1}Livros}{10}{section.2.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.2}V\IeC {\'\i }deos}{10}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Artigos}{10}{section.2.3}
+\contentsline {section}{\numberline {2.3}Artigos}{11}{section.2.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}O Jogo ``{Em Busca do B\IeC {\'o}son de Higgs}''}{13}{chapter.3}
 \defcounter {refsection}{0}\relax 
@@ -28,7 +27,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\leavevmode {\color {ocre}Refer\IeC {\^e}ncias}}{21}{chapter*.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Livros}{21}{section*.3}
+\contentsline {section}{Artigos}{21}{section*.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Artigos}{21}{section*.4}
+\contentsline {section}{Livros}{21}{section*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Sites}{21}{section*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{V\IeC {\'\i }deos}{22}{section*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Outros}{22}{section*.7}
 \contentsfinish 

@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.6)  9 JUN 2018 16:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.23)  10 JUN 2018 13:02
 entering extended mode
 **./main.tex
 (main.tex
 LaTeX2e <2017-04-15>
-Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
+Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\fleqn.clo"
@@ -31,14 +31,52 @@ File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen103
-) (structure.tex
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
-Package: geometry 2010/09/12 v5.6 Page Geometry
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks14
+)
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\quoting\quoting.sty
+Package: quoting 2014/01/28 v0.1c Consolidated environment for displayed text
+
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count88
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks14
+\KV@toks@=\toks15
 )
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+\quo@toppartop=\skip43
+)
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (structure.tex ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
@@ -49,9 +87,9 @@ Package ifvtex Info: VTeX not detected.
 ("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count88
-\Gm@cntv=\count89
-\c@Gm@tempcnt=\count90
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
 \Gm@bindingoffset=\dimen104
 \Gm@wd@mp=\dimen105
 \Gm@odd@mp=\dimen106
@@ -60,7 +98,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutheight=\dimen109
 \Gm@layouthoffset=\dimen110
 \Gm@layoutvoffset=\dimen111
-\Gm@dimlist=\toks15
+\Gm@dimlist=\toks16
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
@@ -78,52 +116,58 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
-File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\lipsum\lipsum.sty
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\lipsum\lipsum.sty
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count91
+\c@lips@count=\count92
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\frontendlayer\tikz.sty
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgf.sty
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.sty
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-com
-mon.tex
-\pgfutil@everybye=\toks16
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\frontendlayer\tikz
+.sty
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgf.sty
+
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.s
+ty
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfuti
+l-common.tex
+\pgfutil@everybye=\toks17
 \pgfutil@tempdima=\dimen114
 \pgfutil@tempdimb=\dimen115
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-com
-mon-lists.tex))
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-lat
-ex.def
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfuti
+l-common-lists.tex))
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfuti
+l-latex.def
 \pgfutil@abb=\box26
- (C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
+
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfrcs.code
-.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfrcs
+.code.tex
 Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
 ))
 Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgfcore.sty
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlayer\pgfsys.sty
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys.co
-de.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgfcore
+.sty
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlayer\pgfsys
+.sty
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfs
+ys.code.tex
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.cod
-e.tex
-\pgfkeys@pathtoks=\toks17
-\pgfkeys@temptoks=\toks18
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkey
+s.code.tex
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysfilt
-ered.code.tex
-\pgfkeys@tmptoks=\toks19
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkey
+sfiltered.code.tex
+\pgfkeys@tmptoks=\toks20
 ))
 \pgf@x=\dimen116
 \pgf@y=\dimen117
@@ -135,38 +179,39 @@ ered.code.tex
 \pgf@yc=\dimen123
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
-\c@pgf@counta=\count92
-\c@pgf@countb=\count93
-\c@pgf@countc=\count94
-\c@pgf@countd=\count95
-\t@pgf@toka=\toks20
-\t@pgf@tokb=\toks21
-\t@pgf@tokc=\toks22
+\c@pgf@counta=\count93
+\c@pgf@countb=\count94
+\c@pgf@countc=\count95
+\c@pgf@countd=\count96
+\t@pgf@toka=\toks21
+\t@pgf@tokb=\toks22
+\t@pgf@tokc=\toks23
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgf.cfg
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgf.
+cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-pd
-ftex.def
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfs
+ys-pdftex.def
 File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-co
-mmon-pdf.def
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfs
+ys-common-pdf.def
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )))
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsyssof
-tpath.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfs
+yssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count96
-\pgfsyssoftpath@bigbuffer@items=\count97
+\pgfsyssoftpath@smallbuffer@items=\count97
+\pgfsyssoftpath@bigbuffer@items=\count98
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsyspro
-tocol.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfs
+ysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
 ))
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
@@ -183,49 +228,49 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore.co
-de.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfco
+re.code.tex
 Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.tex
-
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathcalc.code
-.tex
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathutil.code
-.tex)
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathparser.co
-de.tex
-\pgfmath@dimen=\dimen124
-\pgfmath@count=\count98
-\pgfmath@box=\box27
-\pgfmath@toks=\toks23
-\pgfmath@stack@operand=\toks24
-\pgfmath@stack@operation=\toks25
-)
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions
-.code.tex
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions
-.basic.code.tex)
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions
-.trigonometric.code.tex)
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions
-.random.code.tex)
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions
-.comparison.code.tex)
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions
-.base.code.tex)
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions
-.round.code.tex)
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions
-.misc.code.tex)
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctions
-.integerarithmetics.code.tex)))
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloat.cod
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.cod
 e.tex
-\c@pgfmathroundto@lastzeros=\count99
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathcalc
+.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathutil
+.code.tex)
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathpars
+er.code.tex
+\pgfmath@dimen=\dimen124
+\pgfmath@count=\count99
+\pgfmath@box=\box27
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
+)
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunc
+tions.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunc
+tions.basic.code.tex)
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunc
+tions.trigonometric.code.tex)
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunc
+tions.random.code.tex)
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunc
+tions.comparison.code.tex)
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunc
+tions.base.code.tex)
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunc
+tions.round.code.tex)
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunc
+tions.misc.code.tex)
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunc
+tions.integerarithmetics.code.tex)))
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloa
+t.code.tex
+\c@pgfmathroundto@lastzeros=\count100
 ))
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepoi
-nts.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfco
+repoints.code.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@picminx=\dimen125
 \pgf@picmaxx=\dimen126
@@ -242,127 +287,129 @@ File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@zx=\dimen137
 \pgf@zy=\dimen138
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepat
-hconstruct.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfco
+repathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
 \pgf@path@lastx=\dimen139
 \pgf@path@lasty=\dimen140
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepat
-husage.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfco
+repathusage.code.tex
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 \pgf@shorten@end@additional=\dimen141
 \pgf@shorten@start@additional=\dimen142
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresco
-pes.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfco
+rescopes.code.tex
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box28
 \pgf@hbox=\box29
 \pgf@layerbox@main=\box30
-\pgf@picture@serial@count=\count100
+\pgf@picture@serial@count=\count101
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoregra
-phicstate.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfco
+regraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
 \pgflinewidth=\dimen143
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretra
-nsformations.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfco
+retransformations.code.tex
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
 \pgf@pt@x=\dimen144
 \pgf@pt@y=\dimen145
 \pgf@pt@temp=\dimen146
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorequi
-ck.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfco
+requick.code.tex
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreobj
-ects.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfco
+reobjects.code.tex
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepat
-hprocessing.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfco
+repathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorearr
-ows.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfco
+rearrows.code.tex
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 \pgfarrowsep=\dimen147
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresha
-de.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfco
+reshade.code.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen148
-\pgf@sys@shading@range@num=\count101
+\pgf@sys@shading@range@num=\count102
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreima
-ge.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfco
+reimage.code.tex
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreext
-ernal.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfco
+reexternal.code.tex
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
 \pgfexternal@startupbox=\box31
 ))
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorelay
-ers.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfco
+relayers.code.tex
 File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretra
-nsparency.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfco
+retransparency.code.tex
 File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepat
-terns.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfco
+repatterns.code.tex
 File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 )))
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmoduleshap
-es.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodul
+eshapes.code.tex
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
 \pgfnodeparttextbox=\box32
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmoduleplot
-.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodul
+eplot.code.tex
 File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-v
-ersion-0-65.sty
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfc
+omp-version-0-65.sty
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
 \pgf@nodesepstart=\dimen149
 \pgf@nodesepend=\dimen150
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-v
-ersion-1-18.sty
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfc
+omp-version-1-18.sty
 Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 ))
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgffor.sty
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfkeys.sty
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.cod
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgffor.s
+ty
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfkeys.
+sty
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkey
+s.code.tex))
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\math\pgfmath.sty
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.cod
 e.tex))
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\math\pgfmath.sty
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.tex
-))
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgffor.code
-.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgffor
+.code.tex
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.tex
-)
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.cod
+e.tex)
 \pgffor@iter=\dimen151
 \pgffor@skip=\dimen152
-\pgffor@stack=\toks26
-\pgffor@toks=\toks27
+\pgffor@stack=\toks27
+\pgffor@toks=\toks28
 ))
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\ti
-kz.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\ti
+kz\tikz.code.tex
 Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibraryp
-lothandlers.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflib
+raryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count102
+\pgf@plot@mark@count=\count103
 \pgfplotmarksize=\dimen153
 )
 \tikz@lastx=\dimen154
@@ -375,78 +422,169 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikz@figbox@bg=\box34
 \tikz@tempbox=\box35
 \tikz@tempbox@bg=\box36
-\tikztreelevel=\count103
-\tikznumberofchildren=\count104
-\tikznumberofcurrentchild=\count105
-\tikz@fig@count=\count106
+\tikztreelevel=\count104
+\tikznumberofchildren=\count105
+\tikznumberofcurrentchild=\count106
+\tikz@fig@count=\count107
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulematr
-ix.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodul
+ematrix.code.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count107
-\pgfmatrixcurrentcolumn=\count108
-\pgf@matrix@numberofcolumns=\count109
+\pgfmatrixcurrentrow=\count108
+\pgfmatrixcurrentcolumn=\count109
+\pgf@matrix@numberofcolumns=\count110
 )
-\tikz@expandcount=\count110
+\tikz@expandcount=\count111
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\li
-braries\tikzlibrarytopaths.code.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\ti
+kz\libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 )))
 ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2017/11/03 3.15 The Babel package
+Package: babel 2018/02/14 3.18 The Babel package
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\switch.def"
-File: switch.def 2017/11/03 3.15 Babel switching mechanism
+File: switch.def 2018/02/14 3.18 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\arabi\bblopts.cfg
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\babel-portuges\portuges.ldf
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\babel-portuges\portuge
+s.ldf
 Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2017/11/03 3.15 Babel common definitions
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\switch.def"
-File: switch.def 2017/11/03 3.15 Babel switching mechanism
-)
-\babel@savecnt=\count111
+ ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2018/02/14 3.18 Babel common definitions
+\babel@savecnt=\count112
 \U@D=\dimen160
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\txtbabel.def")
+\bbl@dirlevel=\count113
 )
 \l@brazilian = a dialect from \language\l@portuges 
 Package babel Info: Making " an active character on input line 145.
 ))
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumitem.sty
-Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip43
-\enit@outerparindent=\dimen161
-\enit@toks=\toks28
-\enit@inbox=\box37
-\enitdp@description=\count112
-)
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen162
-\lightrulewidth=\dimen163
-\cmidrulewidth=\dimen164
-\belowrulesep=\dimen165
-\belowbottomsep=\dimen166
-\aboverulesep=\dimen167
-\abovetopsep=\dimen168
-\cmidrulesep=\dimen169
-\cmidrulekern=\dimen170
-\defaultaddspace=\dimen171
-\@cmidla=\count113
-\@cmidlb=\count114
-\@aboverulesep=\dimen172
-\@belowrulesep=\dimen173
-\@thisruleclass=\count115
-\@lastruleclass=\count116
-\@thisrulewidth=\dimen174
+\heavyrulewidth=\dimen161
+\lightrulewidth=\dimen162
+\cmidrulewidth=\dimen163
+\belowrulesep=\dimen164
+\belowbottomsep=\dimen165
+\aboverulesep=\dimen166
+\abovetopsep=\dimen167
+\cmidrulesep=\dimen168
+\cmidrulekern=\dimen169
+\defaultaddspace=\dimen170
+\@cmidla=\count114
+\@cmidlb=\count115
+\@aboverulesep=\dimen171
+\@belowrulesep=\dimen172
+\@thisruleclass=\count116
+\@lastruleclass=\count117
+\@thisrulewidth=\dimen173
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen174
+\Hy@linkcounter=\count118
+\Hy@pagecounter=\count119
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count120
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count121
+
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen175
+\Fld@menulength=\count122
+\Field@Width=\dimen176
+\Fld@charsize=\dimen177
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count123
+\c@Item=\count124
+\c@Hfootnote=\count125
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count126
+\c@bookmark@seq@number=\count127
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip44
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\avant.sty"
 Package: avant 2005/04/12 PSNFSS-v9.2a (SPQR) 
@@ -487,29 +625,30 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype.sty
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype.st
+y
 Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
 \MT@toks=\toks29
-\MT@count=\count117
+\MT@count=\count128
 LaTeX Info: Redefining \textls on input line 793.
-\MT@outer@kern=\dimen175
+\MT@outer@kern=\dimen178
 LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
-\MT@listname@count=\count118
+\MT@listname@count=\count129
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype-pdftex.
-def
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype-pd
+ftex.def
 File: microtype-pdftex.def 2018/01/14 v2.7a Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 913.
 LaTeX Info: Redefining \lslig on input line 913.
-\MT@outer@space=\skip44
+\MT@outer@space=\skip45
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype.cfg
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype.cf
+g
 File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
-))
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks30
 \inpenc@posthook=\toks31
@@ -816,6 +955,8 @@ Now handling font encoding OMX ...
 ... no UTF-8 mapping file for font encoding OMX
 Now handling font encoding U ...
 ... no UTF-8 mapping file for font encoding U
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
    defining Unicode char U+00A9 (decimal 169)
    defining Unicode char U+00AA (decimal 170)
    defining Unicode char U+00AE (decimal 174)
@@ -834,276 +975,587 @@ Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\csquotes\csquotes.sty
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\csquotes\csquotes.sty
 Package: csquotes 2018/04/13 v5.2d context-sensitive quotations (JAW)
-
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
-Package: etoolbox 2017/11/22 v2.5 e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count119
-)
-\csq@reset=\count120
-\csq@gtype=\count121
-\csq@glevel=\count122
-\csq@qlevel=\count123
-\csq@maxlvl=\count124
-\csq@tshold=\count125
+\csq@reset=\count130
+\csq@gtype=\count131
+\csq@glevel=\count132
+\csq@qlevel=\count133
+\csq@maxlvl=\count134
+\csq@tshold=\count135
 \csq@ltx@everypar=\toks32
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\csquotes\csquotes.def
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\csquotes\csquotes.def
 File: csquotes.def 2018/04/13 v5.2d csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
-
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\csquotes\csquotes.cfg
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\csquotes\csquotes.cfg
 File: csquotes.cfg 
 ))
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\biblatex.sty
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\biblatex.sty
 Package: biblatex 2018/03/04 v3.11 programmable bibliographies (PK/MW)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\logreq\logreq.sty
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count126
+\lrq@indent=\count136
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\logreq\logreq.def
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
-\Urlmuskip=\muskip10
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\xstring\xstring.sty
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\generic\xstring\xstring.tex
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\xstring\xstring.sty
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\generic\xstring\xstring.tex
 \@xs@message=\write4
-\integerpart=\count127
-\decimalpart=\count128
+\integerpart=\count137
+\decimalpart=\count138
 )
 Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 )
-\c@tabx@nest=\count129
-\c@listtotal=\count130
-\c@listcount=\count131
-\c@liststart=\count132
-\c@liststop=\count133
-\c@citecount=\count134
-\c@citetotal=\count135
-\c@multicitecount=\count136
-\c@multicitetotal=\count137
-\c@instcount=\count138
-\c@maxnames=\count139
-\c@minnames=\count140
-\c@maxitems=\count141
-\c@minitems=\count142
-\c@citecounter=\count143
-\c@savedcitecounter=\count144
-\c@uniquelist=\count145
-\c@uniquename=\count146
-\c@refsection=\count147
-\c@refsegment=\count148
-\c@maxextratitle=\count149
-\c@maxextratitleyear=\count150
-\c@maxextradate=\count151
-\c@maxextraalpha=\count152
-\c@abbrvpenalty=\count153
-\c@highnamepenalty=\count154
-\c@lownamepenalty=\count155
-\c@maxparens=\count156
-\c@parenlevel=\count157
-\blx@tempcnta=\count158
-\blx@tempcntb=\count159
-\blx@tempcntc=\count160
-\blx@maxsection=\count161
-\blx@maxsegment@0=\count162
-\blx@notetype=\count163
-\blx@parenlevel@text=\count164
-\blx@parenlevel@foot=\count165
-\blx@sectionciteorder@0=\count166
-\labelnumberwidth=\skip45
-\labelalphawidth=\skip46
-\biblabelsep=\skip47
-\bibitemsep=\skip48
-\bibnamesep=\skip49
-\bibinitsep=\skip50
-\bibparsep=\skip51
-\bibhang=\skip52
+\c@tabx@nest=\count139
+\c@listtotal=\count140
+\c@listcount=\count141
+\c@liststart=\count142
+\c@liststop=\count143
+\c@citecount=\count144
+\c@citetotal=\count145
+\c@multicitecount=\count146
+\c@multicitetotal=\count147
+\c@instcount=\count148
+\c@maxnames=\count149
+\c@minnames=\count150
+\c@maxitems=\count151
+\c@minitems=\count152
+\c@citecounter=\count153
+\c@savedcitecounter=\count154
+\c@uniquelist=\count155
+\c@uniquename=\count156
+\c@refsection=\count157
+\c@refsegment=\count158
+\c@maxextratitle=\count159
+\c@maxextratitleyear=\count160
+\c@maxextradate=\count161
+\c@maxextraalpha=\count162
+\c@abbrvpenalty=\count163
+\c@highnamepenalty=\count164
+\c@lownamepenalty=\count165
+\c@maxparens=\count166
+\c@parenlevel=\count167
+\blx@tempcnta=\count168
+\blx@tempcntb=\count169
+\blx@tempcntc=\count170
+\blx@maxsection=\count171
+\blx@maxsegment@0=\count172
+\blx@notetype=\count173
+\blx@parenlevel@text=\count174
+\blx@parenlevel@foot=\count175
+\blx@sectionciteorder@0=\count176
+\labelnumberwidth=\skip46
+\labelalphawidth=\skip47
+\biblabelsep=\skip48
+\bibitemsep=\skip49
+\bibnamesep=\skip50
+\bibinitsep=\skip51
+\bibparsep=\skip52
+\bibhang=\skip53
 \blx@bcfin=\read2
 \blx@bcfout=\write5
-\c@mincomprange=\count167
-\c@maxcomprange=\count168
-\c@mincompwidth=\count169
+\c@mincomprange=\count177
+\c@maxcomprange=\count178
+\c@mincompwidth=\count179
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
-
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\blx-dm.def
+ (C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\blx-dm.def
 File: blx-dm.def 2018/03/04 v3.11 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'authoryear.dbx' not found.
+Package biblatex Info: ... file 'abnt.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count170
-\c@savedafterword=\count171
-\c@annotator=\count172
-\c@savedannotator=\count173
-\c@author=\count174
-\c@savedauthor=\count175
-\c@bookauthor=\count176
-\c@savedbookauthor=\count177
-\c@commentator=\count178
-\c@savedcommentator=\count179
-\c@editor=\count180
-\c@savededitor=\count181
-\c@editora=\count182
-\c@savededitora=\count183
-\c@editorb=\count184
-\c@savededitorb=\count185
-\c@editorc=\count186
-\c@savededitorc=\count187
-\c@foreword=\count188
-\c@savedforeword=\count189
-\c@holder=\count190
-\c@savedholder=\count191
-\c@introduction=\count192
-\c@savedintroduction=\count193
-\c@namea=\count194
-\c@savednamea=\count195
-\c@nameb=\count196
-\c@savednameb=\count197
-\c@namec=\count198
-\c@savednamec=\count199
-\c@translator=\count266
-\c@savedtranslator=\count267
-\c@shortauthor=\count268
-\c@savedshortauthor=\count269
-\c@shorteditor=\count270
-\c@savedshorteditor=\count271
-\c@labelname=\count272
-\c@savedlabelname=\count273
-\c@institution=\count274
-\c@savedinstitution=\count275
-\c@lista=\count276
-\c@savedlista=\count277
-\c@listb=\count278
-\c@savedlistb=\count279
-\c@listc=\count280
-\c@savedlistc=\count281
-\c@listd=\count282
-\c@savedlistd=\count283
-\c@liste=\count284
-\c@savedliste=\count285
-\c@listf=\count286
-\c@savedlistf=\count287
-\c@location=\count288
-\c@savedlocation=\count289
-\c@organization=\count290
-\c@savedorganization=\count291
-\c@origlocation=\count292
-\c@savedoriglocation=\count293
-\c@origpublisher=\count294
-\c@savedorigpublisher=\count295
-\c@publisher=\count296
-\c@savedpublisher=\count297
-\c@language=\count298
-\c@savedlanguage=\count299
-\c@origlanguage=\count300
-\c@savedoriglanguage=\count301
-\c@pageref=\count302
-\c@savedpageref=\count303
-\shorthandwidth=\skip53
-\shortjournalwidth=\skip54
-\shortserieswidth=\skip55
-\shorttitlewidth=\skip56
-\shortauthorwidth=\skip57
-\shorteditorwidth=\skip58
-\locallabelnumberwidth=\skip59
-\locallabelalphawidth=\skip60
-\localshorthandwidth=\skip61
-\localshortjournalwidth=\skip62
-\localshortserieswidth=\skip63
-\localshorttitlewidth=\skip64
-\localshortauthorwidth=\skip65
-\localshorteditorwidth=\skip66
+\c@afterword=\count180
+\c@savedafterword=\count181
+\c@annotator=\count182
+\c@savedannotator=\count183
+\c@author=\count184
+\c@savedauthor=\count185
+\c@bookauthor=\count186
+\c@savedbookauthor=\count187
+\c@commentator=\count188
+\c@savedcommentator=\count189
+\c@editor=\count190
+\c@savededitor=\count191
+\c@editora=\count192
+\c@savededitora=\count193
+\c@editorb=\count194
+\c@savededitorb=\count195
+\c@editorc=\count196
+\c@savededitorc=\count197
+\c@foreword=\count198
+\c@savedforeword=\count199
+\c@holder=\count266
+\c@savedholder=\count267
+\c@introduction=\count268
+\c@savedintroduction=\count269
+\c@namea=\count270
+\c@savednamea=\count271
+\c@nameb=\count272
+\c@savednameb=\count273
+\c@namec=\count274
+\c@savednamec=\count275
+\c@translator=\count276
+\c@savedtranslator=\count277
+\c@shortauthor=\count278
+\c@savedshortauthor=\count279
+\c@shorteditor=\count280
+\c@savedshorteditor=\count281
+\c@labelname=\count282
+\c@savedlabelname=\count283
+\c@institution=\count284
+\c@savedinstitution=\count285
+\c@lista=\count286
+\c@savedlista=\count287
+\c@listb=\count288
+\c@savedlistb=\count289
+\c@listc=\count290
+\c@savedlistc=\count291
+\c@listd=\count292
+\c@savedlistd=\count293
+\c@liste=\count294
+\c@savedliste=\count295
+\c@listf=\count296
+\c@savedlistf=\count297
+\c@location=\count298
+\c@savedlocation=\count299
+\c@organization=\count300
+\c@savedorganization=\count301
+\c@origlocation=\count302
+\c@savedoriglocation=\count303
+\c@origpublisher=\count304
+\c@savedorigpublisher=\count305
+\c@publisher=\count306
+\c@savedpublisher=\count307
+\c@language=\count308
+\c@savedlanguage=\count309
+\c@origlanguage=\count310
+\c@savedoriglanguage=\count311
+\c@pageref=\count312
+\c@savedpageref=\count313
+\shorthandwidth=\skip54
+\shortjournalwidth=\skip55
+\shortserieswidth=\skip56
+\shorttitlewidth=\skip57
+\shortauthorwidth=\skip58
+\shorteditorwidth=\skip59
+\locallabelnumberwidth=\skip60
+\locallabelalphawidth=\skip61
+\localshorthandwidth=\skip62
+\localshortjournalwidth=\skip63
+\localshortserieswidth=\skip64
+\localshorttitlewidth=\skip65
+\localshortauthorwidth=\skip66
+\localshorteditorwidth=\skip67
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\blx-compat.def
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\blx-compat.de
+f
 File: blx-compat.def 2018/03/04 v3.11 biblatex compatibility (PK/MW)
-)
-Package biblatex Info: Trying to load BibTeX backend compatibility...
-Package biblatex Info: ... file 'blx-bibtex.def' found.
-
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\blx-bibtex.def
-File: blx-bibtex.def 2018/03/04 v3.11 biblatex compatibility (PK/MW)
-
-
-Package biblatex Warning: Using fall-back BibTeX(8) backend:
-(biblatex)                functionality may be reduced/unavailable.
-
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- (C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\biblatex.def
-File: biblatex.def 2018/03/04 v3.11 biblatex compatibility (PK/MW)
-\c@textcitecount=\count304
-\c@textcitetotal=\count305
-\c@textcitemaxnames=\count306
-\c@biburlnumpenalty=\count307
-\c@biburlucpenalty=\count308
-\c@biburllcpenalty=\count309
-\c@smartand=\count310
-)
-Package biblatex Info: Trying to load bibliography style 'authoryear'...
-Package biblatex Info: ... file 'authoryear.bbx' found.
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\bbx\authoryear.bbx
-File: authoryear.bbx 2018/03/04 v3.11 biblatex bibliography style (PK/MW)
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\biblatex.def
+File: biblatex.def 2018/03/04 v3.11 biblatex compatibility (PK/MW)
+\c@textcitecount=\count314
+\c@textcitetotal=\count315
+\c@textcitemaxnames=\count316
+\c@biburlnumpenalty=\count317
+\c@biburlucpenalty=\count318
+\c@biburllcpenalty=\count319
+\c@smartand=\count320
+)
+Package biblatex Info: Trying to load bibliography style 'abnt'...
+Package biblatex Info: ... file 'abnt.bbx' found.
+
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex-abnt\bbx\abnt
+.bbx
+File: abnt.bbx 2018/04/04 v3.3 ABNT BibLaTeX citation style
+
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\l3packages\xparse\xpar
+se.sty
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\expl3.sty
+Package: expl3 2018-06-01 L3 programming layer (loader) 
+
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\expl3-code.te
+x
+Package: expl3 2018-06-01 L3 programming layer (code)
+\c_max_int=\count321
+\l_tmpa_int=\count322
+\l_tmpb_int=\count323
+\g_tmpa_int=\count324
+\g_tmpb_int=\count325
+\g__kernel_prg_map_int=\count326
+\c_log_iow=\count327
+\l_iow_line_count_int=\count328
+\l__iow_line_target_int=\count329
+\l__iow_one_indent_int=\count330
+\l__iow_indent_int=\count331
+\c_zero_dim=\dimen179
+\c_max_dim=\dimen180
+\l_tmpa_dim=\dimen181
+\l_tmpb_dim=\dimen182
+\g_tmpa_dim=\dimen183
+\g_tmpb_dim=\dimen184
+\c_zero_skip=\skip68
+\c_max_skip=\skip69
+\l_tmpa_skip=\skip70
+\l_tmpb_skip=\skip71
+\g_tmpa_skip=\skip72
+\g_tmpb_skip=\skip73
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+\l_keys_choice_int=\count332
+\l__intarray_loop_int=\count333
+\c__intarray_sp_dim=\dimen185
+\g__intarray_font_int=\count334
+\c__fp_leading_shift_int=\count335
+\c__fp_middle_shift_int=\count336
+\c__fp_trailing_shift_int=\count337
+\c__fp_big_leading_shift_int=\count338
+\c__fp_big_middle_shift_int=\count339
+\c__fp_big_trailing_shift_int=\count340
+\c__fp_Bigg_leading_shift_int=\count341
+\c__fp_Bigg_middle_shift_int=\count342
+\c__fp_Bigg_trailing_shift_int=\count343
+\c__kernel_randint_max_int=\count344
+\g__fp_array_int=\count345
+\l__fp_array_loop_int=\count346
+\l__sort_length_int=\count347
+\l__sort_min_int=\count348
+\l__sort_top_int=\count349
+\l__sort_max_int=\count350
+\l__sort_true_max_int=\count351
+\l__sort_block_int=\count352
+\l__sort_begin_int=\count353
+\l__sort_end_int=\count354
+\l__sort_A_int=\count355
+\l__sort_B_int=\count356
+\l__sort_C_int=\count357
+\l__tl_analysis_normal_int=\count358
+\l__tl_analysis_index_int=\count359
+\l__tl_analysis_nesting_int=\count360
+\l__tl_analysis_type_int=\count361
+\l__regex_internal_a_int=\count362
+\l__regex_internal_b_int=\count363
+\l__regex_internal_c_int=\count364
+\l__regex_balance_int=\count365
+\l__regex_group_level_int=\count366
+\l__regex_mode_int=\count367
+\c__regex_cs_in_class_mode_int=\count368
+\c__regex_cs_mode_int=\count369
+\l__regex_catcodes_int=\count370
+\l__regex_default_catcodes_int=\count371
+\c__regex_catcode_D_int=\count372
+\c__regex_catcode_S_int=\count373
+\c__regex_catcode_L_int=\count374
+\c__regex_catcode_O_int=\count375
+\c__regex_catcode_A_int=\count376
+\c__regex_all_catcodes_int=\count377
+\l__regex_show_lines_int=\count378
+\l__regex_min_state_int=\count379
+\l__regex_max_state_int=\count380
+\l__regex_left_state_int=\count381
+\l__regex_right_state_int=\count382
+\l__regex_capturing_group_int=\count383
+\l__regex_min_pos_int=\count384
+\l__regex_max_pos_int=\count385
+\l__regex_curr_pos_int=\count386
+\l__regex_start_pos_int=\count387
+\l__regex_success_pos_int=\count388
+\l__regex_curr_char_int=\count389
+\l__regex_curr_catcode_int=\count390
+\l__regex_last_char_int=\count391
+\l__regex_case_changed_char_int=\count392
+\l__regex_curr_state_int=\count393
+\l__regex_step_int=\count394
+\l__regex_min_active_int=\count395
+\l__regex_max_active_int=\count396
+\l__regex_replacement_csnames_int=\count397
+\l__regex_match_count_int=\count398
+\l__regex_min_submatch_int=\count399
+\l__regex_submatch_int=\count400
+\l__regex_zeroth_submatch_int=\count401
+\g__regex_trace_regex_int=\count402
+\c_empty_box=\box37
+\l_tmpa_box=\box38
+\l_tmpb_box=\box39
+\g_tmpa_box=\box40
+\g_tmpb_box=\box41
+\l__box_top_dim=\dimen186
+\l__box_bottom_dim=\dimen187
+\l__box_left_dim=\dimen188
+\l__box_right_dim=\dimen189
+\l__box_top_new_dim=\dimen190
+\l__box_bottom_new_dim=\dimen191
+\l__box_left_new_dim=\dimen192
+\l__box_right_new_dim=\dimen193
+\l__box_internal_box=\box42
+\l__coffin_internal_box=\box43
+\l__coffin_internal_dim=\dimen194
+\l__coffin_offset_x_dim=\dimen195
+\l__coffin_offset_y_dim=\dimen196
+\l__coffin_x_dim=\dimen197
+\l__coffin_y_dim=\dimen198
+\l__coffin_x_prime_dim=\dimen199
+\l__coffin_y_prime_dim=\dimen256
+\c_empty_coffin=\box44
+\l__coffin_aligned_coffin=\box45
+\l__coffin_aligned_internal_coffin=\box46
+\l_tmpa_coffin=\box47
+\l_tmpb_coffin=\box48
+\l__coffin_display_coffin=\box49
+\l__coffin_display_coord_coffin=\box50
+\l__coffin_display_pole_coffin=\box51
+\l__coffin_display_offset_dim=\dimen257
+\l__coffin_display_x_dim=\dimen258
+\l__coffin_display_y_dim=\dimen259
+\g__file_internal_ior=\read3
+\l__coffin_bounding_shift_dim=\dimen260
+\l__coffin_left_corner_dim=\dimen261
+\l__coffin_right_corner_dim=\dimen262
+\l__coffin_bottom_corner_dim=\dimen263
+\l__coffin_top_corner_dim=\dimen264
+\l__coffin_scaled_total_height_dim=\dimen265
+\l__coffin_scaled_width_dim=\dimen266
+\l__seq_internal_a_int=\count403
+\l__seq_internal_b_int=\count404
+)
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3pdfmode.def
+File: l3pdfmode.def 2018-06-01 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count405
+))
+Package: xparse 2018-05-12 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count406
+\g__xparse_grabber_int=\count407
+\l__xparse_m_args_int=\count408
+\l__xparse_mandatory_args_int=\count409
+\l__xparse_v_nesting_int=\count410
+) (C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\xpatch\xpatch.sty
+Package: xpatch 2012/10/02 v0.3 Extending etoolbox patching commands
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchcmd with sig. '' on line 125.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretocmd with sig. '' on line 126.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xapptocmd with sig. '' on line 127.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshowcmd with sig. '' on line 128.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchbibmacro with sig. 'm' on line 131.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretobibmacro with sig. 'm' on line 133.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xapptobibmacro with sig. 'm' on line 135.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshowbibmacro with sig. 'm' on line 137.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchfieldformat with sig. 'O{*}m' on line 139.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretofieldformat with sig. 'O{*}m' on line 141.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xapptofieldformat with sig. 'O{*}m' on line 143.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshowfieldformat with sig. 'O{*}m' on line 145.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchnameformat with sig. 'O{*}m' on line 147.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretonameformat with sig. 'O{*}m' on line 149.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xapptonameformat with sig. 'O{*}m' on line 151.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshownameformat with sig. 'O{*}m' on line 153.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchlistformat with sig. 'O{*}m' on line 155.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretolistformat with sig. 'O{*}m' on line 157.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xapptolistformat with sig. 'O{*}m' on line 159.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshowlistformat with sig. 'O{*}m' on line 161.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchindexfieldformat with sig. 'O{*}m' on line 163.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretoindexfieldformat with sig. 'O{*}m' on line 165.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xapptoindexfieldformat with sig. 'O{*}m' on line 167.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshowindexfieldformat with sig. 'O{*}m' on line 169.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchindexnameformat with sig. 'O{*}m' on line 171.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretoindexnameformat with sig. 'O{*}m' on line 173.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xapptoindexnameformat with sig. 'O{*}m' on line 175.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshowindexnameformat with sig. 'O{*}m' on line 177.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchindexlistformat with sig. 'O{*}m' on line 179.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretoindexlistformat with sig. 'O{*}m' on line 181.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xappindextolistformat with sig. 'O{*}m' on line 183.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshowindexlistformat with sig. 'O{*}m' on line 185.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchbibdriver with sig. 'm' on line 187.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretobibdriver with sig. 'm' on line 189.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xapptobibdriver with sig. 'm' on line 191.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshowbibdriver with sig. 'm' on line 193.
+.................................................
+)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\bbx\standard.bbx
-File: standard.bbx 2018/03/04 v3.11 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count311
-\c@bbx:relatedtotal=\count312
-))
-Package biblatex Info: Trying to load citation style 'authoryear'...
-Package biblatex Info: ... file 'authoryear.cbx' found.
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\cbx\authoryear.cbx
-File: authoryear.cbx 2018/03/04 v3.11 biblatex citation style (PK/MW)
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\bbx\standard.
+bbx
+File: standard.bbx 2018/03/04 v3.11 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count411
+\c@bbx:relatedtotal=\count412
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \IfGivenIsInitial with sig. 'mm' on line 466.
+.................................................
+)
+Package biblatex Info: Trying to load citation style 'abnt'...
+Package biblatex Info: ... file 'abnt.cbx' found.
+
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex-abnt\cbx\abnt
+.cbx
+File: abnt.cbx 2018/04/04 v3.3 ABNT BibLaTeX citation style
+Package biblatex Info: Trying to load citation style 'authoryear-comp'...
+Package biblatex Info: ... file 'authoryear-comp.cbx' found.
+
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\cbx\authoryea
+r-comp.cbx
+File: authoryear-comp.cbx 2018/03/04 v3.11 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -1111,24 +1563,48 @@ Package biblatex Info: Redefining '\footcitetext'.
 Package biblatex Info: Redefining '\smartcite'.
 Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\footcitetexts'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \IfGivenIsInit with sig. 'mm' on line 80.
+.................................................
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\citetitle'.
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \textapud with sig. 'o o m o o m' on line 569.
+.................................................
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\citeauthor'.
+Package biblatex Info: Redefining '\citeyear'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
- (C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\biblatex.cfg
+
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\biblatex.cfg
 File: biblatex.cfg 
-))
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count313
-\calc@Bcount=\count314
-\calc@Adimen=\dimen176
-\calc@Bdimen=\dimen177
-\calc@Askip=\skip67
-\calc@Bskip=\skip68
+\calc@Acount=\count413
+\calc@Bcount=\count414
+\calc@Adimen=\dimen267
+\calc@Bdimen=\dimen268
+\calc@Askip=\skip74
+\calc@Bskip=\skip75
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count315
-\calc@Cskip=\skip69
+\calc@Ccount=\count415
+\calc@Cskip=\skip76
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\makeidx.sty"
 Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
@@ -1138,26 +1614,25 @@ Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 
 
 Writing index file main.idx
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titletoc.sty
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titletoc.sty
 Package: titletoc 2011/12/15 v1.6 TOC entries
-\ttl@leftsep=\dimen178
-)
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+\ttl@leftsep=\dimen269
+) (C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.st
+y
 Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
 s
-\f@nch@headwidth=\skip70
-\f@nch@O@elh=\skip71
-\f@nch@O@erh=\skip72
-\f@nch@O@olh=\skip73
-\f@nch@O@orh=\skip74
-\f@nch@O@elf=\skip75
-\f@nch@O@erf=\skip76
-\f@nch@O@olf=\skip77
-\f@nch@O@orf=\skip78
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+\f@nch@headwidth=\skip77
+\f@nch@O@elh=\skip78
+\f@nch@O@erh=\skip79
+\f@nch@O@olh=\skip80
+\f@nch@O@orh=\skip81
+\f@nch@O@elf=\skip82
+\f@nch@O@erf=\skip83
+\f@nch@O@olf=\skip84
+\f@nch@O@orf=\skip85
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2017/09/02 v2.17a AMS math features
-\@mathmargin=\skip79
+\@mathmargin=\skip86
 
 For additional information on amsmath, use the `?' option.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
@@ -1166,49 +1641,49 @@ Package: amstext 2000/06/29 v2.01 AMS text
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks33
-\ex@=\dimen179
+\ex@=\dimen270
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen180
+\pmbraise@=\dimen271
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count316
+\inf@bad=\count416
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count317
-\leftroot@=\count318
+\uproot@=\count417
+\leftroot@=\count418
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count319
-\DOTSCASE@=\count320
+\classnum@=\count419
+\DOTSCASE@=\count420
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
-\Mathstrutbox@=\box38
-\strutbox@=\box39
-\big@size=\dimen181
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+\big@size=\dimen272
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count321
-\c@MaxMatrixCols=\count322
-\dotsspace@=\muskip11
-\c@parentequation=\count323
-\dspbrk@lvl=\count324
+\macc@depth=\count421
+\c@MaxMatrixCols=\count422
+\dotsspace@=\muskip17
+\c@parentequation=\count423
+\dspbrk@lvl=\count424
 \tag@help=\toks34
-\row@=\count325
-\column@=\count326
-\maxfields@=\count327
+\row@=\count425
+\column@=\count426
+\maxfields@=\count427
 \andhelp@=\toks35
-\eqnshift@=\dimen182
-\alignsep@=\dimen183
-\tagshift@=\dimen184
-\tagwidth@=\dimen185
-\totwidth@=\dimen186
-\lineht@=\dimen187
+\eqnshift@=\dimen273
+\alignsep@=\dimen274
+\tagshift@=\dimen275
+\tagwidth@=\dimen276
+\totwidth@=\dimen277
+\lineht@=\dimen278
 \@envbody=\toks36
-\multlinegap=\skip80
-\multlinetaggap=\skip81
+\multlinegap=\skip87
+\multlinetaggap=\skip88
 \mathdisplay@stack=\toks37
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
@@ -1224,293 +1699,123 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
-Package: amsthm 2015/03/04 v2.20.2
+Package: amsthm 2017/10/31 v2.20.4
 \thm@style=\toks38
 \thm@bodyfont=\toks39
 \thm@headfont=\toks40
 \thm@notefont=\toks41
 \thm@headpunct=\toks42
-\thm@preskip=\skip82
-\thm@postskip=\skip83
-\thm@headsep=\skip84
+\thm@preskip=\skip89
+\thm@postskip=\skip90
+\thm@headsep=\skip91
 \dth@everypar=\toks43
 )
-\c@notation=\count328
-\c@dummy=\count329
-\c@problem=\count330
-\c@exerciseT=\count331
-\c@exampleT=\count332
-\c@vocabulary=\count333
-\c@definitionT=\count334
+\c@notation=\count428
+\c@dummy=\count429
+\c@problem=\count430
+\c@exerciseT=\count431
+\c@exampleT=\count432
+\c@vocabulary=\count433
+\c@definitionT=\count434
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\mdframed\mdframed.sty
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\mdframed\mdframed.sty
 Package: mdframed 2013/07/01 1.9b: mdframed
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\l3packages\xparse\xparse.st
-y (C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\expl3.sty
-Package: expl3 2018-06-01 L3 programming layer (loader) 
-
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\expl3-code.tex
-Package: expl3 2018-06-01 L3 programming layer (code)
-\c_max_int=\count335
-\l_tmpa_int=\count336
-\l_tmpb_int=\count337
-\g_tmpa_int=\count338
-\g_tmpb_int=\count339
-\g__kernel_prg_map_int=\count340
-\c_log_iow=\count341
-\l_iow_line_count_int=\count342
-\l__iow_line_target_int=\count343
-\l__iow_one_indent_int=\count344
-\l__iow_indent_int=\count345
-\c_zero_dim=\dimen188
-\c_max_dim=\dimen189
-\l_tmpa_dim=\dimen190
-\l_tmpb_dim=\dimen191
-\g_tmpa_dim=\dimen192
-\g_tmpb_dim=\dimen193
-\c_zero_skip=\skip85
-\c_max_skip=\skip86
-\l_tmpa_skip=\skip87
-\l_tmpb_skip=\skip88
-\g_tmpa_skip=\skip89
-\g_tmpb_skip=\skip90
-\c_zero_muskip=\muskip12
-\c_max_muskip=\muskip13
-\l_tmpa_muskip=\muskip14
-\l_tmpb_muskip=\muskip15
-\g_tmpa_muskip=\muskip16
-\g_tmpb_muskip=\muskip17
-\l_keys_choice_int=\count346
-\l__intarray_loop_int=\count347
-\c__intarray_sp_dim=\dimen194
-\g__intarray_font_int=\count348
-\c__fp_leading_shift_int=\count349
-\c__fp_middle_shift_int=\count350
-\c__fp_trailing_shift_int=\count351
-\c__fp_big_leading_shift_int=\count352
-\c__fp_big_middle_shift_int=\count353
-\c__fp_big_trailing_shift_int=\count354
-\c__fp_Bigg_leading_shift_int=\count355
-\c__fp_Bigg_middle_shift_int=\count356
-\c__fp_Bigg_trailing_shift_int=\count357
-\c__kernel_randint_max_int=\count358
-\g__fp_array_int=\count359
-\l__fp_array_loop_int=\count360
-\l__sort_length_int=\count361
-\l__sort_min_int=\count362
-\l__sort_top_int=\count363
-\l__sort_max_int=\count364
-\l__sort_true_max_int=\count365
-\l__sort_block_int=\count366
-\l__sort_begin_int=\count367
-\l__sort_end_int=\count368
-\l__sort_A_int=\count369
-\l__sort_B_int=\count370
-\l__sort_C_int=\count371
-\l__tl_analysis_normal_int=\count372
-\l__tl_analysis_index_int=\count373
-\l__tl_analysis_nesting_int=\count374
-\l__tl_analysis_type_int=\count375
-\l__regex_internal_a_int=\count376
-\l__regex_internal_b_int=\count377
-\l__regex_internal_c_int=\count378
-\l__regex_balance_int=\count379
-\l__regex_group_level_int=\count380
-\l__regex_mode_int=\count381
-\c__regex_cs_in_class_mode_int=\count382
-\c__regex_cs_mode_int=\count383
-\l__regex_catcodes_int=\count384
-\l__regex_default_catcodes_int=\count385
-\c__regex_catcode_D_int=\count386
-\c__regex_catcode_S_int=\count387
-\c__regex_catcode_L_int=\count388
-\c__regex_catcode_O_int=\count389
-\c__regex_catcode_A_int=\count390
-\c__regex_all_catcodes_int=\count391
-\l__regex_show_lines_int=\count392
-\l__regex_min_state_int=\count393
-\l__regex_max_state_int=\count394
-\l__regex_left_state_int=\count395
-\l__regex_right_state_int=\count396
-\l__regex_capturing_group_int=\count397
-\l__regex_min_pos_int=\count398
-\l__regex_max_pos_int=\count399
-\l__regex_curr_pos_int=\count400
-\l__regex_start_pos_int=\count401
-\l__regex_success_pos_int=\count402
-\l__regex_curr_char_int=\count403
-\l__regex_curr_catcode_int=\count404
-\l__regex_last_char_int=\count405
-\l__regex_case_changed_char_int=\count406
-\l__regex_curr_state_int=\count407
-\l__regex_step_int=\count408
-\l__regex_min_active_int=\count409
-\l__regex_max_active_int=\count410
-\l__regex_replacement_csnames_int=\count411
-\l__regex_match_count_int=\count412
-\l__regex_min_submatch_int=\count413
-\l__regex_submatch_int=\count414
-\l__regex_zeroth_submatch_int=\count415
-\g__regex_trace_regex_int=\count416
-\c_empty_box=\box40
-\l_tmpa_box=\box41
-\l_tmpb_box=\box42
-\g_tmpa_box=\box43
-\g_tmpb_box=\box44
-\l__box_top_dim=\dimen195
-\l__box_bottom_dim=\dimen196
-\l__box_left_dim=\dimen197
-\l__box_right_dim=\dimen198
-\l__box_top_new_dim=\dimen199
-\l__box_bottom_new_dim=\dimen256
-\l__box_left_new_dim=\dimen257
-\l__box_right_new_dim=\dimen258
-\l__box_internal_box=\box45
-\l__coffin_internal_box=\box46
-\l__coffin_internal_dim=\dimen259
-\l__coffin_offset_x_dim=\dimen260
-\l__coffin_offset_y_dim=\dimen261
-\l__coffin_x_dim=\dimen262
-\l__coffin_y_dim=\dimen263
-\l__coffin_x_prime_dim=\dimen264
-\l__coffin_y_prime_dim=\dimen265
-\c_empty_coffin=\box47
-\l__coffin_aligned_coffin=\box48
-\l__coffin_aligned_internal_coffin=\box49
-\l_tmpa_coffin=\box50
-\l_tmpb_coffin=\box51
-\l__coffin_display_coffin=\box52
-\l__coffin_display_coord_coffin=\box53
-\l__coffin_display_pole_coffin=\box54
-\l__coffin_display_offset_dim=\dimen266
-\l__coffin_display_x_dim=\dimen267
-\l__coffin_display_y_dim=\dimen268
-\g__file_internal_ior=\read3
-\l__coffin_bounding_shift_dim=\dimen269
-\l__coffin_left_corner_dim=\dimen270
-\l__coffin_right_corner_dim=\dimen271
-\l__coffin_bottom_corner_dim=\dimen272
-\l__coffin_top_corner_dim=\dimen273
-\l__coffin_scaled_total_height_dim=\dimen274
-\l__coffin_scaled_width_dim=\dimen275
-\l__seq_internal_a_int=\count417
-\l__seq_internal_b_int=\count418
-)
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3pdfmode.def
-File: l3pdfmode.def 2018-06-01 v L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count419
-))
-Package: xparse 2018-05-12 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count420
-\g__xparse_grabber_int=\count421
-\l__xparse_m_args_int=\count422
-\l__xparse_mandatory_args_int=\count423
-\l__xparse_v_nesting_int=\count424
-)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\zref-abspage.sty"
 Package: zref-abspage 2016/05/21 v2.26 Module abspage for zref (HO)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\zref-base.sty"
 Package: zref-base 2016/05/21 v2.26 Module base for zref (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
-Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
-)
 Package zref Info: New property list: main on input line 759.
 Package zref Info: New property: default on input line 760.
 Package zref Info: New property: page on input line 761.
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
-Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
-)
-\c@abspage=\count425
+\c@abspage=\count435
 Package zref Info: New property: abspage on input line 62.
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\needspace\needspace.sty
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\needspace\needspace.st
+y
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
-\mdf@templength=\skip91
-\c@mdf@globalstyle@cnt=\count426
-\mdf@skipabove@length=\skip92
-\mdf@skipbelow@length=\skip93
-\mdf@leftmargin@length=\skip94
-\mdf@rightmargin@length=\skip95
-\mdf@innerleftmargin@length=\skip96
-\mdf@innerrightmargin@length=\skip97
-\mdf@innertopmargin@length=\skip98
-\mdf@innerbottommargin@length=\skip99
-\mdf@splittopskip@length=\skip100
-\mdf@splitbottomskip@length=\skip101
-\mdf@outermargin@length=\skip102
-\mdf@innermargin@length=\skip103
-\mdf@linewidth@length=\skip104
-\mdf@innerlinewidth@length=\skip105
-\mdf@middlelinewidth@length=\skip106
-\mdf@outerlinewidth@length=\skip107
-\mdf@roundcorner@length=\skip108
-\mdf@footenotedistance@length=\skip109
-\mdf@userdefinedwidth@length=\skip110
-\mdf@needspace@length=\skip111
-\mdf@frametitleaboveskip@length=\skip112
-\mdf@frametitlebelowskip@length=\skip113
-\mdf@frametitlerulewidth@length=\skip114
-\mdf@frametitleleftmargin@length=\skip115
-\mdf@frametitlerightmargin@length=\skip116
-\mdf@shadowsize@length=\skip117
-\mdf@extratopheight@length=\skip118
-\mdf@subtitleabovelinewidth@length=\skip119
-\mdf@subtitlebelowlinewidth@length=\skip120
-\mdf@subtitleaboveskip@length=\skip121
-\mdf@subtitlebelowskip@length=\skip122
-\mdf@subtitleinneraboveskip@length=\skip123
-\mdf@subtitleinnerbelowskip@length=\skip124
-\mdf@subsubtitleabovelinewidth@length=\skip125
-\mdf@subsubtitlebelowlinewidth@length=\skip126
-\mdf@subsubtitleaboveskip@length=\skip127
-\mdf@subsubtitlebelowskip@length=\skip128
-\mdf@subsubtitleinneraboveskip@length=\skip129
-\mdf@subsubtitleinnerbelowskip@length=\skip130
+\mdf@templength=\skip92
+\c@mdf@globalstyle@cnt=\count436
+\mdf@skipabove@length=\skip93
+\mdf@skipbelow@length=\skip94
+\mdf@leftmargin@length=\skip95
+\mdf@rightmargin@length=\skip96
+\mdf@innerleftmargin@length=\skip97
+\mdf@innerrightmargin@length=\skip98
+\mdf@innertopmargin@length=\skip99
+\mdf@innerbottommargin@length=\skip100
+\mdf@splittopskip@length=\skip101
+\mdf@splitbottomskip@length=\skip102
+\mdf@outermargin@length=\skip103
+\mdf@innermargin@length=\skip104
+\mdf@linewidth@length=\skip105
+\mdf@innerlinewidth@length=\skip106
+\mdf@middlelinewidth@length=\skip107
+\mdf@outerlinewidth@length=\skip108
+\mdf@roundcorner@length=\skip109
+\mdf@footenotedistance@length=\skip110
+\mdf@userdefinedwidth@length=\skip111
+\mdf@needspace@length=\skip112
+\mdf@frametitleaboveskip@length=\skip113
+\mdf@frametitlebelowskip@length=\skip114
+\mdf@frametitlerulewidth@length=\skip115
+\mdf@frametitleleftmargin@length=\skip116
+\mdf@frametitlerightmargin@length=\skip117
+\mdf@shadowsize@length=\skip118
+\mdf@extratopheight@length=\skip119
+\mdf@subtitleabovelinewidth@length=\skip120
+\mdf@subtitlebelowlinewidth@length=\skip121
+\mdf@subtitleaboveskip@length=\skip122
+\mdf@subtitlebelowskip@length=\skip123
+\mdf@subtitleinneraboveskip@length=\skip124
+\mdf@subtitleinnerbelowskip@length=\skip125
+\mdf@subsubtitleabovelinewidth@length=\skip126
+\mdf@subsubtitlebelowlinewidth@length=\skip127
+\mdf@subsubtitleaboveskip@length=\skip128
+\mdf@subsubtitlebelowskip@length=\skip129
+\mdf@subsubtitleinneraboveskip@length=\skip130
+\mdf@subsubtitleinnerbelowskip@length=\skip131
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\mdframed\md-frame-0.mdf
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\mdframed\md-frame-0.md
+f
 File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 )
-\mdf@frametitlebox=\box55
-\mdf@footnotebox=\box56
-\mdf@splitbox@one=\box57
-\mdf@splitbox@two=\box58
-\mdf@splitbox@save=\box59
-\mdfsplitboxwidth=\skip131
-\mdfsplitboxtotalwidth=\skip132
-\mdfsplitboxheight=\skip133
-\mdfsplitboxdepth=\skip134
-\mdfsplitboxtotalheight=\skip135
-\mdfframetitleboxwidth=\skip136
-\mdfframetitleboxtotalwidth=\skip137
-\mdfframetitleboxheight=\skip138
-\mdfframetitleboxdepth=\skip139
-\mdfframetitleboxtotalheight=\skip140
-\mdffootnoteboxwidth=\skip141
-\mdffootnoteboxtotalwidth=\skip142
-\mdffootnoteboxheight=\skip143
-\mdffootnoteboxdepth=\skip144
-\mdffootnoteboxtotalheight=\skip145
-\mdftotallinewidth=\skip146
-\mdfboundingboxwidth=\skip147
-\mdfboundingboxtotalwidth=\skip148
-\mdfboundingboxheight=\skip149
-\mdfboundingboxdepth=\skip150
-\mdfboundingboxtotalheight=\skip151
-\mdf@freevspace@length=\skip152
-\mdf@horizontalwidthofbox@length=\skip153
-\mdf@verticalmarginwhole@length=\skip154
-\mdf@horizontalspaceofbox=\skip155
-\mdfsubtitleheight=\skip156
-\mdfsubsubtitleheight=\skip157
-\c@mdfcountframes=\count427
+\mdf@frametitlebox=\box54
+\mdf@footnotebox=\box55
+\mdf@splitbox@one=\box56
+\mdf@splitbox@two=\box57
+\mdf@splitbox@save=\box58
+\mdfsplitboxwidth=\skip132
+\mdfsplitboxtotalwidth=\skip133
+\mdfsplitboxheight=\skip134
+\mdfsplitboxdepth=\skip135
+\mdfsplitboxtotalheight=\skip136
+\mdfframetitleboxwidth=\skip137
+\mdfframetitleboxtotalwidth=\skip138
+\mdfframetitleboxheight=\skip139
+\mdfframetitleboxdepth=\skip140
+\mdfframetitleboxtotalheight=\skip141
+\mdffootnoteboxwidth=\skip142
+\mdffootnoteboxtotalwidth=\skip143
+\mdffootnoteboxheight=\skip144
+\mdffootnoteboxdepth=\skip145
+\mdffootnoteboxtotalheight=\skip146
+\mdftotallinewidth=\skip147
+\mdfboundingboxwidth=\skip148
+\mdfboundingboxtotalwidth=\skip149
+\mdfboundingboxheight=\skip150
+\mdfboundingboxdepth=\skip151
+\mdfboundingboxtotalheight=\skip152
+\mdf@freevspace@length=\skip153
+\mdf@horizontalwidthofbox@length=\skip154
+\mdf@verticalmarginwhole@length=\skip155
+\mdf@horizontalspaceofbox=\skip156
+\mdfsubtitleheight=\skip157
+\mdfsubsubtitleheight=\skip158
+\c@mdfcountframes=\count437
 
 ****** mdframed patching \endmdf@trivlist
 
@@ -1526,144 +1831,104 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 . 
 . Defining command \mdtheorem with sig. ' O{} m o m o ' on line 701.
 .................................................
-\mdf@envdepth=\count428
-\c@mdf@env@i=\count429
-\c@mdf@env@ii=\count430
-\c@mdf@zref@counter=\count431
+\mdf@envdepth=\count438
+\c@mdf@env@i=\count439
+\c@mdf@env@ii=\count440
+\c@mdf@zref@counter=\count441
 Package zref Info: New property: mdf@pagevalue on input line 895.
 )
-\esp=\skip158
-\ecart=\skip159
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
-Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
-Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
-
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
-Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
-Package hobsub Info: Skipping package `infwarerr' (already loaded).
-Package hobsub Info: Skipping package `ltxcmds' (already loaded).
-Package hobsub Info: Skipping package `ifluatex' (already loaded).
-Package hobsub Info: Skipping package `ifvtex' (already loaded).
-Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
-Package hobsub Info: Skipping package `ifpdf' (already loaded).
-Package hobsub Info: Skipping package `etexcmds' (already loaded).
-Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
-Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
-Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
-Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
-)
-Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
-Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
-)
-Package hobsub Info: Skipping package `hobsub' (already loaded).
-Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
-Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
-Package: xcolor-patch 2016/05/16 xcolor patch
-Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
-Package hobsub Info: Skipping package `atbegshi' (already loaded).
-Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
-Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
-)
-\@linkdim=\dimen276
-\Hy@linkcounter=\count432
-\Hy@pagecounter=\count433
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
-File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
-Now handling font encoding PD1 ...
-... no UTF-8 mapping file for font encoding PD1
-)
-\Hy@SavedSpaceFactor=\count434
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
-File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
-)
-Package hyperref Info: Hyper figures OFF on input line 4498.
-Package hyperref Info: Link nesting OFF on input line 4503.
-Package hyperref Info: Hyper index ON on input line 4506.
-Package hyperref Info: Plain pages OFF on input line 4513.
-Package hyperref Info: Backreferencing OFF on input line 4518.
-Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4751.
-\c@Hy@tempcnt=\count435
-LaTeX Info: Redefining \url on input line 5104.
-\XeTeXLinkMargin=\dimen277
-\Fld@menulength=\count436
-\Field@Width=\dimen278
-\Fld@charsize=\dimen279
-Package hyperref Info: Hyper figures OFF on input line 6358.
-Package hyperref Info: Link nesting OFF on input line 6363.
-Package hyperref Info: Hyper index ON on input line 6366.
-Package hyperref Info: backreferencing OFF on input line 6373.
-Package hyperref Info: Link coloring OFF on input line 6378.
-Package hyperref Info: Link coloring with OCG OFF on input line 6383.
-Package hyperref Info: PDF/A mode OFF on input line 6388.
-LaTeX Info: Redefining \ref on input line 6428.
-LaTeX Info: Redefining \pageref on input line 6432.
-\Hy@abspage=\count437
-\c@Item=\count438
-\c@Hfootnote=\count439
-)
-
-Package hyperref Message: Driver (autodetected): hpdftex.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
-File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
-\HyAnn@Count=\count440
-\Fld@listcount=\count441
-\c@bookmark@seq@number=\count442
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
-Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-82.
-)
-\Hy@SectionHShift=\skip160
-)
-Package hyperref Info: Option `colorlinks' set `false' on input line 476.
-Package hyperref Info: Option `breaklinks' set `true' on input line 476.
-Package hyperref Info: Option `bookmarksopen' set `false' on input line 476.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\bookmark.sty"
+\esp=\skip159
+\ecart=\skip160
+Package hyperref Info: Option `colorlinks' set `false' on input line 481.
+Package hyperref Info: Option `breaklinks' set `true' on input line 481.
+Package hyperref Info: Option `bookmarksopen' set `false' on input line 481.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\bookmark.sty"
 Package: bookmark 2016/05/17 v1.26 PDF bookmarks (HO)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\bkm-pdftex.def"
 File: bkm-pdftex.def 2016/05/17 v1.26 bookmark driver for pdfTeX (HO)
-\BKM@id=\count443
+\BKM@id=\count442
 )))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'brazilian'.
+Package biblatex Info: Trying to load language 'brazilian' -> 'brazilian-abnt'.
+..
+Package biblatex Info: ... file 'brazilian-abnt.lbx' found.
+
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex-abnt\lbx\braz
+ilian-abnt.lbx
+File: abnt-brazilian.lbx 2018/04/04 v3.3 ABNT BibLaTeX citation style
 Package biblatex Info: Trying to load language 'brazilian'...
 Package biblatex Info: ... file 'brazilian.lbx' found.
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\lbx\brazilian.lbx
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\lbx\brazilian
+.lbx
 File: brazilian.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
-) (main.aux)
+)
+Package biblatex Info: Trying to load language 'brazilian'...
+Package biblatex Info: ... file 'brazilian.lbx' found.
+
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\lbx\brazilian
+.lbx
+File: brazilian.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'brazil' -> 'brazil-abnt'...
+Package biblatex Info: ... file 'brazil-abnt.lbx' found.
+
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex-abnt\lbx\braz
+il-abnt.lbx
+File: brazil-abnt.lbx 2018/04/04 v3.3 ABNT BibLaTeX citation style
+
+
+Package biblatex Warning: File 'brazilian-abnt-abnt.lbx' not found!
+(biblatex)                Ignoring mapping 'brazilian-abnt' -> 'brazilian-abnt-
+abnt'.
+
+Package biblatex Info: Trying to load language 'brazilian-abnt'...
+Package biblatex Info: ... file 'brazilian-abnt.lbx' found.
+
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex-abnt\lbx\braz
+ilian-abnt.lbx
+File: abnt-brazilian.lbx 2018/04/04 v3.3 ABNT BibLaTeX citation style
+Package biblatex Info: Trying to load language 'brazilian'...
+Package biblatex Info: ... file 'brazilian.lbx' found.
+
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\lbx\brazilian
+.lbx
+File: brazilian.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'brazil'...
+Package biblatex Info: ... file 'brazil.lbx' found.
+
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\lbx\brazil.lb
+x
+File: brazil.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'brazilian'...
+Package biblatex Info: ... file 'brazilian.lbx' found.
+
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\lbx\brazilian
+.lbx
+File: brazilian.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
+))))) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 51.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 54.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
@@ -1701,18 +1966,18 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count444
-\scratchdimen=\dimen280
-\scratchbox=\box60
-\nofMPsegments=\count445
-\nofMParguments=\count446
+\scratchcounter=\count443
+\scratchdimen=\dimen279
+\scratchbox=\box59
+\nofMPsegments=\count444
+\nofMParguments=\count445
 \everyMPshowfont=\toks44
-\MPscratchCnt=\count447
-\MPscratchDim=\dimen281
-\MPnumerator=\count448
-\makeMPintoPDFobject=\count449
+\MPscratchCnt=\count446
+\MPscratchDim=\dimen280
+\MPnumerator=\count447
+\makeMPintoPDFobject=\count448
 \everyMPtoPDFconversion=\toks45
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -1728,7 +1993,21 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 ABD: EveryShipout initializing macros
-LaTeX Info: Redefining \microtypecontext on input line 51.
+\AtBeginShipoutBox=\box60
+Package hyperref Info: Link coloring OFF on input line 54.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count449
+)
+LaTeX Info: Redefining \ref on input line 54.
+LaTeX Info: Redefining \pageref on input line 54.
+LaTeX Info: Redefining \nameref on input line 54.
+LaTeX Info: Redefining \microtypecontext on input line 54.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1739,74 +2018,44 @@ Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\mt-ptm.cfg
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-Package biblatex Info: Input encoding 'utf8' specified.
-Package biblatex Info: Data encoding 'utf8' specified.
-(biblatex)             No need to reencode data.
-\openout5 = `main-blx.bib'.
+\openout5 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
 
-(main.bbl
-
-Package biblatex Warning: BibTeX reported the following issues
-(biblatex)                with 'article_key':
-(biblatex)                - Invalid format of field 'month'.
-
-
-Package biblatex Warning: BibTeX reported the following issues
-(biblatex)                with 'book_key':
-(biblatex)                - Invalid format of field 'month'.
-
-)
-Package biblatex Info: Reference section=0 on input line 51.
-Package biblatex Info: Reference segment=0 on input line 51.
-\AtBeginShipoutBox=\box61
-Package hyperref Info: Link coloring OFF on input line 51.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
-Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
-Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
-)
-\c@section@level=\count450
-)
-LaTeX Info: Redefining \ref on input line 51.
-LaTeX Info: Redefining \pageref on input line 51.
-LaTeX Info: Redefining \nameref on input line 51.
-<Pictures/background.pdf, id=6, pagebox=cropbox, 584.1825pt x 835.12pt>
+(main.bbl)
+Package biblatex Info: Reference section=0 on input line 54.
+Package biblatex Info: Reference segment=0 on input line 54.
+<Pictures/background.pdf, id=6, 584.1825pt x 835.12pt>
 File: Pictures/background.pdf Graphic file (type pdf)
 <use Pictures/background.pdf>
-Package pdftex.def Info: Pictures/background.pdf  used on input line 63. on inp
-ut line 63.
-Package pdftex.def Info: Requested size: 597.50787pt x 854.24503pt on input lin
-e 63.
+Package pdftex.def Info: Pictures/background.pdf  used on input line 66.
+(pdftex.def)             Requested size: 597.50787pt x 854.24503pt.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 64.
-LaTeX Font Info:    Try loading font information for T1+pag on input line 64.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pag.fd"
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 67.
+LaTeX Font Info:    Try loading font information for T1+pag on input line 67.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pag.fd"
 File: t1pag.fd 2001/06/04 font definitions for T1/pag.
 )
 LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/pag/b/n' tried instead on input line 64.
+(Font)              Font shape `T1/pag/b/n' tried instead on input line 67.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <24.88> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 64.
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 67.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `pag' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/pag/b/n' tried instead on input line 66.
+(Font)              Font shape `T1/pag/b/n' tried instead on input line 69.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <17.28> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 66.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 66
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 69.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 69
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
@@ -1816,73 +2065,73 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `ztmcm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 66
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 69
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 66
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 69
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 66
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 69
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 66.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 69.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 66.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 69.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 66.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 69.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 66.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 69.
 
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\mt-msa.cfg
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-(C:\Users\Dell\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\mt-msb.cfg
+(C:\Users\Jefferson\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 76.
+(babel)             in language  on input line 79.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 76.
+(babel)             in language  on input line 79.
 
 [1
 
-{C:/Users/Dell/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Pictures/b
-ackground.pdf>]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 80.
+{C:/Users/Jefferson/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Pictu
+res/background.pdf>]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 83.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 80.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 83.
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--83
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
  []
 
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 86.
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 89.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
@@ -1891,77 +2140,73 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 86.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 89.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 86.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 89.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 86.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 89.
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 100.
+(babel)             in language  on input line 103.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 100.
+(babel)             in language  on input line 103.
 [2]
-<Pictures/chapter_head_1.pdf, id=24, pagebox=cropbox, 597.432pt x 298.716pt>
+<Pictures/chapter_head_1.pdf, id=24, 597.432pt x 298.716pt>
 File: Pictures/chapter_head_1.pdf Graphic file (type pdf)
 <use Pictures/chapter_head_1.pdf>
-Package pdftex.def Info: Pictures/chapter_head_1.pdf  used on input line 100. o
-n input line 100.
-Package pdftex.def Info: Requested size: 597.50787pt x 298.77907pt on input lin
-e 100.
+Package pdftex.def Info: Pictures/chapter_head_1.pdf  used on input line 103.
+(pdftex.def)             Requested size: 597.50787pt x 298.77907pt.
  (main.toc
 LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/pag/b/n' tried instead on input line 5.
+(Font)              Font shape `T1/pag/b/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <14.4> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 5.
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <12> not available
-(Font)              Font shape `T1/pag/b/n' tried instead on input line 5.
+(Font)              Font shape `T1/pag/b/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 5.
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `T1/pag/bx/it' in size <14.4> not available
-(Font)              Font shape `T1/pag/b/it' tried instead on input line 11.
+(Font)              Font shape `T1/pag/b/it' tried instead on input line 10.
 LaTeX Font Info:    Font shape `T1/pag/b/it' in size <14.4> not available
-(Font)              Font shape `T1/pag/db/it' tried instead on input line 11.
+(Font)              Font shape `T1/pag/db/it' tried instead on input line 10.
 LaTeX Font Info:    Font shape `T1/pag/db/it' in size <14.4> not available
-(Font)              Font shape `T1/pag/db/sl' tried instead on input line 11.
+(Font)              Font shape `T1/pag/db/sl' tried instead on input line 10.
 )
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 102.
+(babel)             in language  on input line 105.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 102.
+(babel)             in language  on input line 105.
  [3
 
  <./Pictures/chapter_head_1.pdf>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 102.
+(babel)             in language  on input line 105.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 102.
+(babel)             in language  on input line 105.
  [4
 
 ]
 Cap\'{\i }tulo 1.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 118.
-<Pictures/chapter_head_2.pdf, id=84, pagebox=cropbox, 3581.38pt x 1790.69pt>
+(babel)             in language  on input line 121.
+<Pictures/chapter_head_2.pdf, id=93, 3581.38pt x 1790.69pt>
 File: Pictures/chapter_head_2.pdf Graphic file (type pdf)
 <use Pictures/chapter_head_2.pdf>
-Package pdftex.def Info: Pictures/chapter_head_2.pdf  used on input line 118. o
-n input line 118.
-Package pdftex.def Info: Requested size: 597.50787pt x 298.75726pt on input lin
-e 118.
+Package pdftex.def Info: Pictures/chapter_head_2.pdf  used on input line 121.
+(pdftex.def)             Requested size: 597.50787pt x 298.75726pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 122.
+(babel)             in language  on input line 125.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 124.
+(babel)             in language  on input line 127.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 124.
+(babel)             in language  on input line 127.
 [5
 
  <./Pictures/chapter_head_2.pdf>]
@@ -1972,16 +2217,16 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 124.
+(babel)             in language  on input line 127.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 124.
+(babel)             in language  on input line 127.
 [6]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 128.
+(babel)             in language  on input line 131.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 132.
+(babel)             in language  on input line 135.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 132.
+(babel)             in language  on input line 135.
  [7]
 
 Package Fancyhdr Warning: \headheight is too small (14.5pt): 
@@ -1990,50 +2235,46 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 140.
+(babel)             in language  on input line 143.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 140.
+(babel)             in language  on input line 143.
 [8]
 Cap\'{\i }tulo 2.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 140.
+(babel)             in language  on input line 143.
 File: Pictures/chapter_head_2.pdf Graphic file (type pdf)
 <use Pictures/chapter_head_2.pdf>
-Package pdftex.def Info: Pictures/chapter_head_2.pdf  used on input line 140. o
-n input line 140.
-Package pdftex.def Info: Requested size: 597.50787pt x 298.75726pt on input lin
-e 140.
+Package pdftex.def Info: Pictures/chapter_head_2.pdf  used on input line 143.
+(pdftex.def)             Requested size: 597.50787pt x 298.75726pt.
 LaTeX Font Info:    Font shape `T1/pag/bx/it' in size <24.88> not available
-(Font)              Font shape `T1/pag/b/it' tried instead on input line 140.
+(Font)              Font shape `T1/pag/b/it' tried instead on input line 143.
 LaTeX Font Info:    Font shape `T1/pag/b/it' in size <24.88> not available
-(Font)              Font shape `T1/pag/db/it' tried instead on input line 140.
+(Font)              Font shape `T1/pag/db/it' tried instead on input line 143.
 LaTeX Font Info:    Font shape `T1/pag/db/it' in size <24.88> not available
-(Font)              Font shape `T1/pag/db/sl' tried instead on input line 140.
+(Font)              Font shape `T1/pag/db/sl' tried instead on input line 143.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 144.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 146.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 146.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 146.
+(babel)             in language  on input line 154.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 150.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 150.
+(babel)             in language  on input line 154.
 [9
 
 ]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 160.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 160.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 160.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 157.
+(babel)             in language  on input line 164.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 169.
+(babel)             in language  on input line 177.
 LaTeX Font Info:    Font shape `T1/pag/bx/it' in size <12> not available
-(Font)              Font shape `T1/pag/b/it' tried instead on input line 176.
+(Font)              Font shape `T1/pag/b/it' tried instead on input line 185.
 LaTeX Font Info:    Font shape `T1/pag/b/it' in size <12> not available
-(Font)              Font shape `T1/pag/db/it' tried instead on input line 176.
+(Font)              Font shape `T1/pag/db/it' tried instead on input line 185.
 LaTeX Font Info:    Font shape `T1/pag/db/it' in size <12> not available
-(Font)              Font shape `T1/pag/db/sl' tried instead on input line 176.
+(Font)              Font shape `T1/pag/db/sl' tried instead on input line 185.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.5pt): 
@@ -2042,43 +2283,38 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 176.
+(babel)             in language  on input line 185.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 176.
+(babel)             in language  on input line 185.
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 179--179
-[][][][]$\T1/cmtt/m/n/10 http : / / projectos . ese . ips . pt / eduscratch / i
-ndex . php / 36-[]uncategorised /
- []
-
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 195.
+(babel)             in language  on input line 189.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 195.
-[11]
+(babel)             in language  on input line 215.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 195.
+(babel)             in language  on input line 215.
+ [11]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 195.
+(babel)             in language  on input line 215.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 215.
  [12
 
 ]
 Cap\'{\i }tulo 3.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 195.
+(babel)             in language  on input line 215.
 File: Pictures/chapter_head_1.pdf Graphic file (type pdf)
 <use Pictures/chapter_head_1.pdf>
-Package pdftex.def Info: Pictures/chapter_head_1.pdf  used on input line 195. o
-n input line 195.
-Package pdftex.def Info: Requested size: 597.50787pt x 298.77907pt on input lin
-e 195.
+Package pdftex.def Info: Pictures/chapter_head_1.pdf  used on input line 215.
+(pdftex.def)             Requested size: 597.50787pt x 298.77907pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 196.
+(babel)             in language  on input line 216.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 196.
+(babel)             in language  on input line 216.
 [13]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 198.
+(babel)             in language  on input line 218.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.5pt): 
@@ -2087,16 +2323,16 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 199.
+(babel)             in language  on input line 219.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 199.
+(babel)             in language  on input line 219.
 [14]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 201.
+(babel)             in language  on input line 221.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 202.
+(babel)             in language  on input line 222.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 202.
+(babel)             in language  on input line 222.
  [15]
 
 Package Fancyhdr Warning: \headheight is too small (14.5pt): 
@@ -2105,19 +2341,19 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 202.
+(babel)             in language  on input line 222.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 202.
+(babel)             in language  on input line 222.
 [16]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 204.
+(babel)             in language  on input line 224.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 205.
+(babel)             in language  on input line 225.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 205.
+(babel)             in language  on input line 225.
  [17]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 207.
+(babel)             in language  on input line 227.
 
 
 Package Fancyhdr Warning: \headheight is too small (14.5pt): 
@@ -2126,85 +2362,94 @@ Package Fancyhdr Warning: \headheight is too small (14.5pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 208.
+(babel)             in language  on input line 228.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 208.
+(babel)             in language  on input line 228.
 [18]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 214.
+(babel)             in language  on input line 234.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 214.
+(babel)             in language  on input line 234.
  [19]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 214.
+(babel)             in language  on input line 234.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 214.
+(babel)             in language  on input line 234.
  [20
 
 ]
 File: Pictures/chapter_head_1.pdf Graphic file (type pdf)
 <use Pictures/chapter_head_1.pdf>
-Package pdftex.def Info: Pictures/chapter_head_1.pdf  used on input line 214. o
-n input line 214.
-Package pdftex.def Info: Requested size: 597.50787pt x 298.77907pt on input lin
-e 214.
+Package pdftex.def Info: Pictures/chapter_head_1.pdf  used on input line 234.
+(pdftex.def)             Requested size: 597.50787pt x 298.77907pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 215.
+(babel)             in language  on input line 235.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 217.
+(babel)             in language  on input line 237.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 220.
+(babel)             in language  on input line 240.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 227.
+(babel)             in language  on input line 243.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 227.
+(babel)             in language  on input line 244.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 244.
  [21]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 227.
+(babel)             in language  on input line 246.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 227.
- [22
+(babel)             in language  on input line 249.
 
-]
+
+Package Fancyhdr Warning: \headheight is too small (14.5pt): 
+ Make it at least 14.73pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 230.
+(babel)             in language  on input line 257.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 257.
+[22]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 260.
 
 No file main.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 235.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 235.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 265.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 265.
 (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 235.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 235.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 265.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 265.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
- )
-(\end occurred inside a group at level 1)
-
-### simple group (level 1) entered at line 159 ({)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 37490 strings out of 493312
- 696689 string characters out of 3138902
- 1074591 words of memory out of 3000000
- 40296 multiletter control sequences out of 15000+200000
- 620088 words of font info for 225 fonts, out of 3000000 for 9000
+ 37994 strings out of 493305
+ 709092 string characters out of 3138862
+ 1291381 words of memory out of 3000000
+ 40726 multiletter control sequences out of 15000+200000
+ 626299 words of font info for 255 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,12n,65p,1104b,1958s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{section*.5} has been referenced but
- does not exist, replaced by a fixed one
+ 57i,12n,67p,1528b,3656s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{section*.8} has been referenced but does not exis
+t, replaced by a fixed one
 
- <C:\Users\Dell\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ect
-t1000.pk>{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc} <C:\Users\De
-ll\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1200.pk><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/urw/avantgar/uagd8a.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/urw/avantgar/uagdo8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/urw/avantgar/uagk8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/ut
-mr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (22 pages, 379427 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc} <C:\Users\Jefferson\A
+ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1200.pk><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/urw/avantgar/uagd8a.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/urw/avantgar/uagdo8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
+w/avantgar/uagk8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (22 pages, 397455 bytes).
 PDF statistics:
- 367 PDF objects out of 1000 (max. 8388607)
- 51 named destinations out of 1000 (max. 500000)
- 48284 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 412 PDF objects out of 1000 (max. 8388607)
+ 63 named destinations out of 1000 (max. 500000)
+ 53940 words of extra memory for PDF output out of 61914 (max. 10000000)
 
