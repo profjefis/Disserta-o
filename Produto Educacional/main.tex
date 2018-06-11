@@ -63,7 +63,7 @@
 \coordinate [below=12cm] (midpoint) at (current page.north);
 \node at (current page.north west)
 {\begin{tikzpicture}[remember picture,overlay]
-\node[anchor=north west,inner sep=0pt] at (0,0) {\includegraphics[width=\paperwidth]{background}}; % Background image
+\node[anchor=north west,inner sep=0pt] at (0,0) {\includegraphics[width=\paperwidth]{capa_2}}; % Background image
 \draw[anchor=north] (midpoint) node [fill=ocre!30!white,fill opacity=0.6,text opacity=1,inner sep=1cm]{\Huge\centering\bfseries\sffamily\parbox[c][][t]{\paperwidth}{\centering Jogos Digitais: Uma Abordagem de Física de Partículas Elementares no Ensino Médio\\[15pt] % Book title
 {\Large MNPEF/IF-UnB}\\[20pt] % Subtitle
 {\huge Jefferson Rodrigues de Oliveira  \\Profª Drª Vanessa Carvalho de Andrade}}}; % Author name
@@ -80,15 +80,15 @@
 ~\vfill
 \thispagestyle{empty}
 
-\noindent Copyright \copyright\ 2013 John Smith\\ % Copyright notice
+%\noindent Copyright \copyright\ 2013 John Smith\\ % Copyright notice
 
-\noindent \textsc{Published by Publisher}\\ % Publisher
+%\noindent \textsc{Published by Publisher}\\ % Publisher
 
-\noindent \textsc{book-website.com}\\ % URL
+%\noindent \textsc{book-website.com}\\ % URL
 
-\noindent Licensed under the Creative Commons Attribution-NonCommercial 3.0 Unported License (the \aspas{License}). You may not use this file except in compliance with the License. You may obtain a copy of the License at \url{http://creativecommons.org/licenses/by-nc/3.0}. Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \textsc{``as is'' basis, without warranties or conditions of any kind}, either express or implied. See the License for the specific language governing permissions and limitations under the License.\\ % License information
+\noindent O template original deste ebook \aspas{The Legrand Orange Book Template (English)} cujo author é denominado de Mathias Legrand, possui licença livre para modificar e compartilhar de forma não comercial \href{https://creativecommons.org/licenses/by-nc-sa/3.0/}{CC BY-NC-SA 3.0}. As Imagens dos capítulos foram retiradas de sites que permitiam reutilização com modificação: \href{https://pixabay.com/}{Pixabay} e \href{https://www.wikimedia.org/}{Wikimedia}.\\ % License information
 
-\noindent \textit{First printing, March 2013} % Printing/edition date
+\noindent \textit{Junho de 2018} % Printing/edition date
 
 %----------------------------------------------------------------------------------------
 %	TABLE OF CONTENTS
@@ -96,7 +96,7 @@
 
 %\usechapterimagefalse % If you don't want to include a chapter image, use this to toggle images off - it can be enabled later with \usechapterimagetrue
 
-\chapterimage{chapter_head_1.pdf} % Table of contents heading image
+\chapterimage{sumario.pdf} % Table of contents heading image
 
 \pagestyle{empty} % No headers
 
@@ -116,30 +116,14 @@
 %	CHAPTER 1
 %----------------------------------------------------------------------------------------
 
-\chapterimage{chapter_head_2.pdf} % Chapter heading image
+\chapterimage{game.pdf} % Chapter heading image
 
 \chapter{Introdução}
-Um dos grandes obstáculos da inserção da Física Moderna e Contemporânea (FMC) no ensino médio, mas especificamente de temas relacionados à Física de Partículas Elementares (FPE), é a escassez de materiais para o professor \textcite{siqueira2005revisando}. Além disso, percebemos que a Base Nacional Comum Curricular (BNCC) apresenta em algumas de suas competências, a análise de processos tecnológicos e avaliação de aplicações do conhecimento tecnológico \textcite{medio2017brasilia}, entretanto, o entendimento da maioria destes processos tecnológicos somente é realizado por meio de conhecimentos relativos à FMC.
-À vista disto, percebemos a necessidade de elaborar um produto educacional relacionado à FMC com o foco na FPE e suas aplicações.
-
-A mais de duas décadas é discutido à inserção temas relacionados à FMC, \textcite{terrazzan1992inserccao} já destacava em, no começo da década de 90, a influência crescente dos conteúdos de Física Moderna e Contemporânea para o entendimento do mundo atual, ainda mais que muitos fenômenos naturais e dispositivos digitais somente são compreendidos se alguns conceitos contemporâneos fores utilizados.
-
-\textcite{ostermann2001atualizaccao} destacam que a importância da FPE estão vinculadas a questões mais básicas da Física, e que podem remeter a problemas filosóficos (como buscar a ordem na diversidade) e a tentativa do entendimento do Universo (como
-funciona o Universo).
-
-Todavia, é necessário destacar na prática a realidade que os professores no Brasil enfrentam como: dificuldades com a indisciplina, desinteresse e falta de motivação dos alunos, falta de recursos físicos na escola e a falta de material disponível para o professor \cite{ostermann2001atualizaccao}. 
-
 Vivemos em um mundo onde é notório a magnitude de alcance das tecnologias digitais. Os jovens de hoje, conhecidos como \aspas{nativos digitais}, possuem um comportamento completamente diferente dos jovens que nasceram a partir da metade do século passado, conhecidos como \aspas{imigrantes digitais}. Educar uma nova geração por meio de métodos antigos utilizando ferramentas que se tornaram arcaicas, são ineficientes. Acrescentar diversão ao processo não apenas fará que a aprendizagem se tornem muito mais agradáveis e envolventes, mas também os tornará muito mais eficazes \cite{prensky2012aprendizagem}.
 
-O jogo digital pode adentrar nessa discussão como ferramenta de auxílio para amenizar esses obstáculos, pois o jogo pode diminuir drasticamente a indisciplina em sala de aula, aumentar o interesse e motivação dos alunos, e ainda por cima, não é necessariamente obrigatório um espaço físico adequado na escola para ocorrer o aprendizado baseado em jogos digitais, visto que o jogo digital poderá ser utilizado em qualquer lugar que tenha acesso a internet.
+Tendo esta motivação inicial e percebendo a escassez de materiais relacionados á Física de Partículas Elementares para o Ensino Médio \cite{siqueira2005revisando}, decidimos elaborar um jogo com linguagem simples e acessível para que o alunos seja instigado e se sinta motivado para aprender sobre alguns conceitos da física de partículas.
 
-\textcite{prensky2012aprendizagem}, destaca que a aprendizagem baseada em jogos digitais:
-
-\begin{enumerate}
-		\item Está de acordo com as necessidades e os estilos de aprendizagem da geração atual e das futuras gerações.
-		\item Motiva porque é divertida.
-		\item É incrivelmente versátil, possível de ser adaptada a quase todas as disciplinas, informações ou habilidades a serem aprendidas e, quando usada de forma correta, é extremamente eficaz.
-\end{enumerate}
+Por ser uma linguagem mais simples e intuitiva, escolhemos trabalhar com o \textit{Scratch}. No próximo capítulo, relataremos as principais características desta ferramenta e indicaremos materiais de estudo para você ficar afiado na programação de jogos digitais. 
 
 
 %------------------------------------------------
@@ -149,9 +133,12 @@ O jogo digital pode adentrar nessa discussão como ferramenta de auxílio para a
 %	CHAPTER 2
 %----------------------------------------------------------------------------------------
 
+
+\chapterimage{scratch.pdf} % Chapter heading image
+
 \chapter{Tutorias do \textit{Scratch}}
 
-Segundo o site \cite{on:scratch2018}, o \textit{Scratch} é um projeto do \textit{Lifelong Kindergarten Group} do MIT \textit{Media Lab}. Disponibilizado gratuitamente, o \textit{Scratch} ajuda os jovens a pensar de forma criativa, a raciocinar sistematicamente e a trabalhar colaborativamente competências essenciais à vida no século XXI. Com ele é possível programar suas próprias histórias, jogos e animações interativas, além de poder compartilhar suas criações com toda a comunidade. Justamente esta comunidade ativa, que torna-o bastante interativo, pois os estudantes podem compartilhar seus projetos e aprender uns com os outros \apud{resnick2009scratch}{bastos2010schatch}.
+Segundo o site \textcite{on:scratch2018}, o \textit{Scratch} é um projeto do \textit{Lifelong Kindergarten Group} do MIT \textit{Media Lab}. Disponibilizado gratuitamente, o \textit{Scratch} ajuda os jovens a pensar de forma criativa, a raciocinar sistematicamente e a trabalhar colaborativamente competências essenciais à vida no século XXI. Com ele é possível programar suas próprias histórias, jogos e animações interativas, além de poder compartilhar suas criações com toda a comunidade. Justamente esta comunidade ativa, que torna-o bastante interativo, pois os estudantes podem compartilhar seus projetos e aprender uns com os outros \apud{resnick2009scratch}{bastos2010schatch}.
 
 O Termo \textit{Scratch} tem origem da técnica de \textit{scratching} utilizadas pelos DJs (\textit{disc jockeys}) do \textit{hip-hop}. Pois é possível fazer algo semelhante com o \textit{Scratch}, que nos permite controlar ações e interações entre diferentes tipos de imagens, sons e cores, misturando-os de forma criativa \cite{marques2009recuperar}.
 
@@ -172,6 +159,8 @@ Estes aspectos inovadores trazem uma aprendizagem muito mais fácil e ativa. Des
 	\item Colaboração: comunidade ativa e interativa com fóruns especializados. 
 \end{enumerate}
 
+A seguir, indicaremos alguns livros, vídeos e sites sobre o \textit{Scratch}.
+
 \section{Livros}\index{Theorems!Several Equations}
 
 \textcite{marji2014aprenda} utiliza o \textit{Scratch} para explicar os conceitos essenciais necessários à resolução de problemas de programação do mundo real. Os blocos nomeados e diferenciados por cores mostram claramente cada passo lógico em um dado \textit{script}, e, com apenas um clique, você pode até mesmo testar qualquer parte de seu \textit{script} para verificar sua lógica. Você aprenderá a:
@@ -187,15 +176,15 @@ Estes aspectos inovadores trazem uma aprendizagem muito mais fácil e ativa. Des
 
 \section{Vídeos}\index{Theorems!Several Equations}
 
-O canal do You Tube \textcite{apensarem2018} apresenta uma playlist de 18 vídeos sobre Scratch, esta série de vídeos são apresentados os seguintes temas: o que é Scratch, comunidade \textit{Scratch}, aplicação offline (versão 1.4) e utilização de blocos.
+O canal do You Tube \textcite{apensarem2018} apresenta uma \textit{playlist} de 18 vídeos sobre Scratch, nesta série são apresentados os seguintes temas: o que é \textit{Scratch}, comunidade \textit{Scratch}, aplicação \textit{offline} (versão 1.4) e utilização de blocos.
 	
-\textcite{ilustradicas2018} é um canal de vídeo-aulas com dicas de Ilustração, Pintura Digital, animação 3d e Arte para Games. Este canal apresenta uma série de 10 vídeos,  esta série de vídeos ensina a programar de forma simples e criar um jogo em \textit{Scratch}. 
+\textcite{ilustradicas2018} é um canal de vídeo-aulas com dicas de ilustração, pintura digital, animação 3d e Arte para Games. Este canal apresenta uma série de 10 vídeos, esta série ensina a programar de forma simples e criar um jogo em \textit{Scratch}. 
 	
-\textcite{cursocompleto2018}, curso de Scratch oferecido pelo Programa NERDS (Núcleo Educacional de Robótica e Desenvolvimento de Software) da Fronteira e Programa PET (Programa de Educação Tutorial) da Fronteira da Universidade Federal de Mato Grosso do Sul (UFMS) câmpus Ponta Porã. Este curso tem como objetivo a formação de professores para uso de novas tecnologias na sala de aula. O curso é ministrado pela Esteice Janaina. 27 vídeos.
+\textcite{cursocompleto2018} é um curso de Scratch oferecido pelo Programa NERDS (Núcleo Educacional de Robótica e Desenvolvimento de Software) da Fronteira e Programa PET (Programa de Educação Tutorial) da Fronteira da Universidade Federal de Mato Grosso do Sul (UFMS) campus Ponta Porã. Este curso tem como objetivo a formação de professores para uso de novas tecnologias na sala de aula. O curso é ministrado pela Esteice Janaina e possui 27 vídeos.
 	
-\textcite{cursoexcel2018} curso básico e gratuito. 13 vídeos. 
+\textcite{cursoexcel2018} é curso básico e gratuito sobre \textit{Scratch} que possui 13 vídeos. 
 	
-\textcite{blank2018} inglês do canal com 20 vídeos.
+\textcite{blank2018} é um canal de língua inglesa que possui 20 vídeos.
 
 \section{Artigos}\index{Theorems!Several Equations}
 
@@ -205,9 +194,9 @@ Os projetos, artigos e experiências do grupo encontram-se no site com o intuito
 
 \textcite{scratchbrasil2018} fornece material gratuito em língua portuguesa sobre a ferramenta, além de mostrar notícias, eventos, tutoriais, vídeo aulas, entre outras informações de como professores e alunos podem usar a plataforma em sala de aula para a criação de jogos e animações com temas educativos.
 
-Além disso, o Scratch Brasil realiza oficinas, palestras e demais eventos voltados para a plataforma Scratch.
+Além disso, o \textit{Scratch} Brasil realiza oficinas, palestras e demais eventos voltados para a plataforma \textit{Scratch}.
 
-\textcite{eduscratch2018} é um projeto que visa promover a utilização educativa do Scratch através do apoio, formação e partilha de experiências na comunidade educativa. O site tem uma lista de vários artigos. 
+\textcite{eduscratch2018} é um projeto que visa promover a utilização educativa do \textit{Scratch} por meio do apoio, formação e partilha de experiências na comunidade educativa. O site tem uma lista de vários artigos. 
 
 %----------------------------------------------------------------------------------------
 %	PART
@@ -219,7 +208,7 @@ Além disso, o Scratch Brasil realiza oficinas, palestras e demais eventos volta
 %	CHAPTER 3
 %----------------------------------------------------------------------------------------
 
-\chapterimage{chapter_head_1.pdf} % Chapter heading image
+\chapterimage{lhc.pdf} % Chapter heading image
 
 \chapter{O Jogo \aspas{Em Busca do Bóson de Higgs}}
 \section{introdução}
@@ -247,8 +236,6 @@ Forma Indireta:
 	\label{fig:app_a:sitescratch}
 \end{figure}
 
-\newpage
-
 2º Passo: Ir na barra de pesquisa e digitar o nome do jogo \aspas{Em Busca do Bóson de Higgs}. 
 
 \begin{figure}[h]
@@ -257,6 +244,8 @@ Forma Indireta:
 	\caption{Pesquisa sobre o jogo}
 	\label{fig:app_pesquisa}
 \end{figure}
+
+\newpage
 
 Clicar sobre o projeto que aparece na tela.
 
@@ -273,8 +262,6 @@ Forma Direta:
 
 Enfim, ao iniciar o projeto do jogo é necessário clicar no ícone da bandeira verde à direita, enquanto que, para jogar em formato de tela cheia (caso queira), clique no ícone retangular azul à esquerda.
 
-\newpage
-
 Seguindo estes passos, é possível obter o seguinte resultado:
 
 \begin{figure}[h]
@@ -283,6 +270,8 @@ Seguindo estes passos, é possível obter o seguinte resultado:
 	\caption{A tela inicial}
 	\label{fig:app_a:telainicial}
 \end{figure}
+
+\newpage
 
 Clicando no botão \aspas{Cliqe Aqui!}, aparecerá a seguinte tela:
 
@@ -293,7 +282,6 @@ Clicando no botão \aspas{Cliqe Aqui!}, aparecerá a seguinte tela:
 	\label{fig:app_a:options}
 \end{figure}
 
-\newpage
 
 Antes de comentar sobre o jogo em si, vamos primeiro relatar sobre os créditos e sobre os bônus.
 
@@ -310,6 +298,8 @@ Os créditos retratam toda as referências que utilizamos para elaborar o jogo.
 
 O créditos estão relacionados com: a programação, o enredo, os \textit{backgrounds} (panos de fundo), os \textit{sprites} (imagens dos personagens, cenários,...) e os efeitos sonoros.
 
+\newpage
+
 \section{Atividades Extras}
 Existem dois tipos de bônus (atividades extras):
 
@@ -320,9 +310,8 @@ Existem dois tipos de bônus (atividades extras):
 	\label{fig:app_a:extras}
 \end{figure}
 
-\newpage
 
-1ºClassificação das Partículas
+1º Classificação das Partículas
 
 Clicando no botão \aspas{Classificação das Partículas}, aparecerá uma tela com a explicação da dinâmica do mini-game.
 
@@ -333,6 +322,8 @@ Clicando no botão \aspas{Classificação das Partículas}, aparecerá uma tela 
 	\label{fig:app_a:class1}
 \end{figure}
 
+\newpage
+
 Após a explicação, aparecerá uma tela com a tabela de classificação das partículas elementares do modelo padrão.
 
 \begin{figure}[h]
@@ -342,18 +333,18 @@ Após a explicação, aparecerá uma tela com a tabela de classificação das pa
 	\label{fig:app_a:class2}
 \end{figure}
 
-\newpage
-
 No lado direito, aparecerá uma contagem regressiva de 10 segundos. Quando esta contagem chega a 0, a tabela some.
 
 Após esta contagem regressiva, aparecerá uma tela de inicio da classificação, na parte de baixo uma seta e a partícula a ser classificada e na parte de cima 3 blocos em que as partículas deverão ser classificadas (Quarks, Férmions e Bósons).
 
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=0.65 \textwidth]{Produto/class3}
+	\includegraphics[width=0.63 \textwidth]{Produto/class3}
 	\caption{Classe de partículas}
 	\label{fig:app_a:class3}
 \end{figure}
+
+\newpage
 
 Caso a classificação esteja de acordo com o modelo padrão, a pontuação aumenta em um ponto.
 
@@ -364,16 +355,17 @@ Caso a classificação esteja de acordo com o modelo padrão, a pontuação aume
 	\label{fig:app_a:class5}
 \end{figure}
 
-\newpage
 
 O objetivo do mini-game é classificar adequadamente 10 partículas elementares do modelo padrão. Caso logre êxito, aparecerá a seguinte tela:
 
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=0.65 \textwidth]{Produto/class10}
+	\includegraphics[width=0.63 \textwidth]{Produto/class10}
 	\caption{Alcançando o objetivo}
 	\label{fig:app_a:class10}
 \end{figure}
+
+\newpage
 
 Entretanto, caso a classificação não esteja de acordo com o modelo padrão, os blocos descem...
 
@@ -384,16 +376,16 @@ Entretanto, caso a classificação não esteja de acordo com o modelo padrão, o
 	\label{fig:app_a:class4}
 \end{figure}
 
-\newpage
-
 Caso algum dos blocos colidir com a seta, o jogo terminará:
 
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=0.65 \textwidth]{Produto/class7}
+	\includegraphics[width=0.63 \textwidth]{Produto/class7}
 	\caption{Fim de jogo}
 	\label{fig:app_a:class7}
 \end{figure}
+
+\newpage
 
 Independente se conseguir alcançar o objetivo ou não, você poderá reiniciar e jogar novamente, quantas vezes desejar.
 
@@ -404,11 +396,10 @@ Independente se conseguir alcançar o objetivo ou não, você poderá reiniciar 
 	\label{fig:app_a:class9}
 \end{figure}
 
-\newpage
 
 Mesmo que este mini-game esteja relacionado com conhecimentos memorísticos e que tenha traços de aprendizagem mecânica, ele tem como objetivo não apenas o \aspas{decoreba} por si mesmo, mas sim, uma ambientação dos termos mais complexos da FPE.
 
-2ºSimulação relativística
+2º Simulação relativística
 
 Esta simulação de relatividade restrita tem como objetivo ilustrar o efeito relativístico de dilatação do tempo da partícula denominada: múon.
 
@@ -419,7 +410,7 @@ Esta simulação de relatividade restrita tem como objetivo ilustrar o efeito re
 	\label{fig:app_a:sim1}
 \end{figure}
 
-a principal ideia desta simulação consiste em controlar o parâmetro velocidade do múon e verificar o que acontece com o tempo de vida médio medido no laboratório.
+A principal ideia desta simulação consiste em controlar o parâmetro velocidade do múon e verificar o que acontece com o tempo de vida médio medido no laboratório.
 
 \begin{figure}[h]
 	\centering
@@ -429,7 +420,7 @@ a principal ideia desta simulação consiste em controlar o parâmetro velocidad
 \end{figure}
 
 
-\section{O Jogo principal}
+\section{O Jogo Principal}
 O jogo \aspas{Em busca do Bóson de Higgs}
 
 Você inicia o jogo no lado norte do mapa, logo abaixo de uma casa. 
@@ -441,6 +432,8 @@ Você inicia o jogo no lado norte do mapa, logo abaixo de uma casa.
 	\label{fig:app_a:jogo1}
 \end{figure}
 
+\newpage
+
 Aparecerá algumas instruções, você deverá permanecer parado no intuito de ler as instruções. Apenas quando concluí-las, você poderá desbravar o mapa da cidade. 
 
 \begin{figure}[h]
@@ -449,8 +442,6 @@ Aparecerá algumas instruções, você deverá permanecer parado no intuito de l
 	\caption{Instruções Inicias}
 	\label{fig:app_a:jogo2}
 \end{figure}
-
-\newpage
 
 Após as instruções, procure um dos principais personagens da narrativa, Peter Higgs.
 
@@ -461,6 +452,8 @@ Após as instruções, procure um dos principais personagens da narrativa, Peter
 	\label{fig:app_a:jogo3}
 \end{figure}
 
+\newpage
+
 Quando encontrar o personagem, fique de frente a ele e tecle \aspas{espaço}, Higgs irá perguntar seu nome\footnote{Ao longo do jogo, todos os personagens irá interagir com você a partir do seu nome}, neste momento você deverá escrever seu nome via teclado e apertar a tecla \aspas{enter}.
 
 \begin{figure}[h]
@@ -469,8 +462,6 @@ Quando encontrar o personagem, fique de frente a ele e tecle \aspas{espaço}, Hi
 	\caption{Diálogo com Higgs 2}
 	\label{fig:app_a:jogo4}
 \end{figure}
-
-\newpage
 
 Após o diálogo inicial com Higgs, ele mostrará a indicação do próximo passo para concluir a missão.
 
@@ -481,6 +472,8 @@ Após o diálogo inicial com Higgs, ele mostrará a indicação do próximo pass
 	\label{fig:app_a:jogo5}
 \end{figure}
 
+\newpage
+
 Ao encontrar com o próximo personagem, Linus Pauling, aperte a tecle novamente \aspas{espaço} para inicial do diálogo.
 
 \begin{figure}[h]
@@ -489,8 +482,6 @@ Ao encontrar com o próximo personagem, Linus Pauling, aperte a tecle novamente 
 	\caption{Diálogo com Pauling 1}
 	\label{fig:app_a:jogo6}
 \end{figure}
-
-\newpage
 
 Aqui começa as ideias introdutórias da física de partículas elementares.
 
@@ -501,6 +492,8 @@ Aqui começa as ideias introdutórias da física de partículas elementares.
 	\label{fig:app_a:jogo7}
 \end{figure}
 
+\newpage
+
 Após o diálogo, Pauling avisará para procurar o físico César Lattes.
 
 \begin{figure}[h]
@@ -509,8 +502,6 @@ Após o diálogo, Pauling avisará para procurar o físico César Lattes.
 	\caption{Diálogo com Pauling 3}
 	\label{fig:app_a:jogo8}
 \end{figure}
-
-\newpage
 
 Aqui começa o diálogo com Lattes.
 
@@ -521,7 +512,9 @@ Aqui começa o diálogo com Lattes.
 	\label{fig:app_a:jogo9}
 \end{figure}
 
-Após os diálogos, são realizadas o quiz referentes ao diálogo dos personagens.
+\newpage
+
+Após os diálogos, são realizadas o \textit{quiz} referentes ao diálogo dos personagens.
 
 \begin{figure}[h]
 	\centering
@@ -529,8 +522,6 @@ Após os diálogos, são realizadas o quiz referentes ao diálogo dos personagen
 	\caption{Diálogo com Lattes 2}
 	\label{fig:app_a:jogo10}
 \end{figure}
-
-\newpage
 
 Conforme acerte as perguntas, seus pontos aumentam.
 
@@ -541,6 +532,8 @@ Conforme acerte as perguntas, seus pontos aumentam.
 	\label{fig:app_a:jogo11}
 \end{figure}
 
+\newpage
+
 Caso erre, você deixa de ganhar a pontuação referente à pergunta.
 
 \begin{figure}[h]
@@ -549,8 +542,6 @@ Caso erre, você deixa de ganhar a pontuação referente à pergunta.
 	\caption{Diálogo com Lattes 3}
 	\label{fig:app_a:jogo12}
 \end{figure}
-
-\newpage
 
 Aqui um exemplo de pergunta sobre o modelo padrão.
 
@@ -561,6 +552,7 @@ Aqui um exemplo de pergunta sobre o modelo padrão.
 	\label{fig:app_a:jogo13}
 \end{figure}
 
+\newpage
 
 Lattes relata para que o jogador procure Einstein.
 
@@ -571,8 +563,6 @@ Lattes relata para que o jogador procure Einstein.
 	\label{fig:app_a:jogo14}
 \end{figure}
 
-\newpage
-
 Após o encontro com Einstein, inicia-se o diálogo.
 
 \begin{figure}[h]
@@ -581,6 +571,8 @@ Após o encontro com Einstein, inicia-se o diálogo.
 	\caption{Diálogo com Einstein 1}
 	\label{fig:app_a:jogo15}
 \end{figure}
+
+\newpage
 
 Após alguns diálogo, Einstein realiza algumas perguntas sobre interações fundamentais.
 
@@ -591,7 +583,6 @@ Após alguns diálogo, Einstein realiza algumas perguntas sobre interações fun
 	\label{fig:app_a:jogo16}
 \end{figure}
 
-\newpage
 
 Após o diálogo com Einstein, o personagem deverá encontrar novamente com Peter Higgs, que fará mais algumas perguntas...
 
@@ -602,6 +593,8 @@ Após o diálogo com Einstein, o personagem deverá encontrar novamente com Pete
 	\label{fig:app_a:jogo17}
 \end{figure}
 
+\newpage
+
 Aqui, Higgs explica sobre a última missão...
 
 \begin{figure}[h]
@@ -611,7 +604,6 @@ Aqui, Higgs explica sobre a última missão...
 	\label{fig:app_a:jogo18}
 \end{figure}
 
-\section{A fase Final}
 Por fim, chegamos na reta final...
 
 \begin{figure}[h]
@@ -621,7 +613,11 @@ Por fim, chegamos na reta final...
 	\label{fig:app_a:jogo19}
 \end{figure}
 
-Então inicia-se a simulação da colisão de hádrons.
+\newpage
+
+\section{A Missão Final}
+
+Inicia-se a simulação da colisão de hádrons.
 
 \begin{figure}[h]
 	\centering
@@ -629,8 +625,6 @@ Então inicia-se a simulação da colisão de hádrons.
 	\caption{Fase final - Parte 1}
 	\label{fig:app_a:final1}
 \end{figure}
-
-\newpage
 
 Nesta etapa, você perceberá que irá descer várias partículas, dentre elas: o fóton, o elétron e o próton.
 
@@ -640,6 +634,8 @@ Nesta etapa, você perceberá que irá descer várias partículas, dentre elas: 
 	\caption{Fase final - Parte 2}
 	\label{fig:app_a:final2}
 \end{figure}
+
+\newpage
 
 O objetivo desta última missão é a colisão do próton (que está com o personagem principal) com os prótons que descem sobre a tela.
 
@@ -652,7 +648,6 @@ Para cada acerto, o parâmetro de energia aumenta 25 Gev, enquanto que se você 
 	\label{fig:app_a:final3}
 \end{figure}
 
-\newpage
 
 Caso consiga chegar em nível de energia de 125 Gev, você alcançará o objetivo e detectará o bóson de Higgs.
 
@@ -669,7 +664,7 @@ Caso consiga chegar em nível de energia de 125 Gev, você alcançará o objetiv
 %----------------------------------------------------------------------------------------
 %	BIBLIOGRAPHY
 %----------------------------------------------------------------------------------------
-
+\chapterimage{sumario.pdf} % Chapter heading image
 \chapter*{Referências}
 \addcontentsline{toc}{chapter}{\textcolor{ocre}{Referências}}
 %\printbibliography[heading=bibempty]
@@ -679,11 +674,11 @@ Caso consiga chegar em nível de energia de 125 Gev, você alcançará o objetiv
 \section*{Livros}
 %\addcontentsline{toc}{section}{Livros}
 \printbibliography[heading=bibempty,type=book]
-\section*{Sites}
-%\addcontentsline{toc}{section}{Sites}
+\section*{Sites com artigos sobre o \textit{Scratch}}
+%\addcontentsline{toc}{section}{Sites com artigos sobre o \textit{Scratch}}
 \printbibliography[heading=bibempty,keyword=site]
-\section*{Vídeos}
-%\addcontentsline{toc}{section}{Vídeos}
+\section*{Vídeos sobre o \textit{Scratch}}
+%\addcontentsline{toc}{section}{Vídeos sobre o \textit{Scratch}}
 \printbibliography[heading=bibempty,keyword=video]
 \section*{Outros}
 %\addcontentsline{toc}{section}{Outros}
