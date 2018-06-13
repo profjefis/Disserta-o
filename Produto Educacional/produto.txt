@@ -1,6 +1,0 @@
-﻿808 1155 826 413
-capa: https://pixabay.com/pt/fundo-do-jogo-de-v%C3%ADdeo-1405076/
-sumário https://pixabay.com/pt/blue-luzes-da-raia-abstract-fundo-1772970/
-scratch https://commons.wikimedia.org/wiki/File:Scratchlogo.svg
-lhc: https://commons.wikimedia.org/wiki/File:3D_view_of_an_event_recorded_with_the_CMS_detector_in_2012_at_a_proton-proton_centre_of_mass_energy_of_8_TeV.png
-game: https://pixabay.com/pt/tecnologia-controlador-jogar-3189176/
