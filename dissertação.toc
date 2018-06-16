@@ -76,5 +76,3 @@
 \contentsline {section}{\numberline {B.1}Texto Base}{145}{section.b.1}
 \contentsline {section}{\numberline {B.2}V\IeC {\'\i }deo}{150}{section.b.2}
 \contentsline {chapter}{\numberline {C}Autoriza\c c\~oes}{151}{annex.c}
-\contentsline {chapter}{\numberline {D}Registro de Imagens}{154}{annex.d}
-\contentsline {section}{\numberline {D.1}Premia\c c\~ao}{155}{section.d.1}
