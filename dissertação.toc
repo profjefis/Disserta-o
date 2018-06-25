@@ -1,4 +1,4 @@
-\select@language {brazil}
+\babel@toc {brazil}{}
 \contentsline {chapter}{\numberline {1}Introdu\c c\~ao}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Quest\~ao de Pesquisa e Delimita\c c\~ao}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Import\^ancia e Justificativa}{2}{section.1.2}
@@ -26,53 +26,52 @@
 \contentsline {chapter}{\numberline {3}Descri\c c\~ao do Produto Educacional - O Jogo Digital}{32}{chapter.3}
 \contentsline {section}{\numberline {3.1}O Processo de Elabora\c c\~ao}{32}{section.3.1}
 \contentsline {section}{\numberline {3.2}A Ferramenta de Programa\c c\~ao}{33}{section.3.2}
-\contentsline {section}{\numberline {3.3}Principais Caracter\IeC {\'\i }sticas}{34}{section.3.3}
+\contentsline {section}{\numberline {3.3}As Principais Caracter\IeC {\'\i }sticas do Jogo}{34}{section.3.3}
 \contentsline {chapter}{\numberline {4}Metodologia de Aplica\c c\~ao}{36}{chapter.4}
 \contentsline {section}{\numberline {4.1}A Sequ\^encia Did\'atica}{36}{section.4.1}
-\contentsline {section}{\numberline {4.2}UEPS como Fator Norteador}{36}{section.4.2}
-\contentsline {section}{\numberline {4.3}Elementos de Gamifica\c c\~ao}{37}{section.4.3}
-\contentsline {section}{\numberline {4.4}A Utiliza\c c\~ao de Ambientes N\~ao T\~ao Tradicionais}{38}{section.4.4}
-\contentsline {section}{\numberline {4.5}Os Question\'arios}{38}{section.4.5}
-\contentsline {section}{\numberline {4.6}Encurtador de URLs}{39}{section.4.6}
+\contentsline {section}{\numberline {4.2}Elementos de Gamifica\c c\~ao}{37}{section.4.2}
+\contentsline {section}{\numberline {4.3}A Utiliza\c c\~ao de Ambientes N\~ao T\~ao Tradicionais}{38}{section.4.3}
+\contentsline {section}{\numberline {4.4}Os Question\'arios}{38}{section.4.4}
+\contentsline {section}{\numberline {4.5}Encurtador de URLs}{39}{section.4.5}
 \contentsline {chapter}{\numberline {5}Aplica\c c\~ao da Sequ\^encia Did\'atica}{40}{chapter.5}
 \contentsline {section}{\numberline {5.1}A Situa\c c\~ao Problema e A Pesquisa Inicial}{40}{section.5.1}
 \contentsline {section}{\numberline {5.2}O Pr\'e-Teste}{42}{section.5.2}
 \contentsline {section}{\numberline {5.3}Aplica\c c\~ao do jogo}{43}{section.5.3}
 \contentsline {section}{\numberline {5.4}V\IeC {\'\i }deo: ``{O Discreto Charme das Part\IeC {\'\i }culas Elementares}''}{45}{section.5.4}
-\contentsline {section}{\numberline {5.5}Aulas Expositivas e Dialogadas}{46}{section.5.5}
-\contentsline {section}{\numberline {5.6}Reaplica\c c\~ao do jogo}{46}{section.5.6}
+\contentsline {section}{\numberline {5.5}Aulas Expositivas e Dialogadas}{47}{section.5.5}
+\contentsline {section}{\numberline {5.6}Reaplica\c c\~ao do jogo}{47}{section.5.6}
 \contentsline {section}{\numberline {5.7}P\'os-teste}{48}{section.5.7}
 \contentsline {section}{\numberline {5.8}Pesquisa final e Fechamento}{48}{section.5.8}
-\contentsline {chapter}{\numberline {6}Resultados e Discuss\~oes}{51}{chapter.6}
-\contentsline {section}{\numberline {6.1}An\'alise da Pesquisa Inicial}{51}{section.6.1}
-\contentsline {section}{\numberline {6.2}An\'alise dos Testes}{52}{section.6.2}
-\contentsline {section}{\numberline {6.3}An\'alise das Aplica\c c\~oes do Jogo}{55}{section.6.3}
-\contentsline {section}{\numberline {6.4}Discuss\~oes sobre o V\IeC {\'\i }deo: ``{O Discreto Charme das Part\IeC {\'\i }culas Elementares}''}{56}{section.6.4}
-\contentsline {section}{\numberline {6.5}An\'alise das Aulas Expositivas e Dialogadas}{57}{section.6.5}
-\contentsline {section}{\numberline {6.6}An\'alise da Pesquisa Final}{58}{section.6.6}
-\contentsline {chapter}{\numberline {7}Considera\c c\~oes Finais}{59}{chapter.7}
-\contentsline {chapter}{Refer\^encias}{61}{chapter.8}
+\contentsline {chapter}{\numberline {6}Resultados e Discuss\~oes}{52}{chapter.6}
+\contentsline {section}{\numberline {6.1}An\'alise da Pesquisa Inicial}{52}{section.6.1}
+\contentsline {section}{\numberline {6.2}An\'alise dos Testes}{53}{section.6.2}
+\contentsline {section}{\numberline {6.3}An\'alise das Aplica\c c\~oes do Jogo}{56}{section.6.3}
+\contentsline {section}{\numberline {6.4}Discuss\~oes sobre o V\IeC {\'\i }deo: ``{O Discreto Charme das Part\IeC {\'\i }culas Elementares}''}{57}{section.6.4}
+\contentsline {section}{\numberline {6.5}An\'alise das Aulas Expositivas e Dialogadas}{58}{section.6.5}
+\contentsline {section}{\numberline {6.6}An\'alise da Pesquisa Final}{59}{section.6.6}
+\contentsline {chapter}{\numberline {7}Considera\c c\~oes Finais}{60}{chapter.7}
+\contentsline {chapter}{Refer\^encias}{62}{chapter.8}
 \SetAppendixTocName {Ap\^endice}
-\contentsline {chapter}{\numberline {A}O Jogo Digital}{65}{appendix.A}
-\contentsline {section}{\numberline {A.1}Enredo}{66}{section.A.1}
-\contentsline {section}{\numberline {A.2}Tutorial}{74}{section.A.2}
-\contentsline {chapter}{\numberline {B}Question\'arios}{95}{appendix.B}
-\contentsline {section}{\numberline {B.1}Pesquisa Inicial}{96}{section.B.1}
-\contentsline {section}{\numberline {B.2}Resultados da Pesquisa Inicial}{98}{section.B.2}
-\contentsline {section}{\numberline {B.3}Testes}{101}{section.B.3}
-\contentsline {section}{\numberline {B.4}Resultados dos Testes}{106}{section.B.4}
-\contentsline {section}{\numberline {B.5}Pesquisa Final}{114}{section.B.5}
-\contentsline {section}{\numberline {B.6}Resultados da Pesquisa Final}{115}{section.B.6}
-\contentsline {chapter}{\numberline {C}Atividades}{128}{appendix.C}
-\contentsline {section}{\numberline {C.1}Resenha Cr\IeC {\'\i }tica}{129}{section.C.1}
-\contentsline {chapter}{\numberline {D}Aula Expositiva}{133}{appendix.D}
-\contentsline {section}{\numberline {D.1}Slides}{134}{section.D.1}
+\contentsline {chapter}{\numberline {A}O Jogo Digital}{66}{appendix.A}
+\contentsline {section}{\numberline {A.1}Enredo}{67}{section.A.1}
+\contentsline {section}{\numberline {A.2}Tutorial}{75}{section.A.2}
+\contentsline {chapter}{\numberline {B}Question\'arios}{96}{appendix.B}
+\contentsline {section}{\numberline {B.1}Pesquisa Inicial}{97}{section.B.1}
+\contentsline {section}{\numberline {B.2}Resultados da Pesquisa Inicial}{99}{section.B.2}
+\contentsline {section}{\numberline {B.3}Testes}{102}{section.B.3}
+\contentsline {section}{\numberline {B.4}Resultados dos Testes}{107}{section.B.4}
+\contentsline {section}{\numberline {B.5}Pesquisa Final}{115}{section.B.5}
+\contentsline {section}{\numberline {B.6}Resultados da Pesquisa Final}{116}{section.B.6}
+\contentsline {chapter}{\numberline {C}Atividades}{129}{appendix.C}
+\contentsline {section}{\numberline {C.1}Resenha Cr\IeC {\'\i }tica}{130}{section.C.1}
+\contentsline {chapter}{\numberline {D}Aula Expositiva}{134}{appendix.D}
+\contentsline {section}{\numberline {D.1}Slides}{135}{section.D.1}
 \SetAppendixTocName {Anexo}
-\contentsline {chapter}{\numberline {A}Manuais do Scratch}{140}{annex.a}
-\contentsline {section}{\numberline {A.1}V\IeC {\'\i }deo}{141}{section.a.1}
-\contentsline {section}{\numberline {A.2}Livros}{142}{section.a.2}
-\contentsline {section}{\numberline {A.3}Tutoriais e Artigos}{143}{section.a.3}
-\contentsline {chapter}{\numberline {B}Materiais de Apoio}{144}{annex.b}
-\contentsline {section}{\numberline {B.1}Texto Base}{145}{section.b.1}
-\contentsline {section}{\numberline {B.2}V\IeC {\'\i }deo}{150}{section.b.2}
-\contentsline {chapter}{\numberline {C}Autoriza\c c\~oes}{151}{annex.c}
+\contentsline {chapter}{\numberline {A}Manuais do Scratch}{141}{annex.a}
+\contentsline {section}{\numberline {A.1}V\IeC {\'\i }deo}{142}{section.a.1}
+\contentsline {section}{\numberline {A.2}Livros}{143}{section.a.2}
+\contentsline {section}{\numberline {A.3}Tutoriais e Artigos}{144}{section.a.3}
+\contentsline {chapter}{\numberline {B}Materiais de Apoio}{145}{annex.b}
+\contentsline {section}{\numberline {B.1}Texto Base}{146}{section.b.1}
+\contentsline {section}{\numberline {B.2}V\IeC {\'\i }deo}{151}{section.b.2}
+\contentsline {chapter}{\numberline {C}Autoriza\c c\~oes}{152}{annex.c}
