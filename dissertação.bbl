@@ -35,6 +35,12 @@ Tese (Doutorado), 2010.}
   Ferramentas para a educa{\c{c}}{\~a}o.
 \textbf{Semin{\'a}rio de Tecnologia Educacional de Arauc{\'a}ria}, 2010.}
 
+\bibitem[Batista 2018]{cursocompleto2018}
+\abntrefinfo{Batista}{BATISTA}{2018}
+{BATISTA, E. J.~S. \textbf{Curso completo de \textit{Scratch}}. 2018.
+\url{https://www.youtube.com/watch?v=z6I9Xb7XzCc&list=PLUPv_UuNBuX-KUoluUdV1F9xa8ctZCT_f}.
+[Online; acessado em 10 de Junho de 2008].}
+
 \bibitem[Berg e Hoekzema 2006]{van2006teaching}
 \abntrefinfo{Berg e Hoekzema}{BERG; HOEKZEMA}{2006}
 {BERG, E. V.~D.; HOEKZEMA, D. Teaching conservation laws, symmetries and
@@ -54,6 +60,12 @@ Tese (Doutorado), 2010.}
 \abntrefinfo{Bonjorno \textit{et al.}}{BONJORNO \textit{et al.}}{2016}
 {BONJORNO, J.; CLINTON, M.; PRADO, E.; CASEMIRO, R.; BONJORNO, R.
   \textbf{F{\'\i}sica (Vol. 3)}. [S.l.: s.n.], 2016.}
+
+\bibitem[Brasil 2018]{scratchbrasil2018}
+\abntrefinfo{Brasil}{BRASIL}{2018}
+{BRASIL \textit{Scratch}. \textbf{Materiais em Destaque}. 2018.
+\url{https://www.ft.unicamp.br/liag/scratch/category/downloadstutoriais/}.
+[Online; acessado em 10 de Junho de 2008].}
 
 \bibitem[Cavalcate 2013]{cavalcante2013pnldfisica}
 \abntrefinfo{Cavalcate}{CAVALCATE}{2013}
@@ -86,6 +98,25 @@ Tese (Doutorado), 2013.}
 {DUNNE, P. A reappraisal of the mechanism of pion exchange and its implications
   for the teaching of particle physics.
 \textbf{Physics education}, IOP Publishing, v.~37, n.~3, p.~211, 2002.}
+
+\bibitem[Editor 2018]{blank2018}
+\abntrefinfo{Editor}{EDITOR}{2018}
+{EDITOR, Y. B. \textbf{Scratch Programming}. 2018.
+\url{https://www.youtube.com/watch?v=oRBfjK-qeXE&list=PL0-84-yl1fUkall6a14nqzXpG79-RgI1F}.
+[Online; acessado em 10 de Junho de 2008].}
+
+\bibitem[EduScratch 2018]{eduscratch2018}
+\abntrefinfo{EduScratch}{EDUSCRATCH}{2018}
+{EDUSCRATCH. \textbf{Artigos sobre o Scratch...} 2018.
+\url{http://projectos.ese.ips.pt/eduscratch/index.php/36-uncategorised/110-artigos-sobre-o-scratch}.
+[Online; acessado em 10 de Junho de 2008].}
+
+\bibitem[Em... 2018]{apensarem2018}
+\abntrefinfo{Em...}{EM...}{2018}
+{EM..., Y. A.~P. \textbf{A Pensar em... \textit{Scratch} (Tutorial em
+  Portugu{\^e}s)}. 2018.
+\url{https://www.youtube.com/watch?v=ZqJXox8yBKI&list=PLd-QtXnha0KeRTN9fGnWO9PazIkb5YiV6}.
+[Online; acessado em 10 de Junho de 2008].}
 
 \bibitem[Fadel \textit{et al.} 2014]{gamificacaoeducacao2014}
 \abntrefinfo{Fadel \textit{et al.}}{FADEL \textit{et al.}}{2014}
@@ -146,10 +177,22 @@ Tese (Doutorado), 2013.}
   ACM symposium on User interface software and technology}. [S.l.], 2012. p.
   103--112.}
 
+\bibitem[LIAG 2018]{liag2018}
+\abntrefinfo{LIAG}{LIAG}{2018}
+{LIAG. \textbf{Raciocinando E<>! Blocos}. 2018.
+\url{https://www.ft.unicamp.br/liag/scratch/category/downloadstutoriais/}.
+[Online; acessado em 10 de Junho de 2008].}
+
 \bibitem[Marconi e Lakatos 2003]{marconi2003fundamentos}
 \abntrefinfo{Marconi e Lakatos}{MARCONI; LAKATOS}{2003}
 {MARCONI, M. d.~A.; LAKATOS, E.~M. \textbf{Fundamentos de metodologia
   cient{\'\i}fica}. [S.l.]: 5. ed.-S{\~a}o Paulo: Atlas, 2003.}
+
+\bibitem[Marji 2014]{marji2014aprenda}
+\abntrefinfo{Marji}{MARJI}{2014}
+{MARJI, M. \textbf{Aprenda a programar com Scratch: uma introdu{\c{c}}{\~a}o
+  visual {\`a} programa{\c{c}}{\~a}o com jogos, arte, ci{\^e}ncia e
+  matem{\'a}tica}. [S.l.]: Novatec Editora, 2014.}
 
 \bibitem[Marques 2009]{marques2009recuperar}
 \abntrefinfo{Marques}{MARQUES}{2009}
@@ -168,6 +211,13 @@ Tese (Doutorado) --- Universidade de Lisboa, 2009.}
 \abntrefinfo{M{\'a}ximo e Alvarenga}{M{\'A}XIMO; ALVARENGA}{2016}
 {M{\'A}XIMO, A.; ALVARENGA, B. \textbf{F{\'\i}sica: contexto e
   aplica{\c{c}}{\~o}es}. [S.l.: s.n.], 2016.}
+
+\bibitem[Mendes \textit{et al.} 2012]{mendes2012programaccao}
+\abntrefinfo{Mendes \textit{et al.}}{MENDES \textit{et al.}}{2012}
+{MENDES, J.; SCAICO, P.; LIMA, A.; SILVA, J. D.; AZEVEDO, S.; PAIVA, L.;
+  RAPOSO, E.; ALENCAR, Y. Programa{\c{c}}{\~a}o no ensino m{\'e}dio: Uma
+  abordagem de ensino orientado ao design com scratch.
+\textbf{Anais do XVIII WIE Rio de Janeiro}, v.~26, 2012.}
 
 \bibitem[MOREIRA 1999]{moreira1999teoria}
 \abntrefinfo{MOREIRA}{MOREIRA}{1999}
@@ -221,6 +271,13 @@ Tese (Doutorado) --- Universidade de Lisboa, 2009.}
   cern/about/updates/2013/03/new-results-indicate-new-particle-higgs-boson
   (acessado em 15/02/2018)}, 2013.}
 
+\bibitem[Online 2018]{cursoexcel2018}
+\abntrefinfo{Online}{ONLINE}{2018}
+{ONLINE, Y. Curso~de E. \textbf{Curso de \textit{Scratch} -
+  Programa{\c{c}}{\~a}o e L{\'o}gica para Kids e Professores}. 2018.
+\url{https://www.youtube.com/watch?v=b0LWjZoU_dA&list=PLUA91x6QVggBDCGdzaeauvqv41aZsEBZN}.
+[Online; acessado em 10 de Junho de 2008].}
+
 \bibitem[Ostermann e Cavalcanti 2001]{ostermann2001poster}
 \abntrefinfo{Ostermann e Cavalcanti}{OSTERMANN; CAVALCANTI}{2001}
 {OSTERMANN, F.; CAVALCANTI, C. J. d.~H. Um p{\^o}ster para ensinar f{\'\i}sica
@@ -270,6 +327,14 @@ Tese (Doutorado) --- Universidade de Lisboa, 2009.}
   intera{\c{c}}{\~o}es fundamentais no Ensino M{\'e}dio}.
 Tese (Doutorado), 2011.}
 
+\bibitem[Pinheiro e Costa 2009]{pinheiro2009relato}
+\abntrefinfo{Pinheiro e Costa}{PINHEIRO; COSTA}{2009}
+{PINHEIRO, L.~A.; COSTA, S. Relato sobre a implementa{\c{c}}{\~a}o de uma de
+  aprendizagem sobre part{\'\i}culas elementares e intera{\c{c}}{\~o}es
+  fundamentais no ensino m{\'e}dio.
+\textbf{Experi{\^e}ncias em Ensino de Ci{\^e}ncias}, v.~4, n.~3, p. 101--116,
+  2009.}
+
 \bibitem[Prensky 2012]{prensky2012aprendizagem}
 \abntrefinfo{Prensky}{PRENSKY}{2012}
 {PRENSKY, M. Aprendizagem baseada em jogos digitais.
@@ -316,6 +381,12 @@ Tese (Doutorado), 2011.}
 \abntrefinfo{Stefanovits}{STEFANOVITS}{2016}
 {STEFANOVITS, A. \textbf{Ser protagonista: F{\'\i}sica}. [S.l.: s.n.], 2016.}
 
+\bibitem[Tabajara 2018]{ilustradicas2018}
+\abntrefinfo{Tabajara}{TABAJARA}{2018}
+{TABAJARA, I.~R. \textbf{\textit{SCRATCH}: Criando um jogo do zero!} 2018.
+\url{https://www.youtube.com/watch?v=poLuoL4nVCE&list=PLEBItwMFnoURT_Wq1lqpLzdWLRvTwfmro}.
+[Online; acessado em 10 de Junho de 2008].}
+
 \bibitem[Terrazzan 1992]{terrazzan1992inserccao}
 \abntrefinfo{Terrazzan}{TERRAZZAN}{1992}
 {TERRAZZAN, E.~A. A inser{\c{c}}{\~a}o da f{\'\i}sica moderna e
@@ -341,12 +412,6 @@ Tese (Doutorado), 2011.}
 {WIKIP{\'E}DIA. \textbf{Quiz}. 2018.
 \url{https://pt.wikipedia.org/wiki/Quiz}.
 [Online; acessado em 15 de Fevereiro de 2008].}
-
-\bibitem[Wikip{\'e}dia 2018]{onwikiscratch}
-\abntrefinfo{Wikip{\'e}dia}{WIKIP{\'E}DIA}{2018c}
-{WIKIP{\'E}DIA. \textbf{Role-playing game}. 2018.
-\url{https://pt.wikipedia.org/wiki/Role-playing_game}.
-[Online; acessado em 13 de Fevereiro de 2008].}
 
 \bibitem[Williams 2005]{williams2005antimatter}
 \abntrefinfo{Williams}{WILLIAMS}{2005}
