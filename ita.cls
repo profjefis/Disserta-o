@@ -1281,17 +1281,17 @@
 				 \small{\@ifundefined{metitlec}{}    {\metitlec\@\ \menamec\@\ \\ (\merolec\@\ \meinstc\@) } \\}
 				 \par
 
-				 \vspace*{\stretch{2}}			 		 
-			 	 \hspace{3cm}\hrulefill\hspace{3cm}
-				 \par 
-				 \small{\@ifundefined{metitled}{}    {\metitled\@\ \menamed\@\ \\ (\meroled\@\ \meinstd\@) } \\}
-				 \par
+				 %\vspace*{\stretch{2}}			 		 
+			 	 %\hspace{3cm}\hrulefill\hspace{3cm}
+				 %\par 
+				 %\small{\@ifundefined{metitled}{}    %{\metitled\@\ \menamed\@\ \\ (\meroled\@\ %\meinstd\@) } \\}
+				 %\par
 				 
-				 				 \vspace*{\stretch{2}}			 		 
-				 \hspace{3cm}\hrulefill\hspace{3cm}
-				 \par 
-				 \small{\@ifundefined{metitlee}{}    {\metitlee\@\ \menamee\@\ \\ (\merolee\@\ \meinste\@) } \\}
-				 \par
+				 				 %\vspace*{\stretch{2}}			 		 
+				 %\hspace{3cm}\hrulefill\hspace{3cm}
+				 %\par 
+				 %\small{\@ifundefined{metitlee}{}    %{\metitlee\@\ \menamee\@\ \\ (\merolee\@\ %\meinste\@) } \\}
+				 %\par
 	
 	%\hspace{3cm}\hrulefill\hspace{3cm}
 	%\@ifundefined{metitleb}{}    {\metitleb\@ \hspace{0.15cm}\menameb\@ \hspace{0.15cm} \meroleb\@ \hspace{0.15cm} \meinstb\@ } \\
