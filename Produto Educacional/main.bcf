@@ -2060,7 +2060,6 @@
     <bcf:citekey order="1">prensky2012aprendizagem</bcf:citekey>
     <bcf:citekey order="2">siqueira2005revisando</bcf:citekey>
     <bcf:citekey order="3">on:scratch2018</bcf:citekey>
-    <bcf:citekey order="4">on:scratch2018</bcf:citekey>
     <bcf:citekey order="5">resnick2009scratch</bcf:citekey>
     <bcf:citekey order="6">bastos2010schatch</bcf:citekey>
     <bcf:citekey order="7">marques2009recuperar</bcf:citekey>
@@ -2068,23 +2067,14 @@
     <bcf:citekey order="9">klopfer2004programming</bcf:citekey>
     <bcf:citekey order="10">marques2009recuperar</bcf:citekey>
     <bcf:citekey order="11">marji2014aprenda</bcf:citekey>
-    <bcf:citekey order="12">marji2014aprenda</bcf:citekey>
     <bcf:citekey order="13">apensarem2018</bcf:citekey>
-    <bcf:citekey order="14">apensarem2018</bcf:citekey>
     <bcf:citekey order="15">ilustradicas2018</bcf:citekey>
-    <bcf:citekey order="16">ilustradicas2018</bcf:citekey>
     <bcf:citekey order="17">cursocompleto2018</bcf:citekey>
-    <bcf:citekey order="18">cursocompleto2018</bcf:citekey>
     <bcf:citekey order="19">cursoexcel2018</bcf:citekey>
-    <bcf:citekey order="20">cursoexcel2018</bcf:citekey>
     <bcf:citekey order="21">blank2018</bcf:citekey>
-    <bcf:citekey order="22">blank2018</bcf:citekey>
     <bcf:citekey order="23">liag2018</bcf:citekey>
-    <bcf:citekey order="24">liag2018</bcf:citekey>
     <bcf:citekey order="25">scratchbrasil2018</bcf:citekey>
-    <bcf:citekey order="26">scratchbrasil2018</bcf:citekey>
     <bcf:citekey order="27">eduscratch2018</bcf:citekey>
-    <bcf:citekey order="28">eduscratch2018</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

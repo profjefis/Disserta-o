@@ -1,15 +1,5 @@
-[0] Config.pm:302> INFO - This is Biber 2.10
-[0] Config.pm:305> INFO - Logfile is 'main.blg'
-[232] biber-MSWIN64:313> INFO - === 
-[383] Biber.pm:371> INFO - Reading 'main.bcf'
-[516] Biber.pm:857> INFO - Found 16 citekeys in bib section 0
-[558] Biber.pm:3976> INFO - Processing section 0
-[647] Biber.pm:4136> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
-[652] bibtex.pm:1490> INFO - LaTeX decoding ...
-[689] bibtex.pm:1306> INFO - Found BibTeX data source 'bibliography.bib'
-[903] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[903] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[903] Biber.pm:3804> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'pt-BR'
-[903] Biber.pm:3810> INFO - No sort tailoring available for locale 'pt-BR'
-[923] bbl.pm:617> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[938] bbl.pm:720> INFO - Output to main.bbl
+This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
+I found no \citation commands---while reading file main.aux
+I found no \bibdata command---while reading file main.aux
+I found no \bibstyle command---while reading file main.aux
+(There were 3 error messages)
