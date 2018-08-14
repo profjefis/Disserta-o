@@ -63,7 +63,10 @@
 \coordinate [below=12cm] (midpoint) at (current page.north);
 \node at (current page.north west)
 {\begin{tikzpicture}[remember picture,overlay]
-\node[anchor=north west,inner sep=0pt] at (0,0) {\includegraphics[width=\paperwidth]{capa_2}}; % Background image
+\node[anchor=north west,inner sep=0pt] at (0,0) {\includegraphics[width=\paperwidth]
+%{capa_3}
+{capa_4}
+}; % Background image
 \draw[anchor=north] (midpoint) node [fill=ocre!30!white,fill opacity=0.6,text opacity=1,inner sep=1cm]{\Huge\centering\bfseries\sffamily\parbox[c][][t]{\paperwidth}{\centering Jogos Digitais: Uma Abordagem de Física de Partículas Elementares no Ensino Médio\\[15pt] % Book title
 {\Large MNPEF/IF-UnB}\\[20pt] % Subtitle
 {\huge Jefferson Rodrigues de Oliveira  \\Profª Drª Vanessa Carvalho de Andrade}}}; % Author name

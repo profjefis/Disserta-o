@@ -50,28 +50,28 @@
 \contentsline {section}{\numberline {6.5}An\'alise das Aulas Expositivas e Dialogadas}{58}{section.6.5}
 \contentsline {section}{\numberline {6.6}An\'alise da Pesquisa Final de Opini\~ao}{58}{section.6.6}
 \contentsline {chapter}{\numberline {7}Considera\c c\~oes Finais}{60}{chapter.7}
-\contentsline {chapter}{Refer\^encias}{62}{chapter.8}
+\contentsline {chapter}{Refer\^encias}{63}{chapter.8}
 \SetAppendixTocName {Ap\^endice}
-\contentsline {chapter}{\numberline {A}O Jogo Digital}{67}{appendix.A}
-\contentsline {section}{\numberline {A.1}Enredo}{68}{section.A.1}
-\contentsline {section}{\numberline {A.2}Tutorial}{76}{section.A.2}
-\contentsline {chapter}{\numberline {B}Question\'arios}{97}{appendix.B}
-\contentsline {section}{\numberline {B.1}Pesquisa Inicial}{98}{section.B.1}
-\contentsline {section}{\numberline {B.2}Resultados da Pesquisa Inicial}{100}{section.B.2}
-\contentsline {section}{\numberline {B.3}Pr\'e-Teste e P\'os-Teste}{103}{section.B.3}
-\contentsline {section}{\numberline {B.4}Resultados do Pr\'e-Teste e P\'os-Teste}{108}{section.B.4}
-\contentsline {section}{\numberline {B.5}Pesquisa Final de Opini\~ao}{117}{section.B.5}
-\contentsline {section}{\numberline {B.6}Resultados da Pesquisa Final de Opini\~ao}{122}{section.B.6}
-\contentsline {chapter}{\numberline {C}Atividades}{130}{appendix.C}
-\contentsline {section}{\numberline {C.1}Resenha Cr\IeC {\'\i }tica}{131}{section.C.1}
-\contentsline {chapter}{\numberline {D}Aula Expositiva}{135}{appendix.D}
-\contentsline {section}{\numberline {D.1}Slides}{136}{section.D.1}
+\contentsline {chapter}{\numberline {A}O Jogo Digital}{68}{appendix.A}
+\contentsline {section}{\numberline {A.1}Enredo}{69}{section.A.1}
+\contentsline {section}{\numberline {A.2}Tutorial}{77}{section.A.2}
+\contentsline {chapter}{\numberline {B}Question\'arios}{98}{appendix.B}
+\contentsline {section}{\numberline {B.1}Pesquisa Inicial}{99}{section.B.1}
+\contentsline {section}{\numberline {B.2}Resultados da Pesquisa Inicial}{101}{section.B.2}
+\contentsline {section}{\numberline {B.3}Pr\'e-Teste e P\'os-Teste}{104}{section.B.3}
+\contentsline {section}{\numberline {B.4}Resultados do Pr\'e-Teste e P\'os-Teste}{109}{section.B.4}
+\contentsline {section}{\numberline {B.5}Pesquisa Final de Opini\~ao}{118}{section.B.5}
+\contentsline {section}{\numberline {B.6}Resultados da Pesquisa Final de Opini\~ao}{123}{section.B.6}
+\contentsline {chapter}{\numberline {C}Atividades}{131}{appendix.C}
+\contentsline {section}{\numberline {C.1}Resenha Cr\IeC {\'\i }tica}{132}{section.C.1}
+\contentsline {chapter}{\numberline {D}Aula Expositiva}{136}{appendix.D}
+\contentsline {section}{\numberline {D.1}Slides}{137}{section.D.1}
 \SetAppendixTocName {Anexo}
-\contentsline {chapter}{\numberline {A}Manuais do Scratch}{142}{annex.a}
-\contentsline {section}{\numberline {A.1}Livros}{144}{section.a.1}
-\contentsline {section}{\numberline {A.2}V\IeC {\'\i }deos}{144}{section.a.2}
-\contentsline {section}{\numberline {A.3}Artigos}{145}{section.a.3}
-\contentsline {chapter}{\numberline {B}Materiais de Apoio}{146}{annex.b}
-\contentsline {section}{\numberline {B.1}Texto Base}{147}{section.b.1}
-\contentsline {section}{\numberline {B.2}V\IeC {\'\i }deo}{152}{section.b.2}
-\contentsline {chapter}{\numberline {C}Autoriza\c c\~oes}{153}{annex.c}
+\contentsline {chapter}{\numberline {A}Manuais do Scratch}{143}{annex.a}
+\contentsline {section}{\numberline {A.1}Livros}{145}{section.a.1}
+\contentsline {section}{\numberline {A.2}V\IeC {\'\i }deos}{145}{section.a.2}
+\contentsline {section}{\numberline {A.3}Artigos}{146}{section.a.3}
+\contentsline {chapter}{\numberline {B}Materiais de Apoio}{147}{annex.b}
+\contentsline {section}{\numberline {B.1}Texto Base}{148}{section.b.1}
+\contentsline {section}{\numberline {B.2}V\IeC {\'\i }deo}{153}{section.b.2}
+\contentsline {chapter}{\numberline {C}Autoriza\c c\~oes}{154}{annex.c}

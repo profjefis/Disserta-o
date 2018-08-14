@@ -458,8 +458,10 @@
 
 	\begin{figure}[t]
 		\centering
-		\includegraphics[width=0.9\linewidth]{Elementos_Pre_Textuais/Logo}
-		\label{fig:logodissertacao}
+		\centering
+		\includegraphics[width=0.25\linewidth]{Elementos_Pre_Textuais/LogoUnB}
+		%\includegraphics[width=0.9\linewidth]{Elementos_Pre_Textuais/Logo2}
+\label{fig:logodissertacao}
 	\end{figure}
    %\begin{spacing}{1.2}
    %\noindent \parbox[c]{\textwidth}{\itaformattitletext{\itatitletext}}
@@ -475,21 +477,25 @@
 	\end{center}
    \center
 
-   \vspace*{\stretch{2}}
-
-    \begin{spacing}{1.2}
-   \itaformatworktitle{\@title}
-   \end{spacing}
-
-   \vspace*{\stretch{2}}
-
-   \itaformatauthorname{\@authorfirst\ \@authorlast}
-   \vfill
-
    \vspace*{\stretch{1}}
 
+    \begin{spacing}{1.2}
+   %\itaformatworktitle{\@title}
+   \itaformatauthorname{\@authorfirst\ \@authorlast}
+   \end{spacing}
+
+   %\vspace*{\stretch{2}}
+   \vspace*{\stretch{1}}
+
+   %\itaformatauthorname{\@authorfirst\ \@authorlast}
+   \itaformatworktitle{\@title}
+   \vfill
+   
+   \vspace*{\stretch{2}}
+   %\vspace*{\stretch{1}}
+
    \begin{spacing}{1.0}
-   Bras\i{i}lia - UnB\\ \@publyear%\itacountrybabel \\ \@publyear \@publmonth
+   \textbf{Brasília}\\ \textbf{\@publyear}%\itacountrybabel \\ \@publyear \@publmonth
    \end{spacing}
 
   % \begin{spacing}{1.2}
@@ -529,7 +535,8 @@
 
 	\begin{figure}[t]
 		\centering
-		\includegraphics[width=0.9\linewidth]{Elementos_Pre_Textuais/Logo}
+		\includegraphics[width=0.25\linewidth]{Elementos_Pre_Textuais/LogoUnB}
+		%\includegraphics[width=0.9\linewidth]{Elementos_Pre_Textuais/Logo2}
 		\label{fig:logodissertacao}
 	\end{figure}
    %\begin{spacing}{1.2}
